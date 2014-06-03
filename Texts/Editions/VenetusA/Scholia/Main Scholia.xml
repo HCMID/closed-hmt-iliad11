@@ -22,14 +22,75 @@
                 <body>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.1" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> δ' ἐκ
+                                λεχέων:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.1</p>
                         </div>
                         <div type="comment">
-                            <p> 
-                            </p>
+                            <p>τὸ όλον τοῦτο νομιστέον, ὅτι ἀπο τοῦ <choice>
+                                    <abbr>☉</abbr>
+                                    <expan>ἡλίου</expan>
+                                </choice> ἡμέρα γέγονεν· <persName>Τιθωνοῖο</persName> δὲ ὡσεὶ
+                                ἔλεγεν <persName>Τιτωνοῖο</persName>
+                                <persName>Τιτὰν</persName> γὰρ <persName
+                                    n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>. ὅτι ἀπο
+                                    <persName n="urn:cite:hmt:pers.pers35">Λητοῦς</persName> τοῦτον
+                                δὲ καὶ ἤλιον φασιν· ἐκ λεχέων δὲ ὅτι σὺν αὐτῷ ἀεὶ θεωρεῖται ἡμέρα
+                                γάρ ἐστι πεφωτισμένος ἀὴρ ἡλιου ὑπερ γην ὄντος· μυθεύεται ὅτι
+                                    <persName>Τιθωνὸν</persName> τὸν <persName
+                                    n="urn:cite:hmt:pers.pers79">Λαομέδοντος</persName> καὶ στρυβοῦς
+                                τῆς <persName n="urn:cite:hmt:pers.pers111">Σκαμάνδρου</persName>
+                                υἱὸν <persName n="urn:cite:hmt:pers.pers145">Πριαμοῦ</persName> δὲ
+                                ἀδελφὸν ἐκ πρεπέστατον τῶν καθ' ἑαυτὸν ἐν Ἰλίῳ γενόμενον ἐρασθεῖσα
+                                ἀνήρ πασεν· ἡ ἡῶς καὶ μετεκομίσατο αὐτὸν εἰς τοὺς περὶ αἰθωπίαν
+                                τόπους καὶ τῆς τούτου μετέλαβεν κοίτης καὶ δύο παίδας ἐξ αὐτοῦ ἔσχεν
+                                ἡ μαθίωνα καὶ <persName n="urn:cite:hmt:pers.pers177"
+                                    >Μέμνονα</persName>. ἠ μαθίωνα μὲν ἀν εῖλεν <persName
+                                    n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> μὴ ἑῶντα
+                                δρέψασθαι τὰ χρύσθα μῆλα <persName n="urn:cite:hmt:pers.pers177"
+                                    >Μέμνωνα</persName> δὲ <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλεύς</persName>, αἰτήσασθαι δὲ τὸν
+                                    <persName>Τιθωνὸν</persName> παραυτῆς ἠοῦς. ἀθανασίαν. ὁ δὲ
+                                γέρων γενόμενος δια γὰρ ἄγνοιαν οὐ κητήσατο καὶ ἀγηρασίαν ἀχθόμενος.
+                                καὶ τῶν ἐν βίω μηδυνάμενος μεταλαμβάνειν παρεκάλει τὴν θεὸν ὅπως
+                                αὐτὸν τοῦ ζῆν μεταλλάξη. ἡ δὲ οὐ γὰρ ἦν αὐτὸν δυνατὸν
+                                        <w>ἀποθ<unclear>α</unclear>νεῖν</w> μετεβαλεν εἰς τείγιγα
+                                τὸν μουσικώτατον τῶν πτηνῶν ὅπως καὶ δια τῆς φωνῆς αὐτοῦ τέρποιτο
+                                διηνεκὼς ἀκούουσα⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.2" type="scholion">
+                        <div type="lemma">
+                            <p>ἀργαλέην πολέμοιο:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.4</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι πολέμοιο τέρας τὸν εἰδωλοποιούμενον πόλεμον τὸν ποιητικὸν τοῦ
+                                ἐνεργουμενου πολεμου ὡς καὶ ἐν ἄλλοις κυδοιμοῦ εἴδωλόν φησὶ τὴν
+                                    <persName n="urn:cite:hmt:pers.pers219">Ἐνυὼ</persName> ἔχειν ἡ
+                                μὲν ἔχουσα κυδοιμὸν ἀναιδέα, οἱ δὲ ἀστραπὴν φασὶ τὴν ἔριδα φέρειν ὡς
+                                καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName>·
+                                φησὶ γὰρ, ὡς δ' ὄτ' ὰν ἀστράπτη τεύχων ἢ πολὺν ἠὲ πόθι πτολέμοιο
+                                    <persName n="urn:cite:hmt:pers.pers88">Ἀπολλωνιος</persName> δὲ
+                                τὸν κυδοιμὸν ἀναιδέα δηϊοτήτα. οἱ δὲ τὸ ξίφος· δια γὰρ αὐτοῦ τὸν
+                                πόλεμον κατορθοῦσθαι οἱ δὲ λαμπάδα δια τὸ ἐμπυρσεύεσθαι τὰς τῶν
+                                πολεμούντων ψυχάς· μετα δὲ τὸ ἀργαλέην βραχὺ διασταλτεον προς τὸ
+                                συμφέρον⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.3" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
                         </div>
                     </div>
                 </body>
@@ -37,4 +98,3 @@
         </group>
     </text>
 </TEI>
-
