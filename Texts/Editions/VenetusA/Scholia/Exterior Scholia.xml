@@ -25,11 +25,21 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.40</p>
                         </div>
                         <div type="comment">
-                            <p> 
-                            </p>
+                            <p><del>ἐπιστεφέες</del>. </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:11.2" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.48</p>
+                        </div>
+                        <div type="comment">
+                            <p>αῦθ' ἐπι ταφρω/</p>
                         </div>
                     </div>
                 </body>
@@ -37,5 +47,3 @@
         </group>
     </text>
 </TEI>
-
-
