@@ -184,7 +184,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.9" type="scholion">
                         <div type="lemma">
-                            <p>ἐς <placeName n="urn:cite:hmt:place.place15">Τροίην</placeName>
+                            <p>ἐς <placeName n="urn:cite:hmt:place.place6">Τροίην</placeName>
                                 νηεσσιν ἀναπλεύσεσθαι⁑</p>
                         </div>
                         <div type="ref">
@@ -193,7 +193,7 @@
                         <div type="comment">
                             <p>ὅτι ἀνάπλουν τὸν ἐκ <placeName n="urn:cite:hmt:place.place36"
                                     >Πελοποννήσου</placeName> εἰς <placeName
-                                    n="urn:cite:hmt:place.place15">Τροίαν</placeName> πλοῦν
+                                    n="urn:cite:hmt:place.place6">Τροίαν</placeName> πλοῦν
                                 λέγει:</p>
                         </div>
                     </div>
@@ -457,7 +457,7 @@
                                 βαρύνει καὶ δῆλον ὅτι ὑγιῶς κοιμίζεται γὰρ ἡ ὀξεῖα ἐν τῇ συνεπείᾳ·
                                     <cit><q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:13.1"
                                         ><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ'
-                                    ἐπει οὖν <ref type="ethnic" n="urn:cite:hmt:place.place15"
+                                    ἐπει οὖν <ref type="ethnic" n="urn:cite:hmt:place.place6"
                                         >Τρωᾶς</ref> τε</q></cit>, ἔστι δὲ ὁ νοῦς τοιοῦτος, ἔφθασαν δὲ
                                 κατα τὸ πολὺ οἱ πεζοὶ τοὺς ἱππεῖς προδιαταγέντες ἐπι τῆς τάφρου⁑</p>
                         </div>
