@@ -184,7 +184,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.9" type="scholion">
                         <div type="lemma">
-                            <p>ἐς <placeName n="urn:cite:hmt:place.place15">Τροίην</placeName>
+                            <p>ἐς <placeName n="urn:cite:hmt:place.place6">Τροίην</placeName>
                                 νηεσσιν ἀναπλεύσεσθαι⁑</p>
                         </div>
                         <div type="ref">
@@ -193,7 +193,7 @@
                         <div type="comment">
                             <p>ὅτι ἀνάπλουν τὸν ἐκ <placeName n="urn:cite:hmt:place.place36"
                                     >Πελοποννήσου</placeName> εἰς <placeName
-                                    n="urn:cite:hmt:place.place15">Τροίαν</placeName> πλοῦν
+                                    n="urn:cite:hmt:place.place6">Τροίαν</placeName> πλοῦν
                                 λέγει:</p>
                         </div>
                     </div>
@@ -208,8 +208,8 @@
                             <p>κυρίως μὲν ὁδοὶ νῦν δὲ αἱ ἄνωθεν διήκουσαι τοῦ θώρακος ῥάβδοι ἕως τῶν
                                 κάτω μερῶν ῥαβδωτὸς γὰρ ἣν ὁ θώραξ. βαρύνεται δὲ τὸ οἶμος ὡς οῖκος
                                 δοκεῖ δέ μοι κατά τινα ἀφορμὴν φιλεῖ γὰρ τό πως τὰ εἰς σὺς λήγοντα
-                                δισύλλαβα μονογενῆ ἀπο τῆς <ref type="waw">οι</ref> διφθόγγου
-                                ἀρχόμενα βαρύνεσθαι ὁπότε πρὸς τὴν εἰς <ref type="waw">ος</ref>
+                                δισύλλαβα μονογενῆ ἀπο τῆς <rs type="waw">οι</rs> διφθόγγου
+                                ἀρχόμενα βαρύνεσθαι ὁπότε πρὸς τὴν εἰς <rs type="waw">ος</rs>
                                 συλλαβῆς συμφωνον ἢ σύμφωνα ὑπάρχει φημὶ δὲ, δια τὸ οῖός οὕτως γὰρ
                                 λέγεται δῆμος παρ <rs type="ethnic" n="urn:cite:hmt:place.place1"
                                     >Αθηναίοις</rs> κατ οξεῖαν τάσιν οἷον οἰκος οῖτος οἶκτος οἶνος
@@ -297,7 +297,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.33</p>
                         </div>
                         <div type="comment">
-                            <p>ἐὰν σὺν τῷ <ref type="waw">ϊ</ref> γράφηται ἤϊσαν περιεπορεύοντο εἰ
+                            <p>ἐὰν σὺν τῷ <rs type="waw">ϊ</rs> γράφηται ἤϊσαν περιεπορεύοντο εἰ
                                 δε μὴ ἀναστρεπτέον ἵνα ἦ περὶ ἦν⁑</p>
                         </div>
                     </div>
@@ -350,12 +350,12 @@
                         </div>
                         <div type="comment">
                             <p>οὕτως αἱ <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχου</persName>
-                                σὺν τῷ <ref type="waw">ρ</ref> ἀμφιστρεφέες καὶ τὰ ὑπομνήματα δὲ
+                                σὺν τῷ <rs type="waw">ρ</rs> ἀμφιστρεφέες καὶ τὰ ὑπομνήματα δὲ
                                 συμφωνεῖ λέγων ἓν μὲν εἶναι σῶμα τοῦ δράκοντος, κεφαλὰς δὲ τρεῖς
-                                περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <ref type="waw"
-                                    >ρ</ref> γράφοντες ἐξ ἐκείνου <q type="ref"
+                                περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <rs type="waw"
+                                    >ρ</rs> γράφοντες ἐξ ἐκείνου <cit><q type="ref"
                                     n="urn:cts:greekLit:tlg0012.tlg001.msA:11.36">τῇ δ' ἐπι μεν
-                                        <persName>Γοργῷ</persName> βλοσυρῶπις ἐστεφάνωται</q>⁑</p>
+                                        <persName>Γοργῷ</persName> βλοσυρῶπις ἐστεφάνωται</q></cit>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.21" type="scholion">
@@ -396,9 +396,9 @@
                                     <abbr>οὐνον</abbr>
                                     <expan>οὐρανον</expan>
                                 </choice> καὶ ὅτι ὅταν ἐπ <persName n="urn:cite:hmt:pers.pers1"
-                                    >Αχιλλέως</persName> λέγῃ <q type="ref"
+                                    >Αχιλλέως</persName> λέγῃ <cit><q type="ref"
                                     n="urn:cts:greekLit:tlg0012.tlg001.msA:22.32">ὣς τοῦ χαλκὸς
-                                    ἔλαμπε</q> νοητέον ἀπο τοῦ δώρατος τὴν λαμπηδόνα ἀνταυγεῖν τὰ
+                                    ἔλαμπε</q></cit> νοητέον ἀπο τοῦ δώρατος τὴν λαμπηδόνα ἀνταυγεῖν τὰ
                                 γὰρ ἄλλα χρυσὰ εἶχεν⁑</p>
                         </div>
                     </div>
@@ -413,7 +413,7 @@
                             <p>ὅτι δια τὸ μέτρον <choice>
                                     <sic>παρακείται</sic>
                                     <corr>παράκειται</corr>
-                                </choice> τὸ <ref type="waw">γ</ref> τὸν δε δοῦπον οὐκ ἂν εἴπη
+                                </choice> τὸ <rs type="waw">γ</rs> τὸν δε δοῦπον οὐκ ἂν εἴπη
                                 γδοῦπον⁑</p>
                         </div>
                     </div>
@@ -443,6 +443,45 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι φανερῶς πρυλέες οἱ πεζοί ἀντιδιέσταλκε γὰρ τοὺς ἱππεῖς⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.27" type="scholion">
+                        <div type="lemma">
+                            <p>φθὰν δὲ μέγ' ἰππήων:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.51</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                βαρύνει καὶ δῆλον ὅτι ὑγιῶς κοιμίζεται γὰρ ἡ ὀξεῖα ἐν τῇ συνεπείᾳ·
+                                    <cit><q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:13.1"
+                                        ><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ'
+                                    ἐπει οὖν <ref type="ethnic" n="urn:cite:hmt:place.place6"
+                                        >Τρωᾶς</ref> τε</q></cit>, ἔστι δὲ ὁ νοῦς τοιοῦτος, ἔφθασαν δὲ
+                                κατα τὸ πολὺ οἱ πεζοὶ τοὺς ἱππεῖς προδιαταγέντες ἐπι τῆς τάφρου⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.28" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπι τάφρω:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.51</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἐπι τάφρῳ καὶ τοῖς ἑξῆς καὶ τοῖς ἄνω δύναται συνάπτεσθαι βελτιον
+                                δὲ τοὺς ἑξῆς, ἵνα ἐπι μὲν τῆς τάφρου ἡ διακόσμησις ᾖ γεγονυῖα οἱ δὲ
+                                πεζοὶ προεληλύθότες τῶν ἱππέων εἰς τὸ πεδίον, ἀποβάντες γὰρ τῶν
+                                ἁρμάτων προέρχονται εἰς τὸ πεδίον, <sic>ἀποβάντες γὰρ τῶν ἁρμάτων
+                                    προέρχονται εἰς τὸ πεδίον</sic> φησὶ γοὖν <cit><q type="ref"
+                                    n="urn:cts:greekLit:tlg0012.tlg001.msA:11.47">ἡνιόχῳ μὲν ἕπειτα
+                                    ἑῷ</q></cit>, τὸ δὲ ἀπορούμενον, πῶς μέγα προειπὼν ἐπιφέρει <q
+                                    type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.52"
+                                    >ὁλίγον</q>. τοιοῦτόν ἐστι τὸ ἕτερον αὐτῶν χρονικόν ἐστι, τὸ δὲ
+                                ἕτερον τοπικόν; ἤτοι γὰρ πολὺ τοῦ πεδίου προῆλθον αὐτῶν, οἱ δὲ
+                                ταχέως ἀπεδίωξαν ὡς ἂν ἐφ αρματων. ἢ τῷ χρόνῳ πολὺ προέλαβον. οἱ
+                                πεζοὶ, οἱ δὲ ἱ̈ππεῖς τῷ καταχῦναι ὀλίγον ὄπισθεν ῆσαν⁑</p>
                         </div>
                     </div>
                 </body>
