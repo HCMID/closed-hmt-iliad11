@@ -6,7 +6,8 @@ project.ext {
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hmt-iliad11/Indices/data/venA-folioToImage.csv"
-    textToImage = "/vagrant/hmt-iliad11/Indices/data/venA-textToImage-Iliad.csv"
-    textToFolio = "/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-Iliad.csv"
+
+    textToImage = "/vagrant/hmt-iliad11/Indices/data/venA-textToImage-Iliad.csv,/vagrant/hmt-iliad11/Indices/data/venA-textToImage-scholia.csv"
+    textToFolio = "/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-Iliad.csv,/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-scholia.csv"
     
 }
