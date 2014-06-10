@@ -625,6 +625,30 @@
                                     type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.38" type="scholion">
+                        <div type="lemma">
+                            <p>οἱ δ' ἄλλοι οὔ σφιν,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.75</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν εξῆς ἀθέτησιν οὐ γὰρ ῆσαν ἐπι τοῦ αὐτοῦ πάντες οἱ θεοί τὸ δὲ
+                                πάρεσαν θεοὶ. τρίτη ἀπο τέλους ἡ οξεῖα ἐκ δὲ τοῦ παρῆσαν
+                                ἐγένετο,⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.39" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.75</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
