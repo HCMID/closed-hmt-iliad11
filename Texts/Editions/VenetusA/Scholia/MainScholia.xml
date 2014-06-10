@@ -605,6 +605,26 @@
                             <p>ὅτι φόβον τὴν φυγὴν ὃν δε ἡμεῖς φόβον δεός λέγει⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.37" type="scholion">
+                        <div type="lemma">
+                            <p>ἴ̈σας δ' ὑσμίνῃ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.72</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                ὑσμίνη γράφει χωρὶς τοῦ <rs type="waw">ϊ</rs> φησὶ γάρ ἥ τε τῶν <choice>
+                                    <abbr><rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                        >Ἑλλ</rs></abbr>
+                                    <expan><rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                            >Ἑλλήνων</rs></expan>
+                                </choice> ὑσμίνη καὶ βαρβάρων ἰσοκέφαλος ἦν, οἶον ἀμφοτέρων
+                                ἰσοκέφαλος ἦν ἡ μάχη τῶν τε <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> καὶ τῶν <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
