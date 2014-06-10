@@ -533,6 +533,78 @@
                                 </cit>⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.32" type="scholion">
+                        <div type="lemma">
+                            <p>οἷος δ' ἐκ νεφέων <choice>
+                                    <abbr>ἀναφαίνετ</abbr>
+                                    <expan>ἀναφαίνεται</expan>
+                                </choice> οὔλιος αστηρ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.62</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τινὲς γράφουσιν <q>αύλιος</q> ό ἐστιν ἕσπερος πρὸς ὃν αὐλίζεται
+                                τὰ ζῷα καὶ <persName n="urn:cite:hmt:pers.pers86"
+                                    >Καλλίμαχος</persName>
+                                <q>ὁς δύθμην <choice>
+                                        <sic>εἶσὶ</sic>
+                                        <corr>εἶσι</corr>
+                                    </choice> μετ ηελίου</q> ἐστι δὲ ἀλύπιος καὶ εἰς ἀνάπαυσιν ἄγων
+                                τὰ ζῷα· γραπτέον οὖν ωὔλιον ἵνα τὸν τοῦ κυνὸς σημαίνη τὸν φθοροποιὸν
+                                καὶ λαμπρότατον ᾡ καὶ τὸν <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλέα</persName>. ὁμοιοῖ <q>λάμφ' ὥς τ' ἀστὴρ ὥς ῥα τ' ὀπώρης
+                                    εἶσὶν</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.33" type="scholion">
+                        <div type="lemma">
+                            <p>ἄλλοτε δ' ἐν πυμάτοισι.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.65</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινες ὅτι τοῦτο ἀντι τοῦ ὅλως⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.34" type="scholion">
+                        <div type="lemma">
+                            <p>ὄγμον, ὡς ὄλβον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.68</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ γὰρ εἰσὸς λήγοντα δισύλλαβα μονογενῆ ἀρχόμενα ἀπο τοῦ <rs
+                                    type="waw">ο</rs> καὶ ἔχοντα δύο σύμφωνα ἠ πλείονα βαρύνεσθαι
+                                θέλει, οἶον ὄκνος ὄμβρος όρρος ὅσσος. Ὄρθος ὄρφοευς οὕτως καὶ ὄγμος:
+                                ἡ διπλῆ δὲ. ὅτι τὸ ἐλαύνωσι. τύπτωσι καὶ τίθησιν ἐπι τῆς χειρὸς
+                                πληγῆς τὸ ἐλάσσαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.35" type="scholion">
+                        <div type="lemma">
+                            <p>ταρφέα,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.69</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡς ὀξέα. νῦν γὰρ ἐπιθετικὸν τὸ τοιοῦτον⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.36" type="scholion">
+                        <div type="lemma">
+                            <p>δῄουν οὐδ' ἕτεροι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.71</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι φόβον τὴν φυγὴν ὃν δε ἡμεῖς φόβον δεός λέγει⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
