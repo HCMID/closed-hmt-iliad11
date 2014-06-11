@@ -481,12 +481,13 @@
                                     προέρχονται εἰς τὸ πεδίον</sic> φησὶ γοὖν <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.47"
                                         >ἡνιόχῳ μὲν ἕπειτα ἑῷ</q>
-                                </cit>, τὸ δὲ ἀπορούμενον, πῶς μέγα προειπὼν ἐπιφέρει <q type="ref"
-                                    n="urn:cts:greekLit:tlg0012.tlg001.msA:11.52">ὁλίγον</q>.
-                                τοιοῦτόν ἐστι τὸ ἕτερον αὐτῶν χρονικόν ἐστι, τὸ δὲ ἕτερον τοπικόν;
-                                ἤτοι γὰρ πολὺ τοῦ πεδίου προῆλθον αὐτῶν, οἱ δὲ ταχέως ἀπεδίωξαν ὡς
-                                ἂν ἐφ αρματων. ἢ τῷ χρόνῳ πολὺ προέλαβον. οἱ πεζοὶ, οἱ δὲ ἱ̈ππεῖς τῷ
-                                καταχῦναι ὀλίγον ὄπισθεν ῆσαν⁑</p>
+                                </cit>, τὸ δὲ ἀπορούμενον, πῶς μέγα προειπὼν ἐπιφέρει <cit>
+                                    <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.52"
+                                        >ὁλίγον</q>
+                                </cit>. τοιοῦτόν ἐστι τὸ ἕτερον αὐτῶν χρονικόν ἐστι, τὸ δὲ ἕτερον
+                                τοπικόν; ἤτοι γὰρ πολὺ τοῦ πεδίου προῆλθον αὐτῶν, οἱ δὲ ταχέως
+                                ἀπεδίωξαν ὡς ἂν ἐφ αρματων. ἢ τῷ χρόνῳ πολὺ προέλαβον. οἱ πεζοὶ, οἱ
+                                δὲ ἱ̈ππεῖς τῷ καταχῦναι ὀλίγον ὄπισθεν ῆσαν⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.29" type="scholion">
@@ -529,7 +530,8 @@
                             <p>ὅτι ἐνταῦθα μὲν γράφειν κεφαλὰς, οὐδὲν κωλύει περιφραστικῶς ἀπο
                                 μέρους τῶν όλων σημαινομένων κατα δὲ <title>τὸ τῆς Ἰλιάδος
                                     προοίμιον</title><ref/>, οὐκ ἐνδέχεται. ἐπιφερομένου τοῦ <cit>
-                                    <q n="urn:cts:greekLit:tlg5026.msA.hmt:1.4">αὐτοὺς δὲ ἑλώρια</q>
+                                    <q n="urn:cts:greekLit:tlg0012.tlg001.msA.hmt:1.4">αὐτοὺς δὲ
+                                        ἑλώρια</q>
                                 </cit>⁑</p>
                         </div>
                     </div>
@@ -646,8 +648,48 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.75</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ γὰρ <rs type="waw">ε</rs> προ τοῦ <rs type="waw">κ</rs> δασύνεσθαι θέλει. ὁπότε μὴ ἐκ
-                                κλίσεως τυγχάνοι ῥήματος ἡ ἀπὸ προθέσεως⁑</p>
+                            <p>τὸ γὰρ <rs type="waw">ε</rs> προ τοῦ <rs type="waw">κ</rs> δασύνεσθαι
+                                θέλει. ὁπότε μὴ ἐκ κλίσεως τυγχάνοι ῥήματος ἡ ἀπὸ προθέσεως⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.40" type="scholion">
+                        <div type="lemma">
+                            <p>‡πάντες δ' ᾐτιόωντο·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.75</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι ἓξ ὅτι ψεῦδος, οὐ γὰρ δύνανται πάντες τὸν <persName
+                                    n="urn:cite:hmt:pers.pers8">Δία</persName> αἰτιᾶσθαι βοηθοῦντα
+                                τοῖς <choice>
+                                    <sic><rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                        >Τρωσίν</rs></sic>
+                                    <corr><rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                            >Τρωσὶν</rs></corr>
+                                </choice> ἀλλ' οἱ τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> βοηθοι καὶ τὸ <cit>
+                                    <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.80">ὁ δὲ
+                                        νόσφι λιασθεις</q>
+                                </cit>
+                                <cit>
+                                    <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.81">τῶν
+                                        ἄλλων ἀπάνευθε καθέζετο</q>
+                                </cit> ὡς ἐπι ταυτὸ συνηθροισμένων αὐτῶν λέγει προείρηκε δὲ <cit>
+                                    <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.75">οἱ
+                                        δ' ἄλλοι οὔ σφιν πάρεσαν θεοὶ</q>
+                                </cit> ἀπό τε τοῦ <placeName n="urn:cite:hmt:place.place45"
+                                    >Ὀλύμπου</placeName> οὐ παρεισάγεται θεωρῶν τὴν ἐπι τῆς
+                                    <placeName n="urn:cite:hmt:place.place6">Τροίας</placeName>
+                                μαχην, ἀλλα δια τῆς <placeName n="urn:cite:hmt:place.place89"
+                                    >Ἴδης</placeName> ὅθεν δια τῶν ἑξῆς μεταλαμβάνει εἰς αὐτόν⁑
+                                τούτους καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφα</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice> ἠθέτει παρα δε <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνοδότῳ</persName>, οὐδὲ ἐγράφοντο⁑</p>
                         </div>
                     </div>
                 </body>
