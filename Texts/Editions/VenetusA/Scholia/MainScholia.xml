@@ -22,7 +22,7 @@
                 <body>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.1" type="scholion">
                         <div type="lemma">
-                            <p><persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> δ' ἐκ
+                            <p>‡<persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> δ' ἐκ
                                 λεχέων:</p>
                         </div>
                         <div type="ref">
@@ -218,7 +218,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.11" type="scholion">
                         <div type="lemma">
-                            <p>κυάνεοι δε δράκοντες:</p>
+                            <p>‡κυάνεοι δε δράκοντες:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.26</p>
@@ -450,7 +450,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.27" type="scholion">
                         <div type="lemma">
-                            <p>φθὰν δὲ μέγ' ἰππήων:</p>
+                            <p>‡φθὰν δὲ μέγ' ἰππήων:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.51</p>
