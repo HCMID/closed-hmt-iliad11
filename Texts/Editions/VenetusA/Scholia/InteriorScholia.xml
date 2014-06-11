@@ -107,6 +107,17 @@
                             <p/>
                         </div>
                         <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.76</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται οῖσιν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.8" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
                         </div>
                         <div type="comment">
