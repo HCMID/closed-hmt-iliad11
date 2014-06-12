@@ -32,10 +32,11 @@
                             <p>τὸ όλον τοῦτο νομιστέον, ὅτι ἀπο τοῦ <choice>
                                     <abbr>☉</abbr>
                                     <expan>ἡλίου</expan>
-                            </choice> ἡμέρα γέγονεν· <persName n="urn:cite:hmt:pers.pers483">Τιθωνοῖο</persName> δὲ ὡσεὶ
-                                ἔλεγεν <persName n="urn:cite:hmt:pers.pers483">Τιτωνοῖο</persName> Τιτὰν γὰρ <persName
-                                    n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>. ὅτι ἀπο
-                                    <persName n="urn:cite:hmt:pers.pers35">Λητοῦς</persName> τοῦτον
+                                </choice> ἡμέρα γέγονεν· <persName n="urn:cite:hmt:pers.pers483"
+                                    >Τιθωνοῖο</persName> δὲ ὡσεὶ ἔλεγεν <persName
+                                    n="urn:cite:hmt:pers.pers483">Τιτωνοῖο</persName> Τιτὰν γὰρ
+                                    <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>. ὅτι
+                                ἀπο <persName n="urn:cite:hmt:pers.pers35">Λητοῦς</persName> τοῦτον
                                 δὲ καὶ ἤλιον φασιν· ἐκ λεχέων δὲ ὅτι σὺν αὐτῷ ἀεὶ θεωρεῖται ἡμέρα
                                 γάρ ἐστι πεφωτισμένος ἀὴρ ἡλιου ὑπερ γην ὄντος· μυθεύεται ὅτι
                                     <persName>Τιθωνὸν</persName> τὸν <persName
@@ -50,14 +51,14 @@
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> μὴ ἑῶντα
                                 δρέψασθαι τὰ χρύσθα μῆλα <persName n="urn:cite:hmt:pers.pers177"
                                     >Μέμνωνα</persName> δὲ <persName n="urn:cite:hmt:pers.pers1"
-                                    >Ἀχιλλεύς</persName>, αἰτήσασθαι δὲ τὸν
-                                <persName n="urn:cite:hmt:pers.pers483">Τιθωνὸν</persName> παραυτῆς ἠοῦς. ἀθανασίαν. ὁ δὲ
-                                γέρων γενόμενος δια γὰρ ἄγνοιαν οὐ κητήσατο καὶ ἀγηρασίαν ἀχθόμενος.
-                                καὶ τῶν ἐν βίω μηδυνάμενος μεταλαμβάνειν παρεκάλει τὴν θεὸν ὅπως
-                                αὐτὸν τοῦ ζῆν μεταλλάξη. ἡ δὲ οὐ γὰρ ἦν αὐτὸν δυνατὸν
-                                        <w>ἀποθ<unclear>α</unclear>νεῖν</w> μετεβαλεν εἰς τείγιγα
-                                τὸν μουσικώτατον τῶν πτηνῶν ὅπως καὶ δια τῆς φωνῆς αὐτοῦ τέρποιτο
-                                διηνεκὼς ἀκούουσα⁑</p>
+                                    >Ἀχιλλεύς</persName>, αἰτήσασθαι δὲ τὸν <persName
+                                    n="urn:cite:hmt:pers.pers483">Τιθωνὸν</persName> παραυτῆς ἠοῦς.
+                                ἀθανασίαν. ὁ δὲ γέρων γενόμενος δια γὰρ ἄγνοιαν οὐ κητήσατο καὶ
+                                ἀγηρασίαν ἀχθόμενος. καὶ τῶν ἐν βίω μηδυνάμενος μεταλαμβάνειν
+                                παρεκάλει τὴν θεὸν ὅπως αὐτὸν τοῦ ζῆν μεταλλάξη. ἡ δὲ οὐ γὰρ ἦν
+                                αὐτὸν δυνατὸν <w>ἀποθ<unclear>α</unclear>νεῖν</w> μετεβαλεν εἰς
+                                τείγιγα τὸν μουσικώτατον τῶν πτηνῶν ὅπως καὶ δια τῆς φωνῆς αὐτοῦ
+                                τέρποιτο διηνεκὼς ἀκούουσα⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.2" type="scholion">
@@ -354,8 +355,7 @@
                                 περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <rs type="waw"
                                     >ρ</rs> γράφοντες ἐξ ἐκείνου <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.36">τῇ
-                                        δ' ἐπι μεν γοργῷ βλοσυρῶπις
-                                        ἐστεφάνωται</q>
+                                        δ' ἐπι μεν γοργῷ βλοσυρῶπις ἐστεφάνωται</q>
                                 </cit>⁑</p>
                         </div>
                     </div>
@@ -833,9 +833,53 @@
                         <div type="comment">
                             <p>ἐπειδὴ φησὶ τοὺς ἐπὶ τοῖς στήθεσιν αὐτῶν χιτῶνας ἀφείλατο· γυμνοὺς
                                 καὶ φαινομένους τοὺς νεκροὺς κατέλιπεν. ἡ διπλῆ δὲ ὅτι ἔν τισι
-                                γράφεται <q>ἐπεὶ κλυτὰ τεύχε' ἀπηύρα</q>· ἔσονται δὲ αὐτοὶ οἱ νεκροι τοῖς
-                                στήθεσι παμφαίνοντες. οὐ λέγει δὲ τοῦτο ἀλλα τοὺς ἐπι τοῖς στήθεσι
-                                παμφαίνοντας χιτῶνας⁑</p>
+                                γράφεται <q>ἐπεὶ κλυτὰ τεύχε' ἀπηύρα</q>· ἔσονται δὲ αὐτοὶ οἱ νεκροι
+                                τοῖς στήθεσι παμφαίνοντες. οὐ λέγει δὲ τοῦτο ἀλλα τοὺς ἐπι τοῖς
+                                στήθεσι παμφαίνοντας χιτῶνας⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.50" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὰρ ὃ βή ρ' <persName>῀Ϊσον</persName> τε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> ἔξω τοῦ
+                                    <q>ρ βῆ <persName>῀Ϊσον</persName></q> μὴ ἐνφέρεσθαι δὲ φησὶν ὁ
+                                    <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> νῦν
+                                ἐν τοῖς <persName>Ποσεὶδίππου</persName> ἐπι γράμμασι τὸν <rs
+                                    type="waw">Βήρισον</rs>, ἀλλ' ἐν τῷ λεγομένῳ σωρῷ εὑρεῖν,
+                                εὔλογον δὲ φησὶν ἐξελεγχόμενον αὐτὸν ἀπαλεῖψαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.51" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὰρ ὅ βή ρ' <persName>Ϊσόν</persName> τε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατα διάστασιν ἐστι <q>βή ρα</q> εῖτα <q><persName>Ἰσόν</persName> τε
+                                    καὶ <persName>Ἄντιφον</persName></q>. τὸ μέντοι ἐπιφερόμενον ἐν
+                                τῇ συντάξει ἐν μετοχῇ ὀφείλει κατακλείεσθαι ἐξεναρίζων ὡς δείκνυται
+                                ἐν τῷ περι συντάξεων⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.51" type="scholion">
+                        <div type="lemma">
+                            <p>υἱε δύω <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName>
+                                νόθον καὶ γνήσιον ἄμφω:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπι τὸ γνήσιον βραχὺ διασταλτέον καὶ γὰρ σαφέστερον τὸ οὕτως χωρίζειν
+                               <q>ἄμφω εἰν ενὶ δίφρῳ</q> καὶ ἀδιανόητον ἐστὶ τὸ συνάπτειν <q>νόθον καὶ
+                                γνήσιον ἄμφω</q>⁑</p>
                         </div>
                     </div>
                 </body>
