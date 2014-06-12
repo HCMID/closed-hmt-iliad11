@@ -32,9 +32,8 @@
                             <p>τὸ όλον τοῦτο νομιστέον, ὅτι ἀπο τοῦ <choice>
                                     <abbr>☉</abbr>
                                     <expan>ἡλίου</expan>
-                                </choice> ἡμέρα γέγονεν· <persName>Τιθωνοῖο</persName> δὲ ὡσεὶ
-                                ἔλεγεν <persName>Τιτωνοῖο</persName>
-                                <persName>Τιτὰν</persName> γὰρ <persName
+                            </choice> ἡμέρα γέγονεν· <persName n="urn:cite:hmt:pers.pers483">Τιθωνοῖο</persName> δὲ ὡσεὶ
+                                ἔλεγεν <persName n="urn:cite:hmt:pers.pers483">Τιτωνοῖο</persName> Τιτὰν γὰρ <persName
                                     n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>. ὅτι ἀπο
                                     <persName n="urn:cite:hmt:pers.pers35">Λητοῦς</persName> τοῦτον
                                 δὲ καὶ ἤλιον φασιν· ἐκ λεχέων δὲ ὅτι σὺν αὐτῷ ἀεὶ θεωρεῖται ἡμέρα
@@ -52,7 +51,7 @@
                                 δρέψασθαι τὰ χρύσθα μῆλα <persName n="urn:cite:hmt:pers.pers177"
                                     >Μέμνωνα</persName> δὲ <persName n="urn:cite:hmt:pers.pers1"
                                     >Ἀχιλλεύς</persName>, αἰτήσασθαι δὲ τὸν
-                                    <persName>Τιθωνὸν</persName> παραυτῆς ἠοῦς. ἀθανασίαν. ὁ δὲ
+                                <persName n="urn:cite:hmt:pers.pers483">Τιθωνὸν</persName> παραυτῆς ἠοῦς. ἀθανασίαν. ὁ δὲ
                                 γέρων γενόμενος δια γὰρ ἄγνοιαν οὐ κητήσατο καὶ ἀγηρασίαν ἀχθόμενος.
                                 καὶ τῶν ἐν βίω μηδυνάμενος μεταλαμβάνειν παρεκάλει τὴν θεὸν ὅπως
                                 αὐτὸν τοῦ ζῆν μεταλλάξη. ἡ δὲ οὐ γὰρ ἦν αὐτὸν δυνατὸν
@@ -178,7 +177,7 @@
                                     <expan>οὕτως</expan>
                                 </choice> εἴρηκεν εἰς <placeName n="urn:cite:hmt:place.place98"
                                     >Κύπρον</placeName> ἠκούετο. δια τὸ εἰς τόπον ἐκ τόπου
-                                διαγγέλλεσθαι ὅμοιον τῷ <placeName n="urn:cite:hmt:place.place"
+                                διαγγέλλεσθαι ὅμοιον τῷ <placeName n="urn:cite:hmt:place.place240"
                                     >Σκάνδειαν</placeName> δ' ἄρα δῶκεν⁑</p>
                         </div>
                     </div>
@@ -321,7 +320,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.18" type="scholion">
                         <div type="lemma">
-                            <p>τῇ δ' ἐπι μὲν <persName>Γοργῷ</persName></p>
+                            <p>τῇ δ' ἐπι μὲν γοργῷ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.36</p>
@@ -355,7 +354,7 @@
                                 περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <rs type="waw"
                                     >ρ</rs> γράφοντες ἐξ ἐκείνου <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:11.36">τῇ
-                                        δ' ἐπι μεν <persName>Γοργῷ</persName> βλοσυρῶπις
+                                        δ' ἐπι μεν γοργῷ βλοσυρῶπις
                                         ἐστεφάνωται</q>
                                 </cit>⁑</p>
                         </div>
