@@ -1,13 +1,15 @@
 project.ext {
 
     // URN of folio or papyrus column you want to verify:
-    folio = "urn:cite:hmt:msA.137v"
+    //folio = "urn:cite:hmt:msA.137v"
 
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hmt-iliad11/Indices/data/venA-folioToImage.csv"
 
-    textToImage = "/vagrant/hmt-iliad11/Indices/data/venA-textToImage-Iliad.csv,/vagrant/hmt-iliad11/Indices/data/venA-textToImage-scholia.csv"
-    textToFolio = "/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-Iliad.csv,/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-scholia.csv"
+    textToImage = "/vagrant/hmt-iliad11/Indices/data/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/hmt-iliad11/Indices/data/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "/vagrant/hmt-iliad11/Collections/data/venA-exterior.csv,/vagrant/hmt-iliad11/Collections/data/venA-intermarginal.csv,/vagrant/hmt-iliad11/Collections/data/venA-interior.csv,/vagrant/hmt-iliad11/Collections/data/venA-mainScholia.csv,/vagrant/hmt-iliad11/Collections/data/venA-interlinear.csv"
     
 }
