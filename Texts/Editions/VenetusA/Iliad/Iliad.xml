@@ -21,9 +21,8 @@
     <text>
         <body>
             <div n="11">
-                <l n="1">ἠὼς δ' ἐκ λεχέων παρ' ἀγαυοῦ <persName n="urn:cite:hmt:pers.pers483"
-                        >Τιθωνοῖο</persName>
-                </l>
+                <l n="1"><persName n="urn:cite:hmt:pers.pers286">Ἠὼς</persName> δ' ἐκ λεχέων παρ'
+                    ἀγαυοῦ <persName n="urn:cite:hmt:pers.pers483">Τιθωνοῖο</persName></l>
                 <l n="2">ὤρνυθ'· ἵν ἀθανάτοισι φόως φέροι ἠδὲ βροτοῖσι·</l>
                 <l n="3"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ' <persName
                         n="urn:cite:hmt:pers.pers156">Ἔριδα</persName> προΐαλλε θοὰς ἐπι νῆας <rs
@@ -152,7 +151,8 @@
                     πόλιν. καὶ νῆας <ref type="ethnic" n="urn:cite:hmt:place.place3"
                     >Ἀχαιῶν</ref>.</l>
                 <l n="83">χαλκοῦ τε στεροπήν. ὀλλύντάς τ'. ὀλλυμένους τε·</l>
-                <l n="84">ὄφρα μὲν ἠὼς ἦν καὶ ἀέξετο ἱ̈ερὸν ἦμαρ.</l>
+                <l n="84">ὄφρα μὲν <persName n="urn:cite:hmt:pers.pers286">ἠὼς</persName> ἦν καὶ
+                    ἀέξετο ἱ̈ερὸν ἦμαρ.</l>
                 <l n="85">τόφρα μάλ' ἀμφοτέρων βέλε' ἥπτετο. πῖπτε δὲ λαός·</l>
                 <l n="86">ῆμος δὲ δρυτόμος περ ἀνὴρ ὁπλίσσατο δεῖπον</l>
                 <l n="87">οὔρεος ἐν βήσσῃσιν· ἐπεί τ' ἐκορέσσατο χεῖρας.</l>
