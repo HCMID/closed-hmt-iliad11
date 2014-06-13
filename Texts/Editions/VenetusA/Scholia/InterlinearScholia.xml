@@ -513,7 +513,7 @@
                         <div type="comment">
                             <p>ἀντι τοῦ έκαμεν:</p>
                         </div>
-                    </div>                  
+                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.44" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -600,6 +600,53 @@
                         </div>
                         <div type="comment">
                             <p>ἀφίλατο⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.52" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.104</p>
+                        </div>
+                        <div type="comment">
+                            <p>παραβάτης ην:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.53" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.104</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>αντι</expan>
+                                </choice> οὕς τινας</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.54" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.105</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν τοῖς τροχέσι τόποις εδησεν·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.55" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.105</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπαλοῖς:</p>
                         </div>
                     </div>
                 </body>
