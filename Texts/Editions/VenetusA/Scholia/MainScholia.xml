@@ -39,7 +39,7 @@
                                 ἀπο <persName n="urn:cite:hmt:pers.pers35">Λητοῦς</persName> τοῦτον
                                 δὲ καὶ ἤλιον φασιν· ἐκ λεχέων δὲ ὅτι σὺν αὐτῷ ἀεὶ θεωρεῖται ἡμέρα
                                 γάρ ἐστι πεφωτισμένος ἀὴρ ἡλιου ὑπερ γην ὄντος· μυθεύεται ὅτι
-                                    <persName>Τιθωνὸν</persName> τὸν <persName
+                                    <persName n="urn:cite:hmt:pers.pers483">Τιθωνὸν</persName> τὸν <persName
                                     n="urn:cite:hmt:pers.pers79">Λαομέδοντος</persName> καὶ στρυβοῦς
                                 τῆς <persName n="urn:cite:hmt:pers.pers111">Σκαμάνδρου</persName>
                                 υἱὸν <persName n="urn:cite:hmt:pers.pers145">Πριαμοῦ</persName> δὲ
@@ -840,30 +840,30 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.50" type="scholion">
                         <div type="lemma">
-                            <p>αὐτὰρ ὃ βή ρ' <persName>῀Ϊσον</persName> τε·</p>
+                            <p>αὐτὰρ ὃ βή ρ' <persName n="urn:cite:hmt:pers.pers486">῀Ϊσον</persName> τε·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> ἔξω τοῦ
-                                    <q>ρ βῆ <persName>῀Ϊσον</persName></q> μὴ ἐνφέρεσθαι δὲ φησὶν ὁ
+                                    <q>ρ βῆ <persName n="urn:cite:hmt:pers.pers486">῀Ϊσον</persName></q> μὴ ἐνφέρεσθαι δὲ φησὶν ὁ
                                     <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> νῦν
-                                ἐν τοῖς <persName>Ποσεὶδίππου</persName> ἐπι γράμμασι τὸν <rs
+                                ἐν τοῖς <persName n="urn:cite:hmt:pers.pers489">Ποσεὶδίππου</persName> ἐπι γράμμασι τὸν <rs
                                     type="waw">Βήρισον</rs>, ἀλλ' ἐν τῷ λεγομένῳ σωρῷ εὑρεῖν,
                                 εὔλογον δὲ φησὶν ἐξελεγχόμενον αὐτὸν ἀπαλεῖψαι⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.51" type="scholion">
                         <div type="lemma">
-                            <p>αὐτὰρ ὅ βή ρ' <persName>Ϊσόν</persName> τε</p>
+                            <p>αὐτὰρ ὅ βή ρ' <persName n="urn:cite:hmt:pers.pers486">Ϊσόν</persName> τε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
                         </div>
                         <div type="comment">
-                            <p>κατα διάστασιν ἐστι <q>βή ρα</q> εῖτα <q><persName>Ἰσόν</persName> τε
-                                    καὶ <persName>Ἄντιφον</persName></q>. τὸ μέντοι ἐπιφερόμενον ἐν
+                            <p>κατα διάστασιν ἐστι <q>βή ρα</q> εῖτα <q><persName n="urn:cite:hmt:pers.pers486">Ἰσόν</persName> τε
+                                    καὶ <persName n="urn:cite:hmt:pers.pers487">Ἄντιφον</persName></q>. τὸ μέντοι ἐπιφερόμενον ἐν
                                 τῇ συντάξει ἐν μετοχῇ ὀφείλει κατακλείεσθαι ἐξεναρίζων ὡς δείκνυται
                                 ἐν τῷ περι συντάξεων⁑</p>
                         </div>
@@ -884,7 +884,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.53" type="scholion">
                         <div type="lemma">
-                            <p><persName>Ἄντιβος</persName> ἆν παρέβασκε:</p>
+                            <p><persName n="urn:cite:hmt:pers.pers487">Ἄντιβος</persName> ἆν παρέβασκε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.104</p>
@@ -935,7 +935,7 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.56" type="scholion">
                         <div type="lemma">
-                            <p><persName>Ἄντιφον</persName> αὖ παρα οὗς</p>
+                            <p><persName n="urn:cite:hmt:pers.pers487">Ἄντιφον</persName> αὖ παρα οὗς</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.109</p>
