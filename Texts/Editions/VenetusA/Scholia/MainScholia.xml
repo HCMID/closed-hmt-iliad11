@@ -1025,6 +1025,54 @@
                                 δεδεγμενος⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.62" type="scholion">
+                        <div type="lemma">
+                            <p>‡ὁμοῦ δ' ἔχον: ὡκέας ἵππους:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.127</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁμοῦ ἐπεχείρουν κρατεῖν τοὺς ἵππους δια τὸ ἐκφεύγειν τὰς ἡνίας⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.63" type="scholion">
+                        <div type="lemma">
+                            <p>ἐκ γάρ σφεας:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.128</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τῇ αιτιατικῃ ἀντι τῆς γενικῆς ἀντὶ τοῦ <q>αὐτῶν</q>:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.64" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> τῲ δ'
+                                αὐτ'</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.130</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <choice>
+                                    <abbr>δωδεκασύλλα</abbr>
+                                    <expan>δωδεκασύλλαβος</expan>
+                                </choice> ὁ στίχος καὶ σπανίως χρῆται ὡς καὶ ἐν <choice>
+                                    <abbr><title n="urn:cts:greekLit:tlg0012.tlg002"
+                                        >οδ</title></abbr>
+                                    <expan><title>Ὀδυσσείᾳ</title></expan>
+                                </choice>
+                                <cit>
+                                    <ref n="urn:cts:greekLit:tlg0012.tlg002:21.15"/>
+                                    <q>τὼ δ' ἐν <placeName n="urn:cite:hmt:place.place185"
+                                            >Μεσσήνῃ</placeName> ξυμβλήτην ἀλλήλοιϊν</q>
+                                </cit>. ἡ δὲ ἀναφορὰ πρὸς ἐπίκρισιν τῆς στιχοποιΐας ὅτι
+                                εὐτελεῖς τῇ κατασκευῇ δοκοῦσιν εἶναι οἱ τοιοῦτοι. καὶ ὅτι τὸ
+                                γουναζέσθην καταχρηστικῶς ἀντι τοῦ ϊκέτευον⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

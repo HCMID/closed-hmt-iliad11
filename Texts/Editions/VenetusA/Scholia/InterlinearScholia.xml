@@ -770,6 +770,28 @@
                             <p>λλείπει ἡ παρα</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.67" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.128</p>
+                        </div>
+                        <div type="comment">
+                            <p>λαμπρα</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.68" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.129</p>
+                        </div>
+                        <div type="comment">
+                            <p>εταράχθησαν</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
