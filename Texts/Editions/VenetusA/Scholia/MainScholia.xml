@@ -1079,6 +1079,41 @@
                                 καταχρηστικῶς ἀντι τοῦ ϊκέτευον⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.65" type="scholion">
+                        <div type="lemma">
+                            <p>ἀμείλικτον· δ' όπ' άκουσαν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.137</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>ἀμείλικτον</q> ἀπηνῆ καὶ σκληρὰν καὶ ἀπαράκλητον καὶ ἀφιλάνθρωπον.
+                                καὶ ἀνηλεῆ καὶ αδυσώπητον⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.66" type="scholion">
+                        <div type="lemma">
+                            <p><choice>
+                                    <sic>ἀγγελεήν</sic>
+                                    <corr>ἀγγελίην</corr>
+                                </choice>,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.140</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι τοῦ εἰς πρεσβείαν. δύο δὲ σημαίνει ἡ λέξις παρα τῷ ποιητῇ τὸ
+                                ἄγγελμα. ὡς ἐν τῷ <cit>
+                                    <ref n="urn:cts:greekLit:tlg0012.tlg002:15.314"/>
+                                    <q>ἀγγελίην εἴποιμι περίφρονι <persName
+                                            n="urn:cite:hmt:pers.pers284">Πηνελοπείη</persName></q>
+                                </cit>. καὶ τὸν ἄγγελον ἤτοι τὸν πρέσβιν ὡς ἐνταῦθα <cit>
+                                    <ref n="urn:cts:greekLit:tlg0012.tlg001:msA:11.140"/>
+                                    <q>ἀγγελίην ἐλθόντα συν αντιθέῳ <persName
+                                            n="urn:cite:hmt:pers.pers119">Μενελάῳ</persName></q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

@@ -756,7 +756,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.122</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>υπμένοντ</abbr><expan>ὑπομένοντ</expan></choice> τὴν μάχην πολεμικήν·</p>
+                            <p><choice>
+                                    <abbr>υπμένοντ</abbr>
+                                    <expan>ὑπομένοντ</expan>
+                                </choice> τὴν μάχην πολεμικήν·</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.66" type="scholion">
@@ -790,6 +793,39 @@
                         </div>
                         <div type="comment">
                             <p>εταράχθησαν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.69" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.130</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶν γονάτων ήπτοντο ϊκέτευον·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.70" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.136</p>
+                        </div>
+                        <div type="comment">
+                            <p>προσεφώνουν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.71" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.137</p>
+                        </div>
+                        <div type="comment">
+                            <p>αηδῆ σκληραν:</p>
                         </div>
                     </div>
                 </body>

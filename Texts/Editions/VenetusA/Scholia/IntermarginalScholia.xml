@@ -240,9 +240,26 @@
                         </div>
                         <div type="comment">
                             <p><choice>
-                                <abbr>ουτ</abbr>
-                                <expan>οὕτως</expan>
-                            </choice> ἐναντίον:</p>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ἐναντίον:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.18" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.132</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνόδοτος</persName></expan>
+                                </choice>
+                                <q>πολλα δ' ἐν <persName>Αντιμαχου</persName> πατρὸς</q>⁑</p>
                         </div>
                     </div>
                 </body>
