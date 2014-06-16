@@ -1114,6 +1114,89 @@
                                 </cit>⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.67" type="scholion">
+                        <div type="lemma">
+                            <p>μὴδ' ἑξέμεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.141</p>
+                        </div>
+                        <div type="comment">
+                            <p>δασυντέον τὸ γὰρ εἶναι καὶ ἀφεῖναι παραγώγως γέγονεν ἑμεναι ὡς τὸ
+                                θεῖναι θέμεναι⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.68" type="scholion">
+                        <div type="lemma">
+                            <p>νῦν μὲν δεὶ τοῦ <choice>
+                                    <abbr>πρς</abbr>
+                                    <expan>πατρός</expan>
+                                </choice></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.142</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName>
+                                γράφει <q>οὗ πατρὸς</q>. ἔστι δὲ ἑνικὸν τοῦ ἑαυτῆς ἡ τοῦ ἑαυτοῦ,
+                                ὅπερ οὐχ αρμόζει. ἐλλείπει δὲ ἡ πρόθεσις. καὶ ἐστιν ἀντι τοῦ περὶ
+                                τοῦ <choice>
+                                    <abbr>πρς</abbr>
+                                    <expan>πατρός</expan>
+                                </choice>· τινὰς μέντοι φησὶν <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName>
+                                <q>σφοῦ <choice>
+                                        <abbr>πρς</abbr>
+                                        <expan>πατρός</expan>
+                                    </choice></q> αὐτὸς δὲ <q>τοῦ <choice>
+                                        <abbr>πρς</abbr>
+                                        <expan>πατρός</expan>
+                                    </choice></q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.69" type="scholion">
+                        <div type="lemma">
+                            <p>δουρὶ βαλὼν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.144</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀπο τῆς πληγῆς οὐκ επι τὴν πληγὴν πίπτει⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.70" type="scholion">
+                        <div type="lemma">
+                            <p>ὄλμον δ' ὡς ἔσσευε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.147</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅλμου δίκην εἴασεν αὐτὸν ῥίψας κυλίεσθαι. ὄλμος δέ ἐστι κοῖλος λίθος
+                                εἰσ ὸν κόπτουσιν ὄσπρια καὶ ἄλλα <choice>
+                                    <sic>τινὰ</sic>
+                                    <corr>τινά</corr>
+                                </choice>. ἡ διπλὴ δὲ ὅτι ἅπαξ ἐνταῦθα κέχρηται καὶ ὅτι ἐν <title
+                                    n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιάδι</title> εὐτελέσι
+                                κέχρηται λεξιδίους οὐ μόνον ἐν <title
+                                    n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</title>
+                                <q>χοίνικος</q> καὶ <q>λύχνου</q> προς τοὺς Χωρίζοντας⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.71" type="scholion">
+                        <div type="lemma">
+                            <p>πεζοὶ μὲν πεζοὺς όλεκον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.150</p>
+                        </div>
+                        <div type="comment">
+                            <p>πολὺ βέλτιον ταῦτα ἀφ' ἑτέρας ἀρχῆς ἀναγινώσκειν· καὶ γὰρ ἡ προάγουσα
+                                διάνοια πεπλήρωται κοινοῦ νοουμένου τοῦ ἐνόρουσαν· καὶ ἄλλως,
+                                ἀσυνδέτοις ἐπι τῶν μεταβάσεων ἥδεται⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
