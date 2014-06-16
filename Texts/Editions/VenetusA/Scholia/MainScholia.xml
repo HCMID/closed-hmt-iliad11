@@ -363,7 +363,7 @@
                                 συμφωνεῖ λέγων ἓν μὲν εἶναι σῶμα τοῦ δράκοντος, κεφαλὰς δὲ τρεῖς
                                 περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <rs type="waw"
                                     >ρ</rs> γράφοντες ἐξ ἐκείνου <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.36"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.36</ref>
                                     <q>τῇ δ' ἐπι μεν γοργῷ βλοσυρῶπις ἐστεφάνωται</q>
                                 </cit>⁑</p>
                         </div>
@@ -407,7 +407,7 @@
                                     <expan>οὐρανον</expan>
                                 </choice> καὶ ὅτι ὅταν ἐπ <persName n="urn:cite:hmt:pers.pers1"
                                     >Αχιλλέως</persName> λέγῃ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:22.32"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.32</ref>
                                     <q>ὣς τοῦ χαλκὸς ἔλαμπε</q>
                                 </cit> νοητέον ἀπο τοῦ δώρατος τὴν λαμπηδόνα ἀνταυγεῖν τὰ γὰρ ἄλλα
                                 χρυσὰ εἶχεν⁑</p>
@@ -466,7 +466,7 @@
                         <div type="comment">
                             <p>ὁ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
                                 βαρύνει καὶ δῆλον ὅτι ὑγιῶς κοιμίζεται γὰρ ἡ ὀξεῖα ἐν τῇ συνεπείᾳ· <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:13.1"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:13.1</ref>
                                     <q><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ' ἐπει
                                         οὖν <ref type="ethnic" n="urn:cite:hmt:place.place6"
                                             >Τρωᾶς</ref> τε</q>
@@ -487,10 +487,10 @@
                                 πεζοὶ προεληλύθότες τῶν ἱππέων εἰς τὸ πεδίον, ἀποβάντες γὰρ τῶν
                                 ἁρμάτων προέρχονται εἰς τὸ πεδίον, <sic>ἀποβάντες γὰρ τῶν ἁρμάτων
                                     προέρχονται εἰς τὸ πεδίον</sic> φησὶ γοὖν <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.47"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.47</ref>
                                     <q>ἡνιόχῳ μὲν ἕπειτα ἑῷ</q>
                                 </cit>, τὸ δὲ ἀπορούμενον, πῶς μέγα προειπὼν ἐπιφέρει <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.52"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.52</ref>
                                     <q>ὁλίγον</q>
                                 </cit>. τοιοῦτόν ἐστι τὸ ἕτερον αὐτῶν χρονικόν ἐστι, τὸ δὲ ἕτερον
                                 τοπικόν; ἤτοι γὰρ πολὺ τοῦ πεδίου προῆλθον αὐτῶν, οἱ δὲ ταχέως
@@ -539,7 +539,8 @@
                                 μέρους τῶν όλων σημαινομένων κατα δὲ <title
                                     n="urn:cts:greekLit:tlg0012.tlg001">τὸ τῆς Ἰλιάδος
                                     προοίμιον</title>, οὐκ ἐνδέχεται. ἐπιφερομένου τοῦ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA.hmt:1.4"/>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001.msA.hmt:1.4</ref>
                                     <q>αὐτοὺς δὲ ἑλώρια</q>
                                 </cit>⁑</p>
                         </div>
@@ -682,10 +683,10 @@
                                     <q>ὁ δὲ νόσφι λιασθεις</q>
                                 </cit>
                                 <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.81"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.81</ref>
                                     <q>τῶν ἄλλων ἀπάνευθε καθέζετο</q>
                                 </cit> ὡς ἐπι ταυτὸ συνηθροισμένων αὐτῶν λέγει προείρηκε δὲ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.75"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.75</ref>
                                     <q>οἱ δ' ἄλλοι οὔ σφιν πάρεσαν θεοὶ</q>
                                 </cit> ἀπό τε τοῦ <placeName n="urn:cite:hmt:place.place45"
                                     >Ὀλύμπου</placeName> οὐ παρεισάγεται θεωρῶν τὴν ἐπι τῆς
@@ -821,10 +822,10 @@
                         </div>
                         <div type="comment">
                             <p>διεβρέχετο ὡς τὸ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:5.100"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:5.100</ref>
                                     <q>παλάσσετο δ' αἵματι θώρηξ</q>
                                 </cit> καὶ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:20.503"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:20.503</ref>
                                     <q>λύθρῳ παλάσσετο δὲ χεῖρας</q>
                                 </cit>. φησὶν οὖν τὸν ἐγκέφαλον ἐμπεπλῆσθαι τοῦ αἵματος. σφιγγομένου
                                 γὰρ τοῦ δόρατος, ἀπο τοῦ ὀστέου ἔξω εἴργεται προελθεῖν τὸ αἷμα. ἔσω
@@ -912,7 +913,7 @@
                                 τοῦ <rs type="waw">ο</rs> ὑπ αρχαϊκῆς σημασίας ἀντι τοῦ <rs
                                     type="waw">ω</rs> προσθεὶς τὸ <rs type="waw">ν</rs>. ἔστι γὰρ
                                 περιδυεῖν ὁ λόγος, δι ὃ καὶ ἐπιφέρει, <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.111"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.111</ref>
                                     <q>καὶ γάρ σφε πάρος παρα <choice>
                                             <sic>νηυσὶ</sic>
                                             <corr>νηυσί</corr>
@@ -1071,7 +1072,7 @@
                                     <expan><title>Ὀδυσσείᾳ</title></expan>
                                 </choice>
                                 <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg002:21.15"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.15</ref>
                                     <q>τὼ δ' ἐν <placeName n="urn:cite:hmt:place.place185"
                                             >Μεσσήνῃ</placeName> ξυμβλήτην ἀλλήλοιϊν</q>
                                 </cit>. ἡ δὲ ἀναφορὰ πρὸς ἐπίκρισιν τῆς στιχοποιΐας ὅτι εὐτελεῖς τῇ
@@ -1104,11 +1105,11 @@
                         <div type="comment">
                             <p>ἀντι τοῦ εἰς πρεσβείαν. δύο δὲ σημαίνει ἡ λέξις παρα τῷ ποιητῇ τὸ
                                 ἄγγελμα. ὡς ἐν τῷ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg002:15.314"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:15.314</ref>
                                     <q>ἀγγελίην εἴποιμι περίφρονι <persName
                                             n="urn:cite:hmt:pers.pers284">Πηνελοπείη</persName></q>
                                 </cit>. καὶ τὸν ἄγγελον ἤτοι τὸν πρέσβιν ὡς ἐνταῦθα <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001:msA:11.140"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:msA:11.140</ref>
                                     <q>ἀγγελίην ἐλθόντα συν αντιθέῳ <persName
                                             n="urn:cite:hmt:pers.pers119">Μενελάῳ</persName></q>
                                 </cit>⁑</p>
