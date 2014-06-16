@@ -215,6 +215,36 @@
                                 </choice> γράφει <q>κακόφρονος</q> εὐτελῶς⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.128</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName> ἄλλοι
+                                δὲ <q>φύγεν</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.17" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.129</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr>ουτ</abbr>
+                                <expan>οὕτως</expan>
+                            </choice> ἐναντίον:</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
