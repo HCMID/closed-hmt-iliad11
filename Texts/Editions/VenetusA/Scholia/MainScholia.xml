@@ -1198,6 +1198,106 @@
                                 ἀσυνδέτοις ἐπι τῶν μεταβάσεων ἥδεται⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.72" type="scholion">
+                        <div type="lemma">
+                            <p>‡εκ πεδιου· τὴν ῶρσαν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.152</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἐκ πεδιου δύναται καὶ τοῖς ἡγουμένοις καὶ τοῖς ἑπομένοις
+                                συντάττεσθαι μᾶλλον δὲ τοῖς ἡγουμενοις δια τὸ τοῦ <choice>
+                                    <abbr>αρθ</abbr>
+                                    <expan>ἄρθρου</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ὑπερβατ</abbr>
+                                    <expan>ὑπερβατόν</expan>
+                                </choice>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.73" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς δ' ότε πῦρ ἀΐδηλον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.155</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὴν ἄξυλον ὅτι πολλὰς ἐκδοχὰς ἔσχηκεν οἱ μὲν γὰρ τὴν θρυώδη
+                                ἀποδεδώκασιν οἱ δὲ τὴν πολυξυλον βέλτιον δὲ ἀφ ἧς οὐδης ἐξυλίσατο ὡς
+                                    <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
+                                <q>τῆλε γὰρ ἀξυλίη κατεπύθετο κηλέα νηῶν</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.74" type="scholion">
+                        <div type="lemma">
+                            <p>χαλκῷ δῃϊόωντες:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.153</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἤτοι τοῖς ἐπισσώτροις κόπτοντες τὴν γῆν, ἢ ὅτι συντακτέον τοῦτο τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.150</ref>
+                                    <q>πεζοὶ μὲν πεζοῦς όλεκον</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.151</ref>
+                                    <q>ἱππῆες δ' ἰππῆας</q>
+                                </cit>, οἱ γὰρ οἱ τῶν ἵππων πόδες χαλκῷ ἐτίτρωσκον⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.75" type="scholion">
+                        <div type="lemma">
+                            <p>οἱ δέ τε θάμνοι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.156</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ συμφυτοι τόποι παρα τὸ θαμᾶ καταφυτεύεσθαι αὐτοὺς ὅ ἐστι πυκνῶς.
+                                οἱ δὲ τα χαμαιζηλα καὶ πολύκλαδα φυτά⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.76" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπειγόμενοι πυρός</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.157</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ὑγειῶς
+                                ἀναγινώσκει <q>ἐπειγόμενοι</q> ὡς τυπτόμενοι <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> γὰρ τῶν θάμνων κεῖται:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.77" type="scholion">
+                        <div type="lemma">
+                            <p>κεῖν' όχεα κροτάλιζον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.160</p>
+                        </div>
+                        <div type="comment">
+                            <p>λέγει ὁ <choice>
+                                    <sic>τεχνικῶς</sic>
+                                    <corr>τεχνικὸς</corr>
+                                </choice> ἐν τῶ ὑπομνήματι τοῦ <title
+                                    n="urn:cts:greekLit:tlg0087.tlg009">Περι παθῶν</title>
+                                <persName n="urn:cite:hmt:pers.pers175">Διδύμου</persName>· „τὰ
+                                ὀξύτονα ἡνίκα ἐκθλίβηται, τὴν ὀξυνομένην συλλαβήν. ἀναπέμπει τὴν
+                                ὀξεῖαν ἐπι τὴν οπίσω συλλαβήν καὶ ἐαν ᾗ ἡ ἐκθλιβεῖσα συλλαβῇ ἡ
+                                ἔχουσα τὴν ὀξεῖαν βραχεῖα. ἡ δὲ ὀπίσω συλλαβῇ φύσει μακρά τῷ τονικῷ
+                                παραγγέλματι γίνεται περισπώμενον,“ περισπᾷ γοῦν τὸ „δῆλον“ (Λ 441
+                                al.), ἐν δε <title n="urn:cts:greekLit:tlg0087.tlg007">τῇ Ὁμηρικῇ
+                                    προσῳδία</title> (sc. 2, 76, 11)· ἐναντιοῦται τούτῳ</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
