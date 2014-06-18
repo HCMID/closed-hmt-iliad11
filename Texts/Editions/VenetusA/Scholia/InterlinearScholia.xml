@@ -144,7 +144,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.24</p>
                         </div>
                         <div type="comment">
-                            <p>μέλανος καταπληκτικοῦ⁑</p>
+                            <p>μέλανος καταπληκτικοῦ ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.12" type="scholion">
@@ -577,7 +577,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.96</p>
                         </div>
                         <div type="comment">
-                            <p>τῶ χαλκῶ βαρουμε ὅ εστιν ισχυρα ὅτι ειδος περικεφα ἡ στεφάνη⁑</p>
+                            <p>τῶ χαλκῶ βαρουμε ὅ εστιν ισχυρα ὅτι ειδος περικεφα ἡ στεφάνη ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.50" type="scholion">
@@ -588,7 +588,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.98</p>
                         </div>
                         <div type="comment">
-                            <p>ἐνεπέφυρτο⁑</p>
+                            <p>ἐνεπέφυρτο ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.51" type="scholion">
@@ -599,7 +599,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.100</p>
                         </div>
                         <div type="comment">
-                            <p>ἀφίλατο⁑</p>
+                            <p>ἀφίλατο  ⁑  </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.52" type="scholion">
@@ -848,7 +848,7 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
-                                <q>οὐδας ἔρεισεν</q>⁑</p>
+                                <q>οὐδας ἔρεισεν</q> ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.74" type="scholion">
@@ -871,7 +871,7 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
-                                <q>πλήξας</q>⁑</p>
+                                <q>πλήξας</q> ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.76" type="scholion">
@@ -1105,7 +1105,73 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.174</p>
                         </div>
                         <div type="comment">
-                            <p>μιᾷ δέ τινι αυτῷ⁑</p>
+                            <p>μιᾷ δέ τινι αυτῷ ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.96" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.177</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατόπιν ἐδίωκε</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.97" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.178</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν ἔσχατον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.98" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.179</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπι πρόσωπον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.99" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.180</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> περισσος</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.100" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.183</p>
+                        </div>
+                        <div type="comment">
+                            <p>καθύδρου</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.101" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
                         </div>
                     </div>
                 </body>
