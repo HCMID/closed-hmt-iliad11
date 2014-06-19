@@ -1177,7 +1177,7 @@
                             <p>κελευέτω</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.101" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.102" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -1186,6 +1186,45 @@
                         </div>
                         <div type="comment">
                             <p>βληθεὶς</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.103" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.192</p>
+                        </div>
+                        <div type="comment">
+                            <p>εις <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τὸ</expan>
+                                </choice> ἄρμα ἀνέλθη</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.104" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.193</p>
+                        </div>
+                        <div type="comment">
+                            <p>ευκώπους</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.105" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.195</p>
+                        </div>
+                        <div type="comment">
+                            <p>ί̈ση ανέμοις <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ τάχος:</p>
                         </div>
                     </div>
                 </body>

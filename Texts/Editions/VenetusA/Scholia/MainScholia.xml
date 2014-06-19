@@ -1590,6 +1590,27 @@
                                 ὅπερ ψιλοῦται ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.90" type="scholion">
+                        <div type="lemma">
+                            <p>βῆ δὲ κατ <placeName>Ιδαῖων</placeName>:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.196</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6"
+                                    >Ἴλιον</placeName> καὶ ὅτι νῦν γραπτέον κατ'
+                                    <placeName>Ϊδέων</placeName> ὀρέων. ὅτ ἂν δὲ ἀπο τῆς <placeName
+                                    n="urn:cite:hmt:place89">Ἴδης</placeName> ἐπι τὸν <placeName
+                                    n="urn:cite:hmt:place.place45">Όλυμπον</placeName>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:8.410</ref>
+                                    <q>βῆ δ' ἐξ <placeName>Ϊδαίων</placeName> ὀρέων ἐπι μακρὸν
+                                            <placeName n="urn:cite:hmt:place.place45"
+                                            >Ὄλυμπον</placeName></q>
+                                </cit> ὡς ἀπ' ἴσου ἐπ' ἴσον ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
