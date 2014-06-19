@@ -99,7 +99,8 @@
                                         >αριστ</persName></abbr>
                                     <expan><persName n="urn:cite:hmt:pers.pers16"
                                             >Ἀρίσταρχος</persName></expan>
-                                </choice> <q>κεφαλὰς ενθαδ</q>:</p>
+                                </choice>
+                                <q>κεφαλὰς ενθαδ</q>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.7" type="scholion">
@@ -118,10 +119,15 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.135</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφα</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice> <q>ζωῶ</q></p>
                         </div>
                     </div>
                 </body>
