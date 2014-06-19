@@ -1517,16 +1517,77 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.87" type="scholion">
                         <div type="lemma">
-                            <p>βάσκ' ἴθι <persName n="urn:cite:hmt:pers.pers282">Ἴρει</persName> ταχεῖα,</p>
+                            <p>βάσκ' ἴθι <persName n="urn:cite:hmt:pers.pers282">Ἴρει</persName>
+                                ταχεῖα,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.186</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι οὐ κατ επίθετον τὸ <q>ταχεῖα</q>. ἀλλ αντι τοῦ <q>ταχέως</q> ὁ λόγος δὲ ερεῖ
-                                στίζειν τελεία ἐπι τὸ <q>ταχεῖα</q> δύο γὰρ λόγοι αυτοτελης <q>πορευθητι
-                                ταχέως <persName n="urn:cite:hmt:pers.pers282">Ἰρι</persName> τοῦτον εἰπὲ τὸν λόγον <persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName></q>· ἡ δὲ συνήθεια· καὶ τὰ
-                                τοιαῦτα συνάπτει ⁑</p>
+                            <p>ὅτι οὐ κατ επίθετον τὸ <q>ταχεῖα</q>. ἀλλ αντι τοῦ <q>ταχέως</q> ὁ
+                                λόγος δὲ ερεῖ στίζειν τελεία ἐπι τὸ <q>ταχεῖα</q> δύο γὰρ λόγοι
+                                αυτοτελης <q>πορευθητι ταχέως <persName
+                                        n="urn:cite:hmt:pers.pers282">Ἰρι</persName> τοῦτον εἰπὲ τὸν
+                                    λόγον <persName n="urn:cite:hmt:pers.pers172"
+                                    >Ἕκτορι</persName></q>· ἡ δὲ συνήθεια· καὶ τὰ τοιαῦτα συνάπτει
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.88" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὰρ ἐπεί κ' ἢ δουρὶ τυπεὶς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.191</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὴν διαφορὰν τοῦ τύψαι καὶ βαλεῖν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.89" type="scholion">
+                        <div type="lemma">
+                            <p>εἰς ἵππους ἄλλεται</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.192</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ <q>ἅληται</q> ψιλοῦται εἴτε ἐπι τοῦ ἐκκλίνειν τάσσηται
+                                ὡς φησὶν ὁ <persName n="urn:cite:hmt:pers.pers485"
+                                    >Ἀσκαλωνίτης</persName>, εἴτε ἐπι τοῦ συστραφῆναι ὡς καὶ
+                                    <persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> ᾧ
+                                καὶ μᾶλλον συγκατατίθεμαι, πολλὴ δὲ ἡ κίνησις αὐτοῦ παρὰ τῷ ποιητῇ
+                                ὁριστικὸς μὲν γὰρ δεύτερος ἀόριστος <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:13.408</ref>
+                                    <q>τῇ ὑπο πᾶς ἑάλη</q>
+                                </cit> καὶ πληθυντικὸν τρίτον κατα συγκοπὴν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.12</ref>
+                                    <q>οἳ δή τοι εἰς ἄστυ άλεν</q>
+                                </cit>, ἀπαρεμφατον τε. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:16.714</ref>
+                                    <q>ἣ λαοὺς ἐς τείχος, ὁμοκλήσειεν ἀλῆναι</q>
+                                </cit> καὶ ὥσπερ ἡ φανεὶς μετοχῇ. οὕτως καὶ ἡ αλεῖς· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.308</ref>
+                                    <q>οἴμησεν δὲ ἀλείς</q>
+                                </cit> καὶ οὐδέτερον <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:23.420</ref>
+                                    <q>ᾖ χειμεριον ἀλὲν ὕδωρ</q>
+                                </cit> καὶ πληθυντικὸν ἀρσενικὸν, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:21.534</ref>
+                                    <q>αὐτὰρ ἐπεί κ' ἐς τεῖχος ἁναπνεύσωσιν ἀλέντες</q>
+                                </cit> καὶ γενικῇ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:21.607</ref>
+                                    <q>πόλις δ' ἔμπλητο ἀλέντων</q>
+                                </cit>, τούτου τοίνυν ὑποτακτικὸν ἄληται ὡς λάβηται. συστολῆ οὖν
+                                ἐγένετο ἡ μεταβολῇ ἐγκλίσεως ὁμοίως τῷ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:9.409</ref>
+                                    <q>ἐπεὶ άρ κεν ἀμείψεται ἔρκος ὀδόντων</q>
+                                </cit>
+                                <q>ὄφρα καὶ ἄλλος πτωχὸς ἀλεύεται ἠπεροπευτης</q> καὶ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:20.173</ref>
+                                    <q>ῆ αὐτὸς φθίεται πρῴτῳ ἐν ομίλῳ</q>
+                                </cit> τὸ δὲ όλον γέγονεν ἀπο τοῦ ἀλῶ ὃ σημαντικόν ἐστι τοῦ πλανῶ
+                                ὅπερ ψιλοῦται ⁑</p>
                         </div>
                     </div>
                 </body>
