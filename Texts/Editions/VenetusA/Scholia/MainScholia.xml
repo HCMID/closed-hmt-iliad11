@@ -1611,6 +1611,57 @@
                                 </cit> ὡς ἀπ' ἴσου ἐπ' ἴσον ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.91" type="scholion">
+                        <div type="lemma">
+                            <p>‡<persName n="urn:cite:hmt:pers.pers8">Ζεύς</persName> με <choice>
+                                    <abbr>πηρ</abbr>
+                                    <expan>πατὴρ</expan>
+                                </choice> πρόεϊκε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.201</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινὲς ὅτι ἐν ἴσῳ τοῦ σοὶ ἡ τὴ̈ν ἀντωνυμία
+                                    <placeName>Δωρικὴ</placeName> οῦσα κατα πλεονασμὸν τοῦ <rs
+                                    type="waw">ε</rs> ἐξηνέχθη ὅθεν φυλάσσεται ὁ αὐτὸς τόνος·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.92" type="scholion">
+                        <div type="lemma">
+                            <p>‡πρῶτος ὄρουσ', προς τὸ ἔθελεν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.217</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι δια παντὸς ἀπο τοῦ <rs type="waw">ε</rs> ἄρχεται παρα τῷ ποιητῇ ἡ
+                                δὲ ἀναφορὰ προς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.277</ref>
+                                    <q>μήτε σὺ <persName n="urn:cite:hmt:pers.pers1"
+                                            >Πηλείδή</persName> θελ'</q>
+                                </cit> ὅτι ἐγκλιτέον τὴν ἀνάγνωσιν ἵν' ᾖ ἔθελε ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.93" type="scholion">
+                        <div type="lemma">
+                            <p>ἀντίος ἦλθε,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.219</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
+                                        >Ἀριστοφα</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers21"
+                                            >Ἀριστοφάνης</persName></expan>
+                                </choice>
+                                <q>ἀντίος</q>, <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName>
+                                <q>ἀντίον</q> διὰ τοῦ <rs type="waw">ν</rs> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
