@@ -1662,6 +1662,64 @@
                                 <q>ἀντίον</q> διὰ τοῦ <rs type="waw">ν</rs> ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.94" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers451">Ἰφιδάμας
+                                    Ἀντηνορίδης</persName>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.221</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐὰν αὐτὸν τῶν ἐπικούρων εἴπωμεν ἐπεὶ καὶ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place70">Θρᾷξ</rs> ἦν καὶ ἦγε <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place70">Θρᾷκας</rs>
+                                ἐπικούρους, ἔσται προς τὸ δεύτερον πρότερον ἀπηντηκώς γεγέννηται
+                                μέντοι ἐν <placeName n="urn:cite:hmt:place.place6">Τροίᾳ</placeName>
+                                ἡ γὰρ <persName n="urn:cite:hmt:pers.pers334">Θεανὼ</persName>
+                                ἱέρεια τῆς <placeName n="urn:cite:hmt:place.place1"
+                                    >Ἀθηνᾶς</placeName> οὖσα οὐκ άν ποτε εἰς <placeName
+                                    n="urn:cite:hmt:place.place70">Θρᾴκην</placeName> ἐξεληλύθει.
+                                καὶ ἤν πατρὸς <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρωός</rs> γεννηθείσα δὲ ἐδόθη τρέφεσθαι τῷ μητροπάτορι· οὗτος
+                                δὲ μόνος παρα τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρωσὶ</rs> τὴν ἀδελφὴν τῆς <choice>
+                                    <abbr>μρσ</abbr>
+                                    <expan>μητρὸς</expan>
+                                </choice> ἔγημεν ὥσπερ καὶ παρα τοῖς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἕλλησι</rs>
+                                <persName n="urn:cite:hmt:pers.pers215">Διομήδης</persName>· ἡ διπλη
+                                δέ ὅτι ὡς ἐμπνευσθεὶς ἀνταποδέδωκε καθάπερ ἐν αρχῇ τῆς <title
+                                    n="urn:cts:greekLit:tlg0012.tlg001">Ἰ̈λιάδος</title>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.8</ref>
+                                    <q>τίς τ αρ σφωε θεῶν</q>
+                                </cit> εἶτα <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.9</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers35">Λιτοῦς</persName> καὶ
+                                            <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName>
+                                        υἱός</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.95" type="scholion">
+                        <div type="lemma">
+                            <p>μητέρι μήλων:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.222</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                <q>μητέρι θηρῶν</q>. τῇ δὲ ἐριβώλακι συνάδει καὶ τὸ πολυθρέμματον οὐ
+                                τὸ ἔνθηρον <persName>Κισσῆς</persName>, ὡς <q><persName
+                                        n="urn:cite:hmt:pers.pers104">Ἑρμῆς</persName></q>· καὶ
+                                μήποτε παρὰ τὸ <q>κισσὸς</q> παρώνυμόν τι ἐγένετο
+                                    <persName>Κισσέας</persName> καὶ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan></choice> συναλιφὴν <persName>Κισσῆς</persName>, ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
