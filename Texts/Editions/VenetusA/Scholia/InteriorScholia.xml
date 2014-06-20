@@ -80,7 +80,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.38</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐκ τελαμόνων αἱ ασπίδες ήρτηντο⁑</p>
+                            <p>ὅτι ἐκ τελαμόνων αἱ ασπίδες ήρτηντο ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.6" type="scholion">
@@ -127,7 +127,20 @@
                                         >Ἀριστοφα</persName></abbr>
                                     <expan><persName n="urn:cite:hmt:pers.pers21"
                                             >Ἀριστοφάνης</persName></expan>
-                                </choice> <q>ζωῶ</q></p>
+                                </choice>
+                                <q>ζωῶ</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.9" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.227</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡ γὰρ ἥττα τούτου δόξα τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> ἐγίνετο ⁑</p>
                         </div>
                     </div>
                 </body>
