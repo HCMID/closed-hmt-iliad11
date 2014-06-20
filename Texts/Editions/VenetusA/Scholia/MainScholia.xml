@@ -1005,14 +1005,14 @@
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.60" type="scholion">
                         <div type="lemma">
                             <p><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἀλλὰ καὶ
-                                αὐτοὶ ὑπ <rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                αὐτοὶ ὑπ <rs type="ethnic" n="urn:cite:hmt:place.place114"
                                     >Αργείοισι</rs> φέβοντο·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.121</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἀντι τοῦ <q>ὑπ <rs type="ethnic" n="urn:cite:hmt:place.place3"
+                            <p>ὅτι ἀντι τοῦ <q>ὑπ <rs type="ethnic" n="urn:cite:hmt:place.place114"
                                         >Αργείων</rs></q> πάλιν δὲ τὸ φέβοντο ἀντι τοῦ
                                     <q>ἔφευγον</q> ⁑</p>
                         </div>
@@ -1717,7 +1717,8 @@
                                 μήποτε παρὰ τὸ <q>κισσὸς</q> παρώνυμόν τι ἐγένετο
                                     <persName>Κισσέας</persName> καὶ <choice>
                                     <abbr>κατ</abbr>
-                                    <expan>κατὰ</expan></choice> συναλιφὴν <persName>Κισσῆς</persName>, ⁑</p>
+                                    <expan>κατὰ</expan>
+                                </choice> συναλιφὴν <persName>Κισσῆς</persName>, ⁑</p>
                         </div>
                     </div>
                 </body>
