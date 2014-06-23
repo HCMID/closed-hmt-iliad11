@@ -2059,6 +2059,71 @@
                                 ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.115" type="scholion">
+                        <div type="lemma">
+                            <p>δριμὺ τότε προϊεῖσι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.270</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ποτὲ μὲν ἑνικῶς, ποτὲ δὲ πληθυντικῶς
+                                    <persName>Εἰλειθυίας</persName> λέγει· ἀριθμὸν δὲ αὐτῶν, οὐδὲ
+                                ὀνόματα παραδίδωσιν ὥσπερ οὐδὲ <persName n="urn:cite:hmt:pers.pers6"
+                                    >Μουσῶν</persName>. <persName>Εἰλεί·θυιαι</persName> δὲ
+                                    <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> καὶ
+                                    <persName n="urn:cite:hmt:pers.pers116">΄Ηρας</persName>
+                                θυγατέρες τῶν τοκετῶν προϊστάμεναι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.116" type="scholion">
+                        <div type="lemma">
+                            <p>προϊεῖσι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.270</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡς <q>τιθεῖσι</q>· καὶ γὰρ ἐν ετέροις <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:3.152</ref>
+                                    <q>ὄπα λειριόεσσαν ϊεῖσι</q>
+                                </cit>. ὁμοτονεῖν δὲ θέλει τὰ εἰς <rs type="waw">ι</rs>
+                                <choice>
+                                    <abbr>λήγοντ</abbr>
+                                    <expan>λήγοντα</expan>
+                                </choice> τοῦ ἐνεστῶτος ταῖς πληθυντικαῖς δοτικαῖς
+                                    <sic>δοτικαῖς</sic> τῶν μετοχῶν ὁπότε καὶ ὁμοφωνοῦσιν
+                                    <q>ϊέντες</q>
+                                <q>ϊεντων</q>
+                                <q>ϊεῖσι</q>· οὕτως οὖν καὶ τὸ ῥῆμα· μάχεται τὸ <q>φασί</q> ῥῆμα γὰρ
+                                ὀξύνεται μετοχὴ δὲ <q>ὂν</q> βαρύνεται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.117" type="scholion">
+                        <div type="lemma">
+                            <p>μογοστόκοι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.270</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                παροξύνει. <choice>
+                                    <sic>δραστική</sic>
+                                    <corr>δραστικὴ</corr>
+                                </choice> γάρ φησιν ἔννοια ἐστιν οὐ γὰρ αἱ
+                                    <persName>Εἰλείθυαι</persName> πάσχουσιν ἵνα προπαροξύνωμεν.
+                                ἀλλ' ενεργοῦσι κατα τῶν τικτουσῶν· ἔφαμεν δὲ τὰ τοιαῦτα τῶν συνθέτων
+                                ἐνέργειαν ὑπισχνούμενα παροξύνεσθαι. εἰ μὴ κανών τις κωλύοι· εἰσὶ
+                                γάρ τινες κανόνες καθ οὺς κὰν ἐνεργεια σημαίνηται. πάντως
+                                προπαροξύνεσθαι δεῖ. μάχεται μέντοι ἄντικρυς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:4.509</ref>
+                                    <q>ὄρνυσθ' ἱππόδαμοι <rs type="ethnic"
+                                            n="urn:cite:hmt:place.place6">Τρῶες</rs></q>
+                                </cit> ἐνεργητικὸν γὰρ ὂν καὶ μὴ ὑποπίπτον κανόνι τῷ
+                                προπαροξύτόνοντι προπαροξυτωνήθη ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
