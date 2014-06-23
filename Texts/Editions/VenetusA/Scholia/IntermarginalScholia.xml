@@ -351,6 +351,28 @@
                                 γυμναζόμενα δένδρα στερεά ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.26" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.281</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι δια τοῦ ἐναντίου τὸ ἐναντίον,</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.27" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.297</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

@@ -154,6 +154,32 @@
                             <p>ὁμόπατρον συγκοπον</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.290</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                <q>ὑπέρτεροι</q>:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.300</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται <q><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ
+                                        Πριαμίδης</persName> ὅ τε οἱ <persName
+                                        n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> κῦδος
+                                ἔδωκεν</q></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
