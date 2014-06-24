@@ -2268,11 +2268,52 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.306</p>
                         </div>
                         <div type="comment">
-                            <p>ἀπο τοῦ ἀργεστής ὀξυτόνου <rs type="ethnic" n="urn:cite:hmt:place.place30">Βοιωτιακὴ</rs> γενικῇ ἡ <q>ἀργεστᾶο</q> προπερισπώμένως
-                                ⁑</p>
+                            <p>ἀπο τοῦ ἀργεστής ὀξυτόνου <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place30">Βοιωτιακὴ</rs> γενικῇ ἡ
+                                    <q>ἀργεστᾶο</q> προπερισπώμένως ⁑</p>
                         </div>
                     </div>
-
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.126" type="scholion">
+                        <div type="lemma">
+                            <p>πολλὸν δὲ τρόφι κῦμα:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.307</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ <q>τρόφι</q> ἀποκοπῆ τοῦ <q>τρόφιμον</q> ὁ <persName
+                                    n="urn:cite:hmt:pers.pers">Ηρῳδιανός</persName> φησιν ὅτι έστη
+                                τῇ πήξει τῇ αὐξήσει <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.290</ref>
+                                    <q>κύματά τε τροφέοντα</q>
+                                </cit> εὐτραφῆ καὶ τρόφαλις τὸ πεπηγὸς γάλα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.127" type="scholion">
+                        <div type="lemma">
+                            <p>ἔργα γένοντο:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.310</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀρχαϊκώτερον συντέτακται καὶ πολὺ ἐστι, παρ αυτῷ τὸ εἶδος, ἡ μέντοι
+                                συνήθεια τοῖς πληθυντικοῖς οὐδετέροις ἑνικὰ, συντάσσει ῥήματα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.128" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ἄγε δεῦρο πέπον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.314</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινὲς ὅτι ἀριστίαν ἐνταῦθα <title
+                                    n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσέως</title> παράγει, τὸ
+                                δε δεῦρο εἰς τοῦτον τὸν τόπον ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

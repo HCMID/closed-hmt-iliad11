@@ -373,6 +373,50 @@
                             <p>ὁ <persName n="urn:cite:hmt:pers.pers172">Ἑκτωρ</persName></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.28" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.306</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ Όμηρος τέσσαρας μόνους ἀνέμους οῖδεν ⁑⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.29" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.3</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἡμῖν δῆλονοτι:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.30" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.319</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ βούλεται :</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.31" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.325</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice><abbr>διχ</abbr><expan>διχῶς</expan></choice> θηρητήρσι καὶ θηρευτῇσι ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
