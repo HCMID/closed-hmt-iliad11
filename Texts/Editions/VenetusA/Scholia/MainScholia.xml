@@ -1352,9 +1352,9 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.81" type="scholion">
                         <div type="lemma">
-                            <p>οἱ δὲ παρ' <persName>΄Ϊλου</persName> σῆμα παλαιοῦ <choice>
-                                    <abbr><persName>Δαρδα</persName></abbr>
-                                    <expan><persName>Δαρδανίδαο</persName></expan>
+                            <p>οἱ δὲ παρ' <persName n="urn:cite:hmt:pers.pers494">΄Ϊλου</persName> σῆμα παλαιοῦ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers494">Δαρδα</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers494">Δαρδανίδαο</persName></expan>
                                 </choice></p>
                         </div>
                         <div type="ref">
@@ -1383,10 +1383,10 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.145</ref>
                                     <q>οἱ δὲ παρὰ σκοπιὴν καὶ ἐρινεὸν</q>
                                 </cit> ταῦτα μὲν ὅτι πλησίον τοῦ τείχους ὁ ερινεός ὅτι δὲ καὶ ἐν
-                                μέσῳ τῷ πεδίῳ ἐστὶ τὸ <persName>Ἤλου</persName> σῆμα, φανερὸν ἐξ
+                                μέσῳ τῷ πεδίῳ ἐστὶ τὸ <persName n="urn:cite:hmt:pers.pers494">Ἤλου</persName> σῆμα, φανερὸν ἐξ
                                 εκείνου, <q><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>
                                     μὲν μετα τοῖσιν. ὅσοι βουλὰς βουλεύουσιν θείου παρα σήματος
-                                        <persName>Ἴλου</persName></q>.ἐπαυλίζονται δὲ ἐν μέσῳ τοῦ
+                                        <persName n="urn:cite:hmt:pers.pers494">Ἴλου</persName></q>.ἐπαυλίζονται δὲ ἐν μέσῳ τοῦ
                                 πεδίου ἐπι τοῦ θροσμοῦ <cit>
                                     <ref type="urn">rn:cts:greekLit:tlg0012.tlg001.msA:10.160</ref>
                                     <q>οὐκ αΐεις ὡς Τρῶες ἐπι θροσμῷ πεδίοιο</q>
@@ -1397,19 +1397,19 @@
                                 </cit>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.372</ref>
-                                    <q><persName>Ἴλου Δαρδανίδαο</persName></q>
+                                    <q><persName n="urn:cite:hmt:pers.pers494">Ἴλου Δαρδανίδαο</persName></q>
                                 </cit>· ἡ δε μάχη ἐν τῶ πεδίῳ συναπτέον οὖν ἀναγινώσκοντας ἕως τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.167</ref>
                                     <q>μέσον καπ πεδίον</q>
                                 </cit>, εῖτα βραχὺ διαστείλαντας τὰ εξῆς ῥητέον καὶ οὑτω λυθήσεται
-                                τὸ ἐν τῷ τόπῳ ἄπορον. καὶ <persName>Ἴλου</persName> σῆμα καὶ μέσον
+                                τὸ ἐν τῷ τόπῳ ἄπορον. καὶ <persName n="urn:cite:hmt:pers.pers494">Ἴλου</persName> σῆμα καὶ μέσον
                                 πεδίον· καὶ ἐρινεὸς καὶ ἡ <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλις</expan>
                                 </choice> ἐν ταὐτῷ ⁑ παρέρχονται μὲν γὰρ τὸ μέσον <choice>
                                     <abbr>πεδ</abbr>
                                     <expan>πεδίον</expan>
-                                </choice> ἐν ῷ τὸ <persName>Ἴλου</persName> σῆμα σεύονται δὲ πρὸς
+                                </choice> ἐν ῷ τὸ <persName n="urn:cite:hmt:pers.pers494">Ἴλου</persName> σῆμα σεύονται δὲ πρὸς
                                 τὸν ἐρινεὸν ί̈ενται δὲ τῆς <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλεως</expan>
@@ -1417,12 +1417,12 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice> ἔλεγεν. οἱ δὲ δια μέσου τοῦ πεδίου, παρα τὸ
-                                    <persName>΄Ϊλου</persName> μνημεῖον ἔφυγον πρὸς τὸν ἐρινεον
+                                    <persName n="urn:cite:hmt:pers.pers494">΄Ϊλου</persName> μνημεῖον ἔφυγον πρὸς τὸν ἐρινεον
                                 σπεύδοντες τὴν <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλιν</expan>
                                 </choice> ⁑ ἡ διπλῆ πρὸς τὸ περι τοῦ ναστάθμου διάγραμμα το γὰρ
-                                    <persName>΄Ϊλου</persName> σῆμα κατα μεσον εῖναι φησιν τῷ πεδίῳ
+                                    <persName n="urn:cite:hmt:pers.pers494">΄Ϊλου</persName> σῆμα κατα μεσον εῖναι φησιν τῷ πεδίῳ
                                 ⁑</p>
                         </div>
                     </div>
@@ -1712,13 +1712,13 @@
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
                                 <q>μητέρι θηρῶν</q>. τῇ δὲ ἐριβώλακι συνάδει καὶ τὸ πολυθρέμματον οὐ
-                                τὸ ἔνθηρον <persName>Κισσῆς</persName>, ὡς <q><persName
+                                τὸ ἔνθηρον <persName n="urn:cite:hmt:pers.pers498">Κισσῆς</persName>, ὡς <q><persName
                                         n="urn:cite:hmt:pers.pers104">Ἑρμῆς</persName></q>· καὶ
                                 μήποτε παρὰ τὸ <q>κισσὸς</q> παρώνυμόν τι ἐγένετο
-                                    <persName>Κισσέας</persName> καὶ <choice>
+                                    <persName n="urn:cite:hmt:pers.pers498">Κισσέας</persName> καὶ <choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> συναλιφὴν <persName>Κισσῆς</persName>, ⁑</p>
+                                </choice> συναλιφὴν <persName n="urn:cite:hmt:pers.pers498">Κισσῆς</persName>, ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.96" type="scholion">
@@ -1736,9 +1736,9 @@
                                     n="urn:cite:hmt:place.place43">Αἰγιάλειαν</placeName> τὴν
                                     <persName n="urn:cite:hmt:pers.pers45">Ἀδραστου</persName>
                                 <persName n="urn:cite:hmt:pers.pers451">Ἰφιδάμας</persName> δὲ
-                                    <persName>Κισσέως</persName> θυγατέρα ὦν <persName
+                                    <persName n="urn:cite:hmt:pers.pers498">Κισσέως</persName> θυγατέρα ὦν <persName
                                     n="urn:cite:hmt:pers.pers334">Θεανοῦς</persName> υἱὸς τῆς
-                                    <persName>Κισσέως</persName> ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers498">Κισσέως</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.97" type="scholion">
