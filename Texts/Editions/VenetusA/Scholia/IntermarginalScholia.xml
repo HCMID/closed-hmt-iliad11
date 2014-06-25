@@ -259,7 +259,8 @@
                                     <expan><persName n="urn:cite:hmt:pers.pers15"
                                             >Ζηνόδοτος</persName></expan>
                                 </choice>
-                                <q>πολλα δ' ἐν <persName>Αντιμαχου</persName> πατρὸς</q> ⁑ </p>
+                                <q>πολλα δ' ἐν <persName n="urn:cite:hmt:pers.pers492"
+                                        >Αντιμαχου</persName> πατρὸς</q> ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.19" type="scholion">

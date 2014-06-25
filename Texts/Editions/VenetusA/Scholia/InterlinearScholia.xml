@@ -1235,7 +1235,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.201</p>
                         </div>
                         <div type="comment">
-                            <p>σοὶ <placeName>Δωρικῶς</placeName></p>
+                            <p>σοὶ <rs type="ethnic" n="urn:cite:hmt:place.place78">Δωρικῶς</rs></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.107" type="scholion">
@@ -1282,7 +1282,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.223</p>
                         </div>
                         <div type="comment">
-                            <p><persName>Κισσέως</persName> θυγάτηρ</p>
+                            <p><persName n="urn:cite:hmt:pers.pers498">Κισσέως</persName>
+                                θυγάτηρ</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.111" type="scholion">
