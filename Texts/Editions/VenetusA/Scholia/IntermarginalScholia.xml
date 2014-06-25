@@ -414,7 +414,78 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.325</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>διχ</abbr><expan>διχῶς</expan></choice> θηρητήρσι καὶ θηρευτῇσι ⁑</p>
+                            <p><choice>
+                                    <abbr>διχ</abbr>
+                                    <expan>διχῶς</expan>
+                                </choice> θηρητήρσι καὶ θηρευτῇσι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.32" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.336</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀμφοτέροις τοῖς στρατεύμασι ἴσην τὴν μάχην ἐξέτεινεν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.33" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.339</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλω <q>οῦδε γὰρ ἵπποι</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.34" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.345</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται <q>τὸν δὲ ϊδὼν ἐνόησε</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.35" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.348</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
+                                        >Ζηνοδ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers15"
+                                            >Ζηνόδοτος</persName></expan>
+                                </choice>
+                                <choice>
+                                    <abbr>δυϊκ</abbr>
+                                    <expan>δυϊκῶς</expan>
+                                </choice>
+                                <q>μένοντε</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.36" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.350</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινὲς ὅτι <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> εἴρηται καὶ <q>ἐπέτυχεν</q>:</p>
                         </div>
                     </div>
                 </body>
