@@ -2561,6 +2561,67 @@
                                     <q>τόξον</q> ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.145" type="scholion">
+                        <div type="lemma">
+                            <p>‡ καὶ βάλεν οὐδ' ἄρα μιν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.376</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ βάλεν, ἀντι τοῦ ἐπέτυχεν καὶ ὅτι ἐν σχήματι εἴρηκεν οὐδὲ ἅλιον
+                                αὐτὸν ἐξέφυγε τῆς χειρός ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.146" type="scholion">
+                        <div type="lemma">
+                            <p>οἵ τε σε πεφρίκασι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.383</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ ἵδιον πάθος ἐπὶ πάντας εἰκάζει οὐκ αναγκαῖον δὲ ἀντιδιαστέλλειν ὡς
+                                οἵεται Ἀλεξίων δύναται γὰρ καὶ ἀπόλυτος εἶναι:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.147" type="scholion">
+                        <div type="lemma">
+                            <p>μηκάδες:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.383</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπιθετικῶς αἱ αἶγες, ἀπο τοῦ ἰδιώματος τῆς φωνῆς <q>μῆκα</q> γὰρ
+                                καλεῖται ἡ τῆς αιγὸς φωνή</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.147" type="scholion">
+                        <div type="lemma">
+                            <p>τοξότα λωβητήρ, καί ρ' α:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.385</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι καίρα οὐ τῇ τριχῇ ψιλῶς, ἀλλ ἐμπλοκῆς τί γενος εἰς κέρατος τρόπον
+                                ἀνεπλέκοντο οἱ ἀρχαῖοι· <persName>Σώφρων</persName> „<cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg4083.tlg001:851.50</ref>
+                                    <q>κορώνας ἀνδούμενοι</q>
+                                </cit>“. καὶ οἱ <rs type="ethnic" n="urn:cite:hmt:place.place1"
+                                    >Ἀθηναῖοι</rs> τέττιγας ἐνεπλέκοντο, καὶ παρ' <persName
+                                    n="urn:cite:hmt:pers.pers17">Ὁμήρῳ</persName>, <q><cit>
+                                        <ref type="urn"
+                                            >urn:cts:greekLit:tlg0012.tlg001.msA:17.52</ref>
+                                        <q>λοχμοί θ' οἳ χρυσῷ τὲ καὶ <choice>
+                                                <sic>ἀργύρῷ</sic>
+                                                <corr>ἀργύρῳ</corr>
+                                            </choice></q>
+                                    </cit></q> ἔνιοι δέ τῷ τόξω, ἀγαλλόμενε, προ εἴρηκε δὲ <q>τοξότα
+                                    λωβητήρ</q>:</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
