@@ -2203,6 +2203,39 @@
                             <p>περι αυτὸν πλείονες</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.191" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.397</p>
+                        </div>
+                        <div type="comment">
+                            <p>αντι τοῦ κύψας</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.192" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.400</p>
+                        </div>
+                        <div type="comment">
+                            <p>εβαρεῖτο τὴν ψυχήν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.193" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.400</p>
+                        </div>
+                        <div type="comment">
+                            <p>οδυνᾶτο</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
