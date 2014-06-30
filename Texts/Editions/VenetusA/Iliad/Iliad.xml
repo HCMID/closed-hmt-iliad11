@@ -538,16 +538,18 @@
                 <l n="333">τοὺς μὲν <persName n="urn:cite:hmt:pers.pers215">Τυδείδης</persName>
                     δουρὶ, κλυτὸς <persName n="urn:cite:hmt:pers.pers215">Διομήδης</persName></l>
                 <l n="334">θυμοῦ καὶ ψυχῆς κεκαδὼν, κλυτὰ τεύχ' ἀπηύρᾱ·</l>
-                <l n="335"><persName>Ἱ̈ππόδαμόν</persName> δ' <persName
-                        n="urn:cite:hmt:pers.pers118">Ὀδυσεὺς</persName> καὶ
-                        <persName>Ὑπείροχον</persName> ἐξενάριξεν·</l>
+                <l n="335"><persName n="urn:cite:hmt:pers.pers529">Ἱ̈ππόδαμόν</persName> δ'
+                        <persName n="urn:cite:hmt:pers.pers118">Ὀδυσεὺς</persName> καὶ <persName
+                        n="urn:cite:hmt:pers.pers530">Ὑπείροχον</persName> ἐξενάριξεν·</l>
                 <l n="336">ἔνθά σφιν κατὰ ῖ̈σα μάχην ἐτάνυσσε <persName n="urn:cite:hmt:pers.pers8"
                         >Κρονίων</persName></l>
                 <l n="337">ἐξ <placeName n="urn:cite:hmt:place.place89">Ί̈δης</placeName> καθορῶν
                     τοὶ δ`' ἀλλήλους ἐνάριζον·</l>
                 <l n="338">ἤτοι <persName n="urn:cite:hmt:pers.pers251">Τυδέος</persName> υἱὸς
-                        <persName>Ἀγάστροφον</persName> οὔτασε δουρὶ</l>
-                <l n="339"><persName>Παιονίδην</persName> ἥρωα· κατ' ἰσχίον· οὐ γάρ οἱ ἵπποι</l>
+                        <persName n="urn:cite:hmt:pers.pers531">Ἀγάστροφον</persName> οὔτασε
+                    δουρὶ</l>
+                <l n="339"><persName n="urn:cite:hmt:pers.pers531">Παιονίδην</persName> ἥρωα· κατ'
+                    ἰσχίον· οὐ γάρ οἱ ἵπποι</l>
                 <l n="340">ἐγγὺς ἔσαν προφυγεῖν· ᾱά̄σατο δὲ μέγα θυμῷ·</l>
                 <l n="341">τοὺς μὲν γὰρ θεράπων ἀπάνευθ' έχεν· αὐτὰρ ὃ πεζὸς</l>
                 <l n="342">θῦνε δια προμάχων· είως φίλον ὤλεσε θυμόν·</l>
@@ -657,11 +659,12 @@
                 <l n="419">ὥς ρα τότ' ἀμφ' <persName n="urn:cite:hmt:pers.pers118">Ὀδυσῆα</persName>
                     <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> φίλον ἐσσεύοντο</l>
                 <l n="420"><rs type="urn:cite:hmt:place.place6">Τρῶες</rs>. ὁ δὲ πρῶτον μὲν ἀμύμονα
-                        <persName>Δηϊοπίτην</persName></l>
+                        <persName n="urn:cite:hmt:pers.pers540">Δηϊοπίτην</persName></l>
                 <l n="421">οὔτασεν ὦμον. ὕπερθεν ἐπάλμενος ὀξέϊ δουρί·</l>
-                <l n="422">αὐτὰρ ἔπειτα <persName>Θόωνα</persName> καὶ <persName>Ἔννομον</persName>
-                    ἐξενάριξεν·</l>
-                <l n="423"><persName>Χερσιδάμαντα</persName> δ' ἔπειτα καθ' ἵππων ἀΐξαντα</l>
+                <l n="422">αὐτὰρ ἔπειτα <persName n="urn:cite:hmt:pers.pers541">Θόωνα</persName> καὶ
+                        <persName n="urn:cite:hmt:pers.pers542">Ἔννομον</persName> ἐξενάριξεν·</l>
+                <l n="423"><persName n="urn:cite:hmt:pers.pers543">Χερσιδάμαντα</persName> δ' ἔπειτα
+                    καθ' ἵππων ἀΐξαντα</l>
                 <l n="424">δουρὶ κατα πρότμησιν. ὑπ' ἀσπίδος ὀμφαλοέσσης.</l>
                 <l n="425">νύξεν· ὃ δ' ἐν κονίῃσι πεσὼν ἕλε γαῖαν ἀγοστῷ·</l>
                 <l n="426"> τοὺς μὲν ἔασ', ὃ δ' ἄρ' Ἱππασίδην Χάροπ' οὔτασε δουρὶ </l>
