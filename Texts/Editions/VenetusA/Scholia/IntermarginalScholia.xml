@@ -594,6 +594,90 @@
                             <p>γράφεται <q>ωκέας ἵππους</q>:</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.45" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.402</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι νῦν φανερῶς φοβος ἡ φυγη</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.46" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.405</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι έξωθεν ἡ <q>εἶς</q>
+                                <choice>
+                                    <abbr>προθ</abbr>
+                                    <expan>προθεσις</expan>
+                                </choice> εἰς <choice>
+                                    <abbr>πληθ</abbr>
+                                    <expan>πληθύν</expan>
+                                </choice></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.47" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.413</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ <choice>
+                                    <abbr>διασταλτ</abbr>
+                                    <expan>διασταλτέον</expan>
+                                </choice> ἐπι τὸ <q>σφίσι</q>,</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.48" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.421</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται ὕπερθε μετάλμενος ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.49" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.423</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται καὶ <choice>
+                                    <abbr>ἀί̈σσοντ</abbr>
+                                    <expan>ἀί̈σσοντα</expan>
+                                </choice></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.50" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.424</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName>
+                                <q>δουρὶ κατα πρότμηστιν</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
