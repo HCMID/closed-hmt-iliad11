@@ -678,6 +678,31 @@
                                 <q>δουρὶ κατα πρότμηστιν</q> ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.51" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.427</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκ τριῶν μερῶν τοῦ <choice>
+                                    <abbr>λο</abbr>
+                                    <expan>λόγου</expan>
+                                </choice> ὁλος ὁ στίχος</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.52" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.430</p>
+                        </div>
+                        <div type="comment">
+                            <p>μυθολόγε καὶ φλύαρε· ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
