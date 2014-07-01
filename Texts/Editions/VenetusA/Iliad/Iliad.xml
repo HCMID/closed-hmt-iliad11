@@ -736,9 +736,12 @@
                         <corr>φώς</corr>
                     </choice>·</l>
                 <l n="473">εὗρον ἔπειτ' <persName n="urn:cite:hmt:pers.pers118">Ὀδυσῆα</persName>
-                    <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> φίλον. ἀμφι δ' ὰρ'
-                    αὐτὸν</l>
-                <l n="474"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ἕπονθ', ὡς εἴ τε δαφοινοὶ θῶες ὄρεσφιν</l>
+                    <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> φίλον. ἀμφι δ' ὰρ' <choice>
+                        <reg>αὐτῷ</reg>
+                        <orig>αὐτὸν</orig>
+                    </choice></l>
+                <l n="474"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ἕπονθ', ὡς εἴ
+                    τε δαφοινοὶ θῶες ὄρεσφιν</l>
                 <l n="475">ἀμφ' ἔλαφον κεραὸν βεβλημένον· ὅν τ' ἔβαλ' ἀνὴρ</l>
                 <l n="476">ἰῷ ἀπὸ νευρῆς· τὸν μέν τ' ἤλυξε πόδεσσι</l>
                 <l n="477">φεύγων, ὄφρ' αἷμα λιαρὸν καὶ γούνατ' ὀρώρῃ·</l>
