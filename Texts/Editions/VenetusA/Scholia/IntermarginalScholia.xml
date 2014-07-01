@@ -714,6 +714,39 @@
                             <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταχος</persName> <q>αὐτὰρ ἔμ' εί κε θάνω</q></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.54" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.457</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταχος</persName> <q>ἕλκε</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.55" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.459</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται καὶ <q>ἐπεὶ ἴδον</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.56" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.462</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι παρῆκε το τί φωνῶν οἷον βοηθειτε ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

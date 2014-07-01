@@ -3166,6 +3166,47 @@
                                 τίνος χρωτός· ἐὰν δέ τις συνάπτῃ μᾶλλον ἁμαρτήσεται ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.177" type="scholion">
+                        <div type="lemma">
+                            <p>αἷμα δέ οἱ σπασθεντος·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.458</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                <q>οἷ</q>, <q>αἷμα δὲ αὐτῷ</q> τῷ <persName
+                                    n="urn:cite:hmt:pers.pers118">Ὀδυσσεῖ</persName>. <persName
+                                    n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> δὲ γράφει
+                                    <q>αἷμα δὲ <del>αὐτῷ</del> οὗ σπασθέντος</q> γίνεται δὲ τὸ
+                                ἑαυτοῦ ὃ οὐχ ἁρμόζει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.178" type="scholion">
+                        <div type="lemma">
+                            <p>κεκλόμενοι καθ' ὅμιλον,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.460</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ <q>καθ' ὅμιλον</q> δύναται μὲν καὶ τοῖς ἑξῆς προσδίδοσθαι οἷον
+                                κατα πλῆθος ἐπῆλθον αὐτῷ πολὺ δὲ κρεῖσσον τοῖς ἐπάνω συνάπτειν
+                                παρακελεύσατο γὰρ τῷ πλήθει ἑαυτῶν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.179" type="scholion">
+                        <div type="lemma">
+                            <p>αὖε δ' ἑταίρους·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.461</p>
+                        </div>
+                        <div type="comment">
+                            <p>ψιλῶς τέτακται γὰρ ἐπὶ τοῦ φωνεῖν· ὅτ ἂν δὲ ἐπι τοῦ ξηραίνειν ἢ
+                                ἄπτειν τότε δασυντέον ἔστι γὰρ σύνθετον ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
