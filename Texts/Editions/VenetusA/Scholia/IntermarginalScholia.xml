@@ -703,6 +703,17 @@
                             <p>μυθολόγε καὶ φλύαρε· ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.53" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.455</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταχος</persName> <q>αὐτὰρ ἔμ' εί κε θάνω</q></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

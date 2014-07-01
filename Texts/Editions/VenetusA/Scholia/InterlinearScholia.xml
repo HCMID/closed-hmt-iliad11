@@ -2391,6 +2391,39 @@
                                 </choice></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.207" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.451</p>
+                        </div>
+                        <div type="comment">
+                            <p>προέλαβεν έφασεν :</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.208" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.453</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοὺς ὀφθαλμοὺς <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> λήψονται καμμύσουσι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.209" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.455</p>
+                        </div>
+                        <div type="comment">
+                            <p>θάψουσι</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
