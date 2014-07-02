@@ -3221,6 +3221,62 @@
                                 εἰκάζει ἵνα αὐξήσῃ τὸν κίνδυνον ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.181" type="scholion">
+                        <div type="lemma">
+                            <p>ἐν νέμεϊ σκιερῷ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.480</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q>ἐν νέμεϊ γλαφυρῷ</q> τοῦτο δὲ σπηλαίω ἠ ἄντρῳ οἰκεῖον·
+                                νομᾶς δὲ ἔχοντι. ὑπὸ συνδένδρῳ τόπῳ ἀνάρμοστον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.182" type="scholion">
+                        <div type="lemma">
+                            <p>λῖν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.480</p>
+                        </div>
+                        <div type="comment">
+                            <p>περισπαστέον, κατα νόμον τῶν μονοσυλλάβων αἰτιατικῶν. πᾶσα γὰρ
+                                αἰτιατικῇ μονοσύλλαβος εἰς <rs type="waw">ν</rs> λήγουσα περισπᾶται·
+                                ἀπέστραπται δὲ τὸν ὀξὺν τόνον· <q>μοῦν</q>
+                                <q>μνᾶν</q>
+                                <q>σῦν</q>
+                                <q>μῦν</q>, ταύτη καὶ ἡ κλεῖδα αἰτιατικὴ <choice>
+                                    <abbr>γενομε</abbr>
+                                    <expan>γενομένη</expan>
+                                </choice> κλεῖν περισπᾶται τῆς εὐθείας ὀξυνομενης· ταῦτα <persName
+                                    n="urn:cite:hmt:pers.pers493">Ἡρωδιανὸς</persName> ἐν τῷ
+                                πεντεκαιδεκάτῳ τῆς <title n="urn:cts:greekLit:tlg0087.tlg001"
+                                    >Καθόλου</title> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.183" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.480</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄλλως ἔδει μὲν περισπωμένως ὡς <q><choice>
+                                        <sic>μῦν</sic>
+                                        <corr>μῦς</corr>
+                                    </choice></q>
+                                <q>μῦν</q>. τὸ γὰρ πληθυντικὸν παρὰ <persName
+                                    n="urn:cote:hmt:pers.pers86"><choice>
+                                        <abbr>Καλλιμάχ</abbr>
+                                        <expan>Καλλιμάχῳ</expan>
+                                    </choice></persName> (fr. 807 dub.) <q>αἱ μέν ῥα λίεσσιν</q> ὡς
+                                    <q>μύεσσιν</q>· <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχω</persName> δὲ ἐπείσθη ἡ παράδοσις ὀξύνοντι ⁑ </p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
