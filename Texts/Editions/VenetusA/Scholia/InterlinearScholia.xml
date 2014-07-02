@@ -2556,13 +2556,74 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.481</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>συν δ' ἐπέφυγον:</p>
                         </div>
                     </div>
-                    
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.222" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.486</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>εστ</abbr>
+                                    <expan>ἔστη</expan>
+                                </choice> δὲ παρ αυτον </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.223" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.486</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἄλλος ἀλλαχοῦ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.224" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.493</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατεπειγόμενος διωκόμενος ἀφ οῦ <choice>
+                                    <abbr>πληρούμε</abbr>
+                                    <expan>πληρούμενος</expan>
+                                </choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.225" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.494</p>
+                        </div>
+                        <div type="comment">
+                            <p>ξηράς</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.226" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.495</p>
+                        </div>
+                        <div type="comment">
+                            <p><placeName n="urn:cite:hmt:place.place6">Ιλιῶδε</placeName>
+                                συφερτὸν</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

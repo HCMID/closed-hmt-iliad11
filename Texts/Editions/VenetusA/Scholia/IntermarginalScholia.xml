@@ -784,6 +784,17 @@
                             <p>τὸν ἄδρα δῆλονοτι</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.60" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.484</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν χαλεπὴν ημεραν τοῦτέστι τὸν θάνατον :</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
