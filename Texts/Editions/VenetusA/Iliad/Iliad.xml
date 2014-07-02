@@ -736,8 +736,15 @@
                         <corr>φώς</corr>
                     </choice>·</l>
                 <l n="473">εὗρον ἔπειτ' <persName n="urn:cite:hmt:pers.pers118">Ὀδυσῆα</persName>
+<<<<<<< HEAD
                     <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> φίλον. ἀμφι δ' ὰρ'
                     αὐτὸν</l>
+=======
+                    <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> φίλον. ἀμφι δ' ὰρ' <choice>
+                        <reg>αὐτῷ</reg>
+                        <orig>αὐτὸν</orig>
+                    </choice></l>
+>>>>>>> 61595df2592b7431a7d101ed89e69760578488a5
                 <l n="474"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> ἕπονθ', ὡς εἴ
                     τε δαφοινοὶ θῶες ὄρεσφιν</l>
                 <l n="475">ἀμφ' ἔλαφον κεραὸν βεβλημένον· ὅν τ' ἔβαλ' ἀνὴρ</l>

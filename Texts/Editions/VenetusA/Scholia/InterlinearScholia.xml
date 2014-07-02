@@ -2410,7 +2410,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.453</p>
                         </div>
                         <div type="comment">
-                            <p>τοὺς ὀφθαλμοὺς <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> λήψονται καμμύσουσι</p>
+                            <p>τοὺς ὀφθαλμοὺς <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> λήψονται καμμύσουσι</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.209" type="scholion">
@@ -2451,10 +2454,46 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.466</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τὸ εξῆς αφικετό με:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.213" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.467</p>
+                        </div>
+                        <div type="comment">
+                            <p>βιάζοιντο</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.214" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.474</p>
+                        </div>
+                        <div type="comment">
+                            <p>φένιοι η πυρρος</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.215" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.474</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>λυκοειδ</abbr>
+                                    <expan>λυκοειδέα</expan>
+                                </choice> ζῶα</p>
                         </div>
                     </div>
                 </body>
