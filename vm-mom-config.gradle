@@ -1,7 +1,7 @@
 project.ext {
 
     // URN of folio or papyrus column you want to verify:
-    //folio = "urn:cite:hmt:msA.137v"
+    //folio = "urn:cite:hmt:msA.140v"
 
 
     // Lists of index files to use in verification:
