@@ -3576,6 +3576,80 @@
                                     >Αἴας</persName>. ἔλασσον δόρατος βολῆς, ἀνεχώρει</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.202" type="scholion">
+                        <div type="lemma">
+                            <p>μίνυνθα δέ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.539</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπ ὀλίγον φησὶ τῆς βολῆς τοῦ δόρατος ὑπεχώρει· <choice>
+                                    <abbr>ἀντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ οὐδὲ ἐπ ολίγον· ἀλλ' ἀεὶ συνεπλέκετο ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.203" type="scholion">
+                        <div type="lemma">
+                            <p>στῆ δὲ ταφὼν ὅπιθεν δὲ σάκος:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.545</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐκ τελαμώνων ἀνηρτηντο αἱ ἀσπίδες οὐ γὰρ ἂν ἄλλως ἠδύνατο εἰς
+                                τουπίσω μεταλαμβάνεσθαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.204" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς δ' αἴθωνα λέοντα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.548</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀπο τούτου <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName> ἀθετεῖ ἕως τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.557</ref>
+                                    <q>ἥϊε πολλ' ἀεκων</q>
+                                </cit> ἴσως ὅτι νῦν μὲν λέοντι παραβεάληκεν ἑξὴς δὲ ὄνῳ ἔστι δὲ πρὸς
+                                διαφορα σημαινόμενα· ὁ μὲν γὰρ λέων πρὸς τὴν πρᾶξιν ὁ δὲ ὄνος πρὸς
+                                τὴν ὑπομονήν· καὶ γὰρ τοῦτον ἐπιτριβῇ πληγῶν λαμβάνει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.205" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.548</p>
+                        </div>
+                        <div type="comment">
+                            <p>δια τί. ὁτε μὲν λέοντι ὁτὲ δὲ ὄνῳ παραβάλλει τὸν <persName
+                                    n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> ῥητεον οὖν ὅτι
+                                αἱ μὲν παραβολαὶ τριῶν ἕνεκα γίνονται αὐξήσεως ἐνεργείας σαφηνείας.
+                                εἰς τὸ πρόσφορον δὲ ἓν ἑκάτερον διετήρησεν. ὁ ποιητὴς εἰπὼν
+                                    <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> καὶ
+                                φονεύοντος δίκηνος καὶ τῶν πολεμίων ἀναχωρεῖν ὡς ὄνον ταῖς γὰρ
+                                φύσεσι τῶν ζῴων καὶ τὸ ὀκνηρὸν προσφυγὴν καὶ τὸ ταχὺ πρὸς μαχὴν τοῦ
+                                ἥρωος δεδήλωκεν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.206" type="scholion">
+                        <div type="lemma">
+                            <p>ὁ δὲ κρειῶν ἐρατίζων:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.551</p>
+                        </div>
+                        <div type="comment">
+                            <p>περισπαστέον ἡ γὰρ <q>κρεῶν</q> γενικὴ ἐπλεόνασε τὸ <rs type="waw"
+                                    >ϊ</rs>, ἥτις περισπᾶται δια τὸ ἔχειν εντελεστεραν τὴν κρεάων
+                                ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
