@@ -2704,6 +2704,89 @@
                             <p>ἀναμεμιγμένοι</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.234" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.532</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῆ ὀξὺν ῆχον ἀποτελούση ἡ λιγεῖς καὶ ὀξεῖς τοὺς ἵππους ποιούση <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸν δρόμον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.235" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.532</p>
+                        </div>
+                        <div type="comment">
+                            <p>αισθόμενοι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.236" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.534</p>
+                        </div>
+                        <div type="comment">
+                            <p>πατοῦντες</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.237" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.536</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶν ὀνύχων</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.238" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.536</p>
+                        </div>
+                        <div type="comment">
+                            <p>ρανίδες·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.239" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.537</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ εκτὸς τῶν τροχῶν ἐπι τὴν γὴν <choice>
+                                    <abbr>κυλιομ</abbr>
+                                    <expan>κυλιόμενα</expan>
+                                </choice></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.240" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.538</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν τῶν ανδρῶν</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

@@ -3523,6 +3523,59 @@
                             <p>ὅτι κυρίως λέγει <q>ὁμιλέομεν</q> ὁμοῦ τὰς ί̈λας συμβάλλομεν ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.198" type="scholion">
+                        <div type="lemma">
+                            <p>κεῖσ' ἵππους τε καὶ ἅρμ'α :</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.528</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q>κεῖθ' ἵππους</q>· γίνεται δὲ ἐν εκείνῳ τῷ τόπῳ· τὸ δὲ
+                                εκεῖσε εἰς ἐκεῖνον τὸν τόπον ὃ δὴ νῦν ἁρμόζει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.199" type="scholion">
+                        <div type="lemma">
+                            <p>μάστιγι λιγυρῇ,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.532</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τῷ εἴδει τὸ γενος δεδήλωκεν· τὸ γὰρ <q>ἀΐοντες</q> ἐστὶν
+                                ἀκούοντες θέλει δὲ εἰπεῖν ἐπαισθόμενοι τῆς πληγῆς ἡ γὰρ ἀκοὴ εἶδός
+                                ἐστι τῆς αἰσθήσεως ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.200" type="scholion">
+                        <div type="lemma">
+                            <p>ἃς άρ' ἀφ' ἱππείων ὁπλέων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.536</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ χωριστέον τὸν ἑξῆς ἐπιφερόμενον <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.537</ref>
+                                    <q>αἵ τ' ἀπ' ἐπισσώτρων</q>
+                                </cit> ὁ γὰρ λόγος οὗτος· ἃς αἱ ρανίδες ἔβαλλον αἱ ἀπό τε τῶν
+                                ἱππείων ὁπλῶν καὶ αἱ ἀπὸ τῶν ἐπισσώτρων·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.201" type="scholion">
+                        <div type="lemma">
+                            <p>μίνυθα δὲ χάζετο,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.539</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκεῖθεν ὅπου ἦν ὁ <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴας</persName>. ἔλασσον δόρατος βολῆς, ἀνεχώρει</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

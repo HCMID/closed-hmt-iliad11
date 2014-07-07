@@ -806,6 +806,25 @@
                             <p>γράφεται <q>μάτιξεν δ' ελάαν</q></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.62" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.538</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> <q>ῥήξαι
+                                τε</q> <choice>
+                                    <abbr>δτ</abbr>
+                                    <expan>διὰ τοῦ</expan>
+                                </choice> <q>τε</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
