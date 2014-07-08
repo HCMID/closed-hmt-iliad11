@@ -1,2 +1,12 @@
-Scholion,TextUrn,Image,Number,Folio,SequenceOnFolio
-
+FootnoteUrn,Scholion,TextUrn,Image,Number,Folio,SequenceOnFolio
+urn:cite:hmt:e3footnotes.11-1,urn:cts:greekLit:tlg5026.e3.hmt:11.1,urn:cts:greekLit:tlg0012.tlg001.e3:11.1@ἠὼς,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2303,0.3396,0.0158,0.0167",1,urn:cite:hmt:e3bifolio.E3_136v_137r,1
+urn:cite:hmt:e3footnotes.11-2,urn:cts:greekLit:tlg5026.e3.hmt:11.2,urn:cts:greekLit:tlg0012.tlg001.e3:11.1@Τιθωνοῖο,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.3779,0.3498,0.0158,0.0167",2,urn:cite:hmt:e3bifolio.E3_136v_137r,2
+urn:cite:hmt:e3footnotes.11-3,urn:cts:greekLit:tlg5026.e3.hmt:11.3,urn:cts:greekLit:tlg0012.tlg001.e3:11.2@ἀθανάτοισι,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2793,0.3633,0.0158,0.0167",3,urn:cite:hmt:e3bifolio.E3_136v_137r,3
+urn:cite:hmt:e3footnotes.11-4,urn:cts:greekLit:tlg5026.e3.hmt:11.4,urn:cts:greekLit:tlg0012.tlg001.e3:11.3@Ἔριδα,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2712,0.3792,0.0158,0.0167",4,urn:cite:hmt:e3bifolio.E3_136v_137r,4
+urn:cite:hmt:e3footnotes.11-5,urn:cts:greekLit:tlg5026.e3.hmt:11.5,urn:cts:greekLit:tlg0012.tlg001.e3:11.5@Ὀδυσσῆος,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2725,0.4135,0.0158,0.0167",5,urn:cite:hmt:e3bifolio.E3_136v_137r,5
+urn:cite:hmt:e3footnotes.11-6,urn:cts:greekLit:tlg5026.e3.hmt:11.6,urn:cts:greekLit:tlg0012.tlg001.e3:11.8@ἐπ᾽ Ἀχιλλῆος,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2573,0.4673,0.0158,0.0167",6,urn:cite:hmt:e3bifolio.E3_136v_137r,6
+urn:cite:hmt:e3footnotes.11-7,urn:cts:greekLit:tlg5026.e3.hmt:11.7,urn:cts:greekLit:tlg0012.tlg001.e3:11.11@Ἀχαιοῖσι,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.278,0.52,0.0158,0.0167",7,urn:cite:hmt:e3bifolio.E3_136v_137r,7
+urn:cite:hmt:e3footnotes.11-8,urn:cts:greekLit:tlg5026.e3.hmt:11.8,urn:cts:greekLit:tlg0012.tlg001.e3:11.13@ἄφαρ,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2695,0.5563,0.0136,0.0139",8,urn:cite:hmt:e3bifolio.E3_136v_137r,8
+urn:cite:hmt:e3footnotes.11-9,urn:cts:greekLit:tlg5026.e3.hmt:11.9,urn:cts:greekLit:tlg0012.tlg001.e3:11.16@ἐδύσετο,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.3215,0.6065,0.0133,0.0118",9,urn:cite:hmt:e3bifolio.E3_136v_137r,9
+urn:cite:hmt:e3footnotes.11-10,urn:cts:greekLit:tlg5026.e3.hmt:11.10,urn:cts:greekLit:tlg0012.tlg001.e3:11.20@Κινύρης,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.2811,0.6773,0.0133,0.0126",10,urn:cite:hmt:e3bifolio.E3_136v_137r,10
+urn:cite:hmt:e3footnotes.11-11,urn:cts:greekLit:tlg5026.e3.hmt:11.11,urn:cts:greekLit:tlg0012.tlg001.e3:11.24@οἶμοι,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.5643,0.3297,0.0136,0.0156"
