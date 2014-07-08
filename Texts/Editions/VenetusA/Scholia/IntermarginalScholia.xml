@@ -50,12 +50,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.27</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
-                                        >Ζηνοτ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers15"
-                                            >Ζηνόδοτος</persName></expan>
-                                </choice> ἐριδεσσιν</p>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> ἐριδεσσιν</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.4" type="scholion">
@@ -207,12 +205,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.122</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
-                                        >Ζηνοδ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers15"
-                                            >Ζηνόδοτος</persName></expan>
-                                </choice> γράφει <q>κακόφρονος</q> εὐτελῶς ⁑ </p>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> γράφει <q>κακόφρονος</q> εὐτελῶς ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.16" type="scholion">
@@ -253,12 +249,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.132</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
-                                        >Ζηνοδ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers15"
-                                            >Ζηνόδοτος</persName></expan>
-                                </choice>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
                                 <q>πολλα δ' ἐν <persName n="urn:cite:hmt:pers.pers492"
                                         >Αντιμαχου</persName> πατρὸς</q> ⁑ </p>
                         </div>
@@ -462,12 +456,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.348</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers15"
-                                        >Ζηνοδ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers15"
-                                            >Ζηνόδοτος</persName></expan>
-                                </choice>
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
                                 <choice>
                                     <abbr>δυϊκ</abbr>
                                     <expan>δυϊκῶς</expan>
@@ -508,12 +500,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.356</p>
                         </div>
                         <div type="comment">
-                            <p>προηθέτει <choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
-                                        >Ἀριστοφα</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers16"
-                                            >Ἀριστοφάνης</persName></expan>
-                                </choice>
+                            <p>προηθέτει <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφα</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
                                 <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> δε οὐδε
                                 ἔγρφεν ⁑</p>
                         </div>

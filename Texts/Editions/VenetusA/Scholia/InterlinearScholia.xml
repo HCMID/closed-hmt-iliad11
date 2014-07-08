@@ -227,12 +227,10 @@
                             <p><choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
-                                        >Αρισ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers16"
-                                            >Ἀρίσταρχος</persName></expan>
-                                </choice> γράφεται δὲ καὶ <q>ἐπ αυτῶ</q>:</p>
+                                </choice><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> γράφεται δὲ καὶ <q>ἐπ αυτῶ</q>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.19" type="scholion">

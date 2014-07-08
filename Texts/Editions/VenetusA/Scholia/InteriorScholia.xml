@@ -94,12 +94,10 @@
                             <p><choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers16"
-                                        >αριστ</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers16"
-                                            >Ἀρίσταρχος</persName></expan>
-                                </choice>
+                                </choice><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>αριστ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
                                 <q>κεφαλὰς ενθαδ</q>:</p>
                         </div>
                     </div>
@@ -122,12 +120,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.135</p>
                         </div>
                         <div type="comment">
-                            <p><choice>
-                                    <abbr><persName n="urn:cite:hmt:pers.pers21"
-                                        >Ἀριστοφα</persName></abbr>
-                                    <expan><persName n="urn:cite:hmt:pers.pers21"
-                                            >Ἀριστοφάνης</persName></expan>
-                                </choice>
+                            <p><persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφα</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
                                 <q>ζωῶ</q></p>
                         </div>
                     </div>
