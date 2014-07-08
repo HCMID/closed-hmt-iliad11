@@ -1,8 +1,8 @@
 Text,Image,Folio
 urn:cts:greekLit:tlg5026.e3.hmt:11.#,"IMAGE",urn:cite:hmt:e3.BIFOLIO
-urn:cts:greekLit:tlg5026.e3.hmt:11.1,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0815,0.1687,0.3663,0.3797,urn:cite:hmt:e3bifolio.E3_136v_137r
-urn:cts:greekLit:tlg5026.e3.hmt:11.2,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0881,0.5406,0.1287,0.1958,urn:cite:hmt:e3bifolio.E3_136v_137r
-urn:cts:greekLit:tlg5026.e3.hmt:11.3,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0869,0.7275,0.3599,0.0664,urn:cite:hmt:e3bifolio.E3_136v_137r
-urn:cts:greekLit:tlg5026.e3.hmt:11.4,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0895,0.8055,0.3503,0.024,urn:cite:hmt:e3bifolio.E3_136v_137r
-urn:cts:greekLit:tlg5026.e3.hmt:11.5,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0999,0.8245,0.2118,0.0204,urn:cite:hmt:e3bifolio.E3_136v_137r
-urn:cts:greekLit:tlg5026.e3.hmt:11.6,urn:cite:hmt:e3bifolio.E3_136v_137r@0.0989,0.8196,0.3419,0.1064,urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.1,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0815,0.1687,0.3663,0.3797",urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.2,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0881,0.5406,0.1287,0.1958",urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.3,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0869,0.7275,0.3599,0.0664",urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.4,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0895,0.8055,0.3503,0.024",urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.5,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0999,0.8245,0.2118,0.0204",urn:cite:hmt:e3bifolio.E3_136v_137r
+urn:cts:greekLit:tlg5026.e3.hmt:11.6,"urn:cite:hmt:e3bifolio.E3_136v_137r@0.0989,0.8196,0.3419,0.1064",urn:cite:hmt:e3bifolio.E3_136v_137r
