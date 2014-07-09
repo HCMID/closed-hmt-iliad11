@@ -3843,9 +3843,48 @@
                                 ἔκθεσμον ὁ γὰρ <persName n="urn:cite:hmt:pers.pers17"><choice>
                                         <abbr>Ὅμρ</abbr>
                                         <expan>Ὅμηρος</expan>
-                                    </choice></persName> <q>ϊῶκα</q> τὴν ἡωκὴν οἷον διωξιν ὡς <persName
-                                    n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> τὴν
-                                κρόκην <q>κρόκα</q> ⁑</p>
+                                    </choice></persName>
+                                <q>ϊῶκα</q> τὴν ἡωκὴν οἷον διωξιν ὡς <persName
+                                    n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> τὴν κρόκην
+                                    <q>κρόκα</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.222" type="scholion">
+                        <div type="lemma">
+                            <p>‡ ἔκμολεν.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.604</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινὲς ὅτι οὐ πόρρωθεν ἡ προάναφώνησις. κακεῖ οὖν οὐκ επι
+                                τὰ πόρρω ἡ ἀπότασις <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.5</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> δ'
+                                        ἑτελείετο, βουλῇ</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.223" type="scholion">
+                        <div type="lemma">
+                            <p>τίπτέ με κικλήσκεις:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.606</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι πτῶσις ἤλλακται αἰτιατικῇ ἀντι δοτικῆς τὸ <q>σὲ</q> ἀντι τοῦ <q>σοι</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.224" type="scholion">
+                        <div type="lemma">
+                            <p>ὅν τινα τοῦτον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.612</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ <q>τετρωμένον τῷ ἰδικῷ τὸ γενικὸν ἐσήμανεν</q> ⁑</p>
                         </div>
                     </div>
                 </body>
