@@ -3731,6 +3731,106 @@
                             <p>τὰ δόρατα ἵσταντο. καὶ ὅτι ἀπο τῶν ἐμψύχων μεταφέρει ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.214" type="scholion">
+                        <div type="lemma">
+                            <p>‡ ῆπαρ ὑπο πραπίδων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.579</p>
+                        </div>
+                        <div type="comment">
+                            <p>πραπῖδες τὸ <w>διά<del>α</del>φραγμα</w>. ἐστι δὲ νευρώδης ὑμῆν
+                                διεζωκὼς τὰ σπλάγχνα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.215" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.579</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ <q>ῆπαρ</q> ἕτρωσεν κάτω ὑπο τὰς φρένας· <q>φρένας</q> δὲ ὁ
+                                ποιητὴς καὶ πάντες οἱ παλαιοὶ ἐκάλουν τὸ διάφραγμα. παρ ὅσον
+                                φλεγμαῖνον τοῦτο ὡς νευρώδες ἔχει. συμπάσχοντα τὸν ἐγκέφαλον· καὶ
+                                παρακολουθοῦσι μεγίσται παραφρονήσεις. πηγῆ δὲ όλου τοῦ νευρώδους
+                                γένους ὁ εγκέφαλος. ὥσπερ ἀρτηριῶν καρδία καὶ φλεβῶν ἧπαρ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.216" type="scholion">
+                        <div type="lemma">
+                            <p>δεξιὸν ἐκλάσθη δὲ <choice>
+                                    <sic>δὸναξ</sic>
+                                    <corr>δόναξ</corr>
+                                </choice>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.584</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ὁ τοῦ βέλους κάλαμος. τὰ γὰρ βέλη ξύλινα καὶ καλάμινα ἦν προς το <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.53</ref>
+                                    <q>κῆλα θεοῖ</q>
+                                </cit> ὅτι <q>τὰ βέλη</q> λέγει· καίτοι ἐξ ἄλλης ἦν ὕλης εκεῖνα
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.217" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.583</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ <q>καὶ αὐτοῦ τὸν μηρὸν ἕτρωσεν</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.218" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers127">Αἵανθ'</persName> ὃς
+                                βελέεσσι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.589</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q><persName n="urn:cite:hmt:pers.pers127">Αἴαντος</persName>
+                                    βελέεσσι</q>· γενικῇ μὲν οὖν οὐχ ἁρμόζει ὥστε δέχεσθαι <q>τοῦ
+                                        <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴαντος</persName></q>· εἰ δὲ καὶ κατα συναλιφὴν ἐν τῷ ψιλῶ
+                                ἀντιστοίχῳ γέγραφεν ἵν' ᾗ τὸ πλῆρες <q><persName
+                                        n="urn:cite:hmt:pers.pers127">Αἴαντος</persName>
+                                    βελέεσσιν</q>. οὐκ έστι τῆς καθ <persName
+                                    n="urn:cite:hmt:pers.pers17">Ὅμηρον</persName>
+                                <placeName>Ἰαδος</placeName> τὸ ψιλοῦν τὰ τοιαῦτα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.219" type="scholion">
+                        <div type="lemma">
+                            <p>ὡσοι μὲν μάρναντο δέμας</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.596</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν σφοδρότητα τῆς μάχης παρίστησι περι τὴν γενομένην ἐν αυτῇ φθορὰν
+                                εἰκάσας πῦρ γὰρ καὶ ῥάστα, καὶ τάχιστα φθείρει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.220" type="scholion">
+                        <div type="lemma">
+                            <p>ἑστήκει γὰρ ἐπι πρύμνη</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.600</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἡ πτῶσις ἥλλακται ἀντι τοῦ <q>πρύμνης μεγακήτεος νηός</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

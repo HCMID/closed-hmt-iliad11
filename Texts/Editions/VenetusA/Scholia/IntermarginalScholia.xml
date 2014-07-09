@@ -898,6 +898,31 @@
                             <p>βραχὺ διασταλτέον ἐπι το <q>μεσσηγυ</q></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.69" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.590</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶν πολεμίων δηλονότι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.70" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.600</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                <abbr>Ἀρισταρχ</abbr>
+                                <expan>Ἀρισταρχος</expan>
+                            </choice></persName> <q>ἐστήκει</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
