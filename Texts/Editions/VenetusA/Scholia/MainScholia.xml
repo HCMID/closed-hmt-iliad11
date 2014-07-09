@@ -3831,6 +3831,23 @@
                             <p>ὅτι ἡ πτῶσις ἥλλακται ἀντι τοῦ <q>πρύμνης μεγακήτεος νηός</q> ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.221" type="scholion">
+                        <div type="lemma">
+                            <p>ἐκορόων πόνον αἰπὺν ϊώκα τε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.601</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅ τινὲς γράφουσιν <q>ἰῶ</q>, εἶτα <q>καταδακρυόεσσαν</q>. γίνεται δὲ
+                                ἔκθεσμον ὁ γὰρ <persName n="urn:cite:hmt:pers.pers17"><choice>
+                                        <abbr>Ὅμρ</abbr>
+                                        <expan>Ὅμηρος</expan>
+                                    </choice></persName> <q>ϊῶκα</q> τὴν ἡωκὴν οἷον διωξιν ὡς <persName
+                                    n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName> τὴν
+                                κρόκην <q>κρόκα</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
