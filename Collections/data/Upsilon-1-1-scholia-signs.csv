@@ -211,7 +211,7 @@ urn:cts:greekLit:tlg5026.e3.hmt:11.209,"IMG",5
 urn:cts:greekLit:tlg5026.e3.hmt:11.210,"IMG",6
 urn:cts:greekLit:tlg5026.e3.hmt:11.211,"IMG",7
 urn:cts:greekLit:tlg5026.e3.hmt:11.212,"IMG",8
-urn:cts:greekLit:tlg5026.e3.hmt:11.213,"IMG",9
+urn:cts:greekLit:tlg5026.e3.hmt:11.213,,9
 urn:cts:greekLit:tlg5026.e3.hmt:11.214,"IMG",10
 urn:cts:greekLit:tlg5026.e3.hmt:11.215,"IMG",11
 urn:cts:greekLit:tlg5026.e3.hmt:11.216,"IMG",12
@@ -224,7 +224,6 @@ urn:cts:greekLit:tlg5026.e3.hmt:11.222,"IMG",18
 urn:cts:greekLit:tlg5026.e3.hmt:11.223,"IMG",19
 urn:cts:greekLit:tlg5026.e3.hmt:11.224,"IMG",20
 urn:cts:greekLit:tlg5026.e3.hmt:11.225,"IMG",21
-urn:cts:greekLit:tlg5026.e3.hmt:11.226,"IMG",22
 urn:cts:greekLit:tlg5026.e3.hmt:11.227,"urn:cite:hmt:e3bifolio.E3_149v_150r@0.1169,0.2095,0.0156,0.0268",1
 urn:cts:greekLit:tlg5026.e3.hmt:11.228,"urn:cite:hmt:e3bifolio.E3_149v_150r@0.1155,0.2274,0.0156,0.0268",2
 urn:cts:greekLit:tlg5026.e3.hmt:11.229,"urn:cite:hmt:e3bifolio.E3_149v_150r@0.2326,0.2486,0.0146,0.0206",3
