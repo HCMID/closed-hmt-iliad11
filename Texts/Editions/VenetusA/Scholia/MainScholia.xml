@@ -3661,9 +3661,74 @@
                         </div>
                         <div type="comment">
                             <p>ξύλα ἐκ τοῦ ἑτέρου μέρους παχύτερα καὶ τὸ ἕτοιμον εἰς τὸ ἕτερον μερος
-                                τὴν ῥοπὴν ἔχοντα· ἢ ἐκ τοῦ <q>ῥαπίζειν</q>. ἢ τῇ ῥοπῇ ὅ ἐστι τῇ φορᾷ. ἀλλοι
-                                οῦν καὶ συντρίβειν συνήθη δὲ πληγῶν θέλει αὐτὸν, παραστῆσαι ἵνα
-                                δείξῃ αὐτοῦ τὸ γενναῖον ⁑</p>
+                                τὴν ῥοπὴν ἔχοντα· ἢ ἐκ τοῦ <q>ῥαπίζειν</q>. ἢ τῇ ῥοπῇ ὅ ἐστι τῇ
+                                φορᾷ. ἀλλοι οῦν καὶ συντρίβειν συνήθη δὲ πληγῶν θέλει αὐτὸν,
+                                παραστῆσαι ἵνα δείξῃ αὐτοῦ τὸ γενναῖον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.209" type="scholion">
+                        <div type="lemma">
+                            <p>σπουδῇ τ' ἐξήλασσαν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.562</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <q>σπουδῇ</q> λέγει ἀντι τοῦ <q>μόλις</q> καὶ μετα πολλῆς
+                                κακοπαθίας καὶ ὅτι <q>ἐκορέσσατο</q> εἶπεν ἀντι τοῦ <q>ἐκορέσθη</q>
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.210" type="scholion">
+                        <div type="lemma">
+                            <p><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>
+                                ἱπποδάμων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.568</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὸ ὁτὲ δὲ τρωπάσκετο ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.211" type="scholion">
+                        <div type="lemma">
+                            <p>πάντας δὲ προέεργε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.569</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἤτοι ἐκώλυεν τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρώας</rs> ἐμπίπτειν ταῖς ναυσὶν ἠ προετρέπετο τοὺς <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>
+                                ἀναχωρεῖν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.212" type="scholion">
+                        <div type="lemma">
+                            <p>ἄλλα μὲν ἐν σάκεϊ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.572</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν ἐξήγησιν τοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.535</ref>
+                                    <q>ὁ δὲ χασσάμενος πελεμίχθη</q>
+                                </cit> ἀναχωροῦντες γὰρ τὰ ἐμπεπηγότα δόρατα ταῖς ἀσπίσι διετίνασσον
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.213" type="scholion">
+                        <div type="lemma">
+                            <p>ἐν γαίῃ ἱσταντο·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.574</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὰ δόρατα ἵσταντο. καὶ ὅτι ἀπο τῶν ἐμψύχων μεταφέρει ⁑</p>
                         </div>
                     </div>
                 </body>
