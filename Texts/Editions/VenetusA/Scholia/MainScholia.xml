@@ -3951,6 +3951,100 @@
                                 μετ ευλόγου προφάσεως εἰς τὸν πόλεμον ἐξάγειν ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.229" type="scholion">
+                        <div type="lemma">
+                            <p>πὰρ δὲ δέπας</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.632</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὴν κατασκευὴν τοῦ ποτηρίου <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName> τοιαύτην εἶναι φησὶ, πρῶτον μὲν περίμηκες
+                                αὐτῷ εῖναι. καὶ δύο πυθμένας ἔχειν οὐχ ἕτερον ἐξ ετέρου ὥς τινες·
+                                ἀλλ' <choice>
+                                    <sic>ἑκατέρῶθεν</sic>
+                                    <corr>ἑκατέρωθεν</corr>
+                                </choice> τῶν τεσσάρων ὤτων οὐκ εξ ἴσου τὰ διαστήματα εἶναι ἵνα μὴ
+                                κατόπιν ἐναντίον τοῦ στόματος λαμβάνηται, ἀλλ' ἑκατέρωθεν ποτήριον
+                                δύο καὶ δύο τούτων δὲ ἀπο <choice>
+                                    <reg>μακρὸν</reg>
+                                    <orig>μακρὰν</orig>
+                                </choice> πελειαδα μίαν ἑκατέρωθεν· ἀντεστραμμέναι δε εἰσὶν αὐταῖς·
+                                ἀνα μέσον δὲ αὐτῶν δύο κατα γὰρ ἕκαστον τῶν ὤτων <choice>
+                                    <abbr>τοσαύτ</abbr>
+                                    <expan>τοσαύτας</expan>
+                                </choice>: φησὶν εἶναι. αὐτῷ γὰρ ὡσεὶ φιαλην κοίλην ὥστε ταῖς δύο
+                                χερσὶν ὑπολαμβάνοντας τῶν ὤτων προσλαμβάνεσθαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.230" type="scholion">
+                        <div type="lemma">
+                            <p>χρύσειε νεμέθοντο.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.635</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν κατασκευὴν τοῦ ποτηρίου ὅτι δεδιπλασιασμένον αὐτὸ ὑποτίθεται
+                                τέσσαρα γὰρ ὦτα καὶ δύο πυθμένας· <persName
+                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δὲ τὴν ὑπὸ
+                                συντάσσει τὸ ἦσαν. καὶ φησὶν ὑπῆσαν οἱ πυθμένες. οὕτως καὶ <persName
+                                    n="urn:cite:hmt:pers.pers341">Ἀλεξίων</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.231" type="scholion">
+                        <div type="lemma">
+                            <p>ἄλλος μὲν μογέων</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.636</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὸ ζητούμενον πῶς ὁ γέρων ἀμογητὶ οἱ δὲ ἄλλοι μετα κακοπαθίας,
+                                οὐ δεὶ δὲ οὔτε δασύνειν τὴν προφορὰν. οὔτε ἐπαίρειν τὴν προσωδίαν·
+                                ἀλλα νοεῖν ὅτι καὶ τοῦτο τῶν <choice>
+                                    <sic>ἐπαίνων</sic>
+                                    <corr>ἔπαινων</corr>
+                                </choice> λεγομένων <persName n="urn:cite:hmt:pers.pers117"
+                                    >Νέστορός</persName> ἐστι καθάπερ καὶ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.532</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> δὲ
+                                        πρῶτος κτῦπον ἄει εφωνης</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.232" type="scholion">
+                        <div type="lemma">
+                            <p>ἄλλος μὲν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.636</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> (p.
+                                51 b.) ψιλοῖ καὶ φησὶν ὅτι ἐπι τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers117">Νέστορος</persName> κεῖται. ἄλλος
+                                μὲν γὰρ ἄν τις αὐτὸ μόγις ἐκίνησε, <q><persName
+                                        n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> δ' ὁ γέρων
+                                    ἀμογητι ἄειρεν</q>· πολὺ πρότερον δὲ οὕτως καὶ <persName
+                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>· τινὲς δὲ
+                                βούλονται δασύνειν τὸ <rs type="waw">α</rs> καὶ ἐκτείνειν· ἵν ᾗ ὁ
+                                ἄλλος μὲν μογέων. τοῦτέστιν ὁ <persName n="urn:cite:hmt:pers.pers89"
+                                    >Μαχάων</persName>· ἡμεῖς δὲ εκεῖνο παραφυλάξαι ἔχομεν ὡς ὅτι
+                                παρα τῷ ποιητῇ οὐ δύναται ἡ τοιαύτη κράσις εἶναι, εἰ γὰρ καὶ κρᾶσιν
+                                ἠβούλοντο παραλαμβάνειν ἐχρὴν εἰς τὸ <rs type="waw">ω</rs> ὁμοίως τῷ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.288</ref>
+                                    <q>οἴχετ' ἀνὴρ ὥριστος</q>
+                                </cit>. εἰσὶ δὲ οἳ διέστειλεν <q>ἄλλω</q> τὸ <rs type="waw">ω</rs>
+                                δασύνοντες· ἀλλ' ὣς μὲν μογέων ἵνα τὸ αὐτὸ ὑπάρχη νοητόν ἐπι γὰρ τοῦ
+                                    <persName n="urn:cite:hmt:pers.pers89">Μαχάονος</persName> πάλιν
+                                βούλονται, τὴν διαστολὴν λαμβάνειν, ἡμεῖς δὲ συγκατατιθέμεθα τῷ
+                                    <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχω</persName>
+                                ψιλοῦντι ἐπεὶ βούλεται ὁ ποιητὴς καὶ δια τούτου τὸ εὕρωστον τοῦ
+                                γέροντος παριστάνειν ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
