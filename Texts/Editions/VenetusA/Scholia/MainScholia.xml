@@ -3873,7 +3873,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.606</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι πτῶσις ἤλλακται αἰτιατικῇ ἀντι δοτικῆς τὸ <q>σὲ</q> ἀντι τοῦ <q>σοι</q> ⁑</p>
+                            <p>ὅτι πτῶσις ἤλλακται αἰτιατικῇ ἀντι δοτικῆς τὸ <q>σὲ</q> ἀντι τοῦ
+                                    <q>σοι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.224" type="scholion">
@@ -3885,6 +3886,34 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι ἀντι τοῦ <q>τετρωμένον τῷ ἰδικῷ τὸ γενικὸν ἐσήμανεν</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.225" type="scholion">
+                        <div type="lemma">
+                            <p>ἐξ οχέων:τοὶ δ' ἰδρῶ <choice>
+                                    <abbr>ἀπεψύχοντ</abbr>
+                                    <expan>ἀπεψύχοντο</expan>
+                                </choice>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.621</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ψύχειν μὲν λέγει πρὸς ἄνεμον· τέρσεσθαι δὲ ἐν ἡλίῳ, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:6.98</ref>
+                                    <q>ήματα δ' ἠελίοιο μένον τερσήμεναι αὐγῇ</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.226" type="scholion">
+                        <div type="lemma">
+                            <p>στάν τε ποτι πνοιὴν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.622</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι σαφες ὅτι οῦτοι πρὸς τῇ θαλάσσῃ νενεωλκήκασιν ⁑</p>
                         </div>
                     </div>
                 </body>
