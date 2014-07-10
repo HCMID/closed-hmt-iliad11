@@ -439,7 +439,59 @@
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρισταρχ</abbr>
                                         <expan>Ἀρισταρχος</expan>
-                                    </choice></persName> <q>εστηκει</q> ⁑</p>
+                                    </choice></persName>
+                                <q>εστηκει</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.33" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.628</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐγκλιτικῶς ἀναγνωστέον ἵνα δηλώθὴ τρίτον προσωπον:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.34" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.630</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> πᾶν <q><choice>
+                                        <abbr>προσόψημ</abbr>
+                                        <expan>προσόψημα</expan>
+                                    </choice></q>
+                                <q>όψον</q> οἱ ἀρχαιοι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.35" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.632</p>
+                        </div>
+                        <div type="comment">
+                            <p>‡ <choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἀπο τοῦ <q>ήγαγεν</q>
+                                <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>μετφορὰν</abbr>
+                                    <expan>μεταφορὰν</expan>
+                                </choice> ἀπο τῶν ἐμψύχων:</p>
                         </div>
                     </div>
                 </body>

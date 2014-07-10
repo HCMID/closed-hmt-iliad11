@@ -3916,6 +3916,41 @@
                             <p>ὅτι σαφες ὅτι οῦτοι πρὸς τῇ θαλάσσῃ νενεωλκήκασιν ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.227" type="scholion">
+                        <div type="lemma">
+                            <p>‡ χάλκειον κάνεον: ἐπι δὲ κρόμυον ποτῷ ὄψον,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.630</p>
+                        </div>
+                        <div type="comment">
+                            <p>ποτικὸν ὄψον ὅ ἐστι προσφάγιον δίψους παρασκευαστικόν· πᾶν δὲ τὸ μετὰ
+                                ἄρτου ἐσθιόμενον <q>ὄψον</q> καλεῖται. δι ὃ καὶ ἡ διπλῆ, ἔστι δὲ τὸ
+                                κρόμυον καὶ προς τὰ μηκαλὰ ἁρμόζον ὕδατα ὡς ἀλεξιφάρμακον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.228" type="scholion">
+                        <div type="lemma">
+                            <p>ἡδὲ μέλι χλωρὸν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.631</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρόσφατον νέον· οὕτω γὰρ καὶ ἡμεῖς χλωρὸν τυρὸν λέγομεν τὸν
+                                    <q>νέον</q>· δια τί δε τὸν <persName
+                                    n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> ὁ <persName
+                                    n="urn:cite:hmt:pers.pers1">Αχιλλεὺς</persName> πέμπει· ῥητέον
+                                ὅτι κατ οικονομίαν ἐπειδὴ γὰρ ἄπρακτος ἡ πρεσβεί αγεγένηται διὰ
+                                    <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>
+                                <persName n="urn:cite:hmt:pers.pers117">Νέστορα</persName> βούλεται
+                                τοῦτο κατορθῶσαι ὅπερ οὐκ εποίησαν οἱ πρέσβεις· ὥστε προῳκονόμησεν
+                                τοῦτο ὁ ποιητὴς ἵνα καὶ <persName n="urn:cite:hmt:pers.pers117"
+                                    >Νεστορος</persName> τὴν τῶν λόγων δύναμιν παραστήσῃ καὶ
+                                    <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέα</persName> δόξῃ
+                                μετ ευλόγου προφάσεως εἰς τὸν πόλεμον ἐξάγειν ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
