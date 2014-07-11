@@ -202,7 +202,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.32@θοῦριν</p>
                         </div>
                         <div type="comment">
-                            <p>πολεμικὴν ευκίνητον καὶ κουφιν τῶ φορουοντη</p>
+                            <p>πολεμικὴν ευκίνητον καὶ κουφιν τῶ <choice><abbr>φορουοντ</abbr><expan>φορουοντη</expan></choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.17" type="scholion">
@@ -442,21 +442,6 @@
                             <p>παρην</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.38" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.76@ᾗχι</p>
-                        </div>
-                        <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
-                                <choice>
-                                    <abbr>χω</abbr>
-                                    <expan>χωρὶς</expan>
-                                </choice> τοῦ <rs type="waw">ϊ</rs> τὸ <q>ῆχι</q></p>
-                        </div>
-                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.39" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -554,17 +539,6 @@
                         </div>
                         <div type="comment">
                             <p>αντέσχε</p>
-                        </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.48" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.96@χαλκοβάρεια</p>
-                        </div>
-                        <div type="comment">
-                            <p>τῶ χαλκῶ βαρουμε ὅ εστιν ισχυρα ὅτι ειδος περικεφα ἡ στεφάνη ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.49" type="scholion">
@@ -826,21 +800,6 @@
                             <p>εκπέμψαι</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.72" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.144@ούδει ἐρείσθη</p>
-                        </div>
-                        <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                        <abbr>Αρισταρχ</abbr>
-                                        <expan>Αρισταρχος</expan>
-                                    </choice></persName>
-                                <q>οὐδας ἔρεισεν</q> ⁑ </p>
-                        </div>
-                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.73" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -850,21 +809,6 @@
                         </div>
                         <div type="comment">
                             <p>δ'</p>
-                        </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.74" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.146@κόψας</p>
-                        </div>
-                        <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                        <abbr>Αρισταρχ</abbr>
-                                        <expan>Αρισταρχος</expan>
-                                    </choice></persName>
-                                <q>πλήξας</q> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.75" type="scholion">
@@ -3123,17 +3067,6 @@
                             <p>κακοήχου λυπηροῦ</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.269" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.593@ὤμοισι κλίναντες</p>
-                        </div>
-                        <div type="comment">
-                            <p>ἀντι τοὺς ώμους ταῖς ασπίσι προσερίσαντες:</p>
-                        </div>
-                    </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.270" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -3168,17 +3101,6 @@
                         </div>
                         <div type="comment">
                             <p>τὴν φυγήν·</p>
-                        </div>
-                    </div>
-                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.273" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.601@δακρυόεσσαν</p>
-                        </div>
-                        <div type="comment">
-                            <p>τὴν τῶν πολλῶν δακρύων αιτίαν καὶ συμφοράν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.274" type="scholion">
