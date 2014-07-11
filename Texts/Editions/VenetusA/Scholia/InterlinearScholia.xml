@@ -202,7 +202,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.32@θοῦριν</p>
                         </div>
                         <div type="comment">
-                            <p>πολεμικὴν ευκίνητον καὶ κουφιν τῶ <choice><abbr>φορουοντ</abbr><expan>φορουοντη</expan></choice></p>
+                            <p>πολεμικὴν ευκίνητον καὶ κουφιν τῶ <choice>
+                                    <abbr>φορουοντ</abbr>
+                                    <expan>φορουοντη</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.17" type="scholion">
@@ -228,7 +231,7 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                        <abbr>Αρισ</abbr>
+                                        <abbr>Αριστ</abbr>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName> γράφεται δὲ καὶ <q>ἐπ αυτῶ</q>:</p>
                         </div>

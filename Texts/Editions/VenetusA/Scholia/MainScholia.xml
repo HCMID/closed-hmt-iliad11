@@ -358,11 +358,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.40</p>
                         </div>
                         <div type="comment">
-                            <p>οὕτως αἱ <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχου</persName>
-                                σὺν τῷ <rs type="waw">ρ</rs> ἀμφιστρεφέες καὶ τὰ ὑπομνήματα δὲ
-                                συμφωνεῖ λέγων ἓν μὲν εἶναι σῶμα τοῦ δράκοντος, κεφαλὰς δὲ τρεῖς
-                                περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ <rs type="waw"
-                                    >ρ</rs> γράφοντες ἐξ ἐκείνου <cit>
+                            <p>οὕτως αἱ <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχου</expan>
+                                    </choice></persName> σὺν τῷ <rs type="waw">ρ</rs> ἀμφιστρεφέες
+                                καὶ τὰ ὑπομνήματα δὲ συμφωνεῖ λέγων ἓν μὲν εἶναι σῶμα τοῦ δράκοντος,
+                                κεφαλὰς δὲ τρεῖς περιπεπλεγμενας ἀλλήλαις. ἠπάτηνται δὲ οἱ χωρὶς τοῦ
+                                    <rs type="waw">ρ</rs> γράφοντες ἐξ ἐκείνου <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.36</ref>
                                     <q>τῇ δ' ἐπι μεν γοργῷ βλοσυρῶπις ἐστεφάνωται</q>
                                 </cit> ⁑</p>
@@ -1142,8 +1144,10 @@
                                 τοῦ <choice>
                                     <abbr>πρς</abbr>
                                     <expan>πατρός</expan>
-                                </choice>· τινὰς μέντοι φησὶν <persName n="urn:cite:hmt:pers.pers16"
-                                    >Ἀρίσταρχος</persName>
+                                </choice>· τινὰς μέντοι φησὶν <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
                                 <q>σφοῦ <choice>
                                         <abbr>πρς</abbr>
                                         <expan>πατρός</expan>
@@ -2352,10 +2356,12 @@
                                     <persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> δύο
                                 ποιεῖ ὁ δε <persName n="urn:cite:hmt:pers.pers534"
                                     >Ἑρμ̇̇απίας</persName> σύνθετον ἐκδέχεται καὶ <persName
-                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>· εἴρηται δὲ
-                                περι τῆς συνθέσεως τοῦ <q>πάλιν</q> ὡς προς τὰς μετοχὰς ἐν τῇ <rs
-                                    type="waw">α</rs> ὅτε περι τοῦ <q>πλαγχθέντας</q> διελαμβάνομεν
-                                ⁑</p>
+                                    n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>· εἴρηται δὲ περι τῆς συνθέσεως τοῦ
+                                    <q>πάλιν</q> ὡς προς τὰς μετοχὰς ἐν τῇ <rs type="waw">α</rs> ὅτε
+                                περι τοῦ <q>πλαγχθέντας</q> διελαμβάνομεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.131" type="scholion">
@@ -2893,8 +2899,10 @@
                             <p><persName n="urn:cite:hmt:pers.pers211">Διονύσιος ὁ <rs type="ethnic"
                                         n="urn:cite:hmt:place.place70">Θρᾷξ</rs></persName> τὴν
                                 ὀσφῦν <persName n="urn:cite:hmt:pers.pers484">Φιλότιμος</persName>
-                                ϊατρὸς τὸν τραχηλον <persName n="urn:cite:hmt:pers.pers16"
-                                    >Ἀρίσταρχος</persName> τὸ ἀπο τῆς ἥβης ἕως τοῦ ὀμφαλοῦ τὸ ἴτρον·
+                                ϊατρὸς τὸν τραχηλον <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> τὸ ἀπο τῆς ἥβης ἕως τοῦ ὀμφαλοῦ τὸ ἴτρον·
                                     <persName n="urn:cite:hmt:pers.pers221">Παρμενίσκος</persName>
                                 δὲ <q>τὸν ὀμφαλὸν</q>. δια τὸ τοῦτον πρῶτον ἐκτέμνεσθαι γενωμένου
                                 τοῦ βλέφους· ἠ ὅτι κατ <choice>
@@ -3009,14 +3017,14 @@
                                         <w>β<add place="above">λ</add>άπτεσθαι</w> τοῦ στοιχείου
                                 προστεθέντος ἐπεὶ ὅτ ἂν δέῃ ὑγιὲς αὐτὸ παριστάναι πάλιν
                                 ἀφαιρεθήσεται ὡς <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002.msA:20.227</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:20.227</ref>
                                     <q>βουκόλε ἐπεὶ οὔτε κακῷ</q>
                                 </cit>
                                 <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:15.18</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:15.18</ref>
                                     <q>ῆ οὐ μέμνῃ ὅτε τ' ἐκρέμω</q>
                                 </cit> οὕτως δὲ καὶ ἐν τοῖς ἑξῆς <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.452</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.452</ref>
                                     <q>ᾶ δειλὲ οὐ μὲν συ γε</q>
                                 </cit> ⁑</p>
                         </div>

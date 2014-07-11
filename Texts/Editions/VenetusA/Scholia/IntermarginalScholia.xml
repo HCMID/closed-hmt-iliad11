@@ -122,9 +122,12 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>· <q>ἡ
-                                    ὑσμίνη τὰς κεφαλὰς ἴ̈σας εἶχεν</q> ἰσοκέφαων ἢν αὐτοῖς ἡ μάχη
-                                ἄλλοι δὲ <q>ϊσας δ' ὑσμίνῃ κεφαλὰς ἔχον</q> ⁑ </p>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>· <q>ἡ ὑσμίνη τὰς κεφαλὰς ἴ̈σας εἶχεν</q>
+                                ἰσοκέφαων ἢν αὐτοῖς ἡ μάχη ἄλλοι δὲ <q>ϊσας δ' ὑσμίνῃ κεφαλὰς
+                                    ἔχον</q> ⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.3001" type="scholion">
@@ -135,7 +138,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.76</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αρισταρχος</expan>
+                                    </choice></persName>
                                 <choice>
                                     <abbr>χω</abbr>
                                     <expan>χωρὶς</expan>
@@ -173,7 +179,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.92</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Αρισταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αρισταρχος</expan>
+                                    </choice></persName>
                                 <persName n="urn:cite:hmt:pers.pers479">Βιάνωρα</persName></p>
                         </div>
                     </div>
@@ -249,8 +258,10 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName> ἄλλοι
-                                δὲ <q>φύγεν</q></p>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName> ἄλλοι δὲ <q>φύγεν</q></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.17" type="scholion">
@@ -317,9 +328,9 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                <abbr>Αρισταρχ</abbr>
-                                <expan>Αρισταρχος</expan>
-                            </choice></persName>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αρισταρχος</expan>
+                                    </choice></persName>
                                 <q>οὐδας ἔρεισεν</q> ⁑ </p>
                         </div>
                     </div>
@@ -332,9 +343,9 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
-                                <abbr>Αρισταρχ</abbr>
-                                <expan>Αρισταρχος</expan>
-                            </choice></persName>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αρισταρχος</expan>
+                                    </choice></persName>
                                 <q>πλήξας</q> ⁑</p>
                         </div>
                     </div>
@@ -357,7 +368,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.184</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName>
                                 <choice>
                                     <abbr>μετ</abbr>
                                     <expan>μετὰ</expan>
@@ -432,7 +446,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.306</p>
                         </div>
                         <div type="comment">
-                            <p>ὁ <persName n="urn:cite:hmt:pers.pers17">Όμηρος</persName> τέσσαρας μόνους ἀνέμους οῖδεν ⁑⁑</p>
+                            <p>ὁ <persName n="urn:cite:hmt:pers.pers17">Όμηρος</persName> τέσσαρας
+                                μόνους ἀνέμους οῖδεν ⁑⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.29" type="scholion">
@@ -572,8 +587,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.368</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
-                                παρατατικῶς <q>ἐξενάριζεν</q>:</p>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> παρατατικῶς <q>ἐξενάριζεν</q>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.40" type="scholion">
@@ -611,7 +628,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.392</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
                                 <q>ανδρα τίθησι</q> ⁑</p>
                         </div>
                     </div>
@@ -720,7 +740,10 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName>
                                 <q>δουρὶ κατα πρότμηστιν</q> ⁑</p>
                         </div>
                     </div>
@@ -757,7 +780,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.455</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName>
                                 <q>αὐτὰρ ἔμ' εί κε θάνω</q></p>
                         </div>
                     </div>
@@ -803,7 +829,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.466</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName>
                                 <q>ί̈κετ' αϋτὴ</q> ⁑</p>
                         </div>
                     </div>
@@ -864,7 +893,10 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
                                 <q>ῥήξαι τε</q>
                                 <choice>
                                     <abbr>δτ</abbr>
@@ -881,7 +913,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.539</p>
                         </div>
                         <div type="comment">
-                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName>
                                 <q>δουρὶ</q>
                                 <choice>
                                     <abbr>κατ</abbr>
