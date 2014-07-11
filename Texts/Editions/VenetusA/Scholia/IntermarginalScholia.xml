@@ -575,8 +575,10 @@
                                         <abbr>Ἀριστοφα</abbr>
                                         <expan>Ἀριστοφάνης</expan>
                                     </choice></persName>
-                                <persName n="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> δε οὐδε
-                                ἔγρφεν ⁑</p>
+                                <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδοτ</abbr>
+                                        <expan>Ζηνοδοτος</expan>
+                                    </choice></persName> δε οὐδε ἔγρφεν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.39" type="scholion">
