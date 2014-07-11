@@ -157,9 +157,12 @@
                                 κατὰ <ref type="urn:cts:greekLit:tlg0012.tlg001:2">τὴν <num
                                         type="ordinal" value="2">Β</num> ῥαψωδίαν</ref> ὀρθῶς
                                 κεῖνται ὅτι ἐλπίδας ἔσχον ἀνακομιδῆς ἐπι τὴν πατρίδα καὶ παρα
-                                    <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνει</persName> δὲ
-                                        <w>ἡθετοῦντ<unclear>ο</unclear></w> παρα <persName
-                                    n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName> οὐδὲ ἦσαν ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφα</abbr>
+                                        <expan>Ἀριστοφάνει</expan>
+                                    </choice></persName> δὲ <w>ἡθετοῦντ<unclear>ο</unclear></w> παρα
+                                    <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName> οὐδὲ
+                                ἦσαν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.7" type="scholion">
@@ -685,7 +688,7 @@
                                         <corr>Τρωσὶν</corr>
                                     </choice></rs> ἀλλ' οἱ τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> βοηθοι καὶ τὸ <cit>
-                                    <ref n="urn:cts:greekLit:tlg0012.tlg001.msA:11.80"/>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.80</ref>
                                     <q>ὁ δὲ νόσφι λιασθεις</q>
                                 </cit>
                                 <cit>
@@ -1476,11 +1479,11 @@
                             <p>ἀθετοῦνται ἀμφότεροι καὶ ἀστερίσκοι παράκεινται ὅτι κατα τὴν
                                     <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>
                                 ἀριστίαν τάξιν ἔχουσι, νῦν δὲ οὐ προείρειται γὰρ „<cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.159</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.159</ref>
                                     <q>πολλοὶ δ' ἐριαύχενες ἵπποι</q>
                                 </cit>
                                 <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.160</ref>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.160</ref>
                                     <q>κείν όχεα κροτάλιζον ἀνὰ πτολέμοιο γεφύρας</q>
                                 </cit>· <persName n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνόδοτ</abbr>
