@@ -4181,6 +4181,32 @@
                                 θαυμαστικὸν ποιῶν τὸν λόγον ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.239" type="scholion">
+                        <div type="lemma">
+                            <p>οὐδέ τι οῖδε,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.657</p>
+                        </div>
+                        <div type="comment">
+                            <p>διασταλτέον ἤτοι ἐπι τῷ <q>οῖδε</q> ἠ ἐπι τὸ <q><choice>
+                                        <sic>πενθέος</sic>
+                                        <corr>πένθεος</corr>
+                                    </choice></q> ἔχει γὰρ ἀμφότερα <choice>
+                                    <sic>λογὸν</sic>
+                                    <corr>λόγον</corr>
+                                </choice>· εἰ μὲν οὖν συνάπτοιτο τοῖς ἄνω τὸ <w>πένθ<add
+                                        place="above">ε</add>ος</w> λείψει ἡ <q>περὶ</q> ὡς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.553</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers172">Ἔκτωρ</persName>
+                                        χωόμενος <persName n="urn:cite:hmt:pers.pers195"
+                                            >Σαρπηδόνος</persName></q>
+                                </cit>, εἰ δὲ τοῖς ἐξῆς σχῆμα ἔσται<q><w>ὅσ<add place="above"
+                                            >σ</add>ον</w> πένθος</q>, <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place76">Ἀττικῆ</rs> δὲ ἡ χρῆσις καὶ
+                                ἀρχαία ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
