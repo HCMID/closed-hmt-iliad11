@@ -1121,6 +1121,17 @@
                             <p>γράφεται <q>ἐπ αυτῆ</q>.</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.77" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.640</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται <q>λευκὰ πάλυνε</q>:</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

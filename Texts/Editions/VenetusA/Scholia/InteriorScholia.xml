@@ -517,7 +517,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.634</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> ἀπο λαβῆς:</p>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> ἀπο λαβῆς:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.38" type="scholion">
@@ -525,10 +528,18 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.6</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.650</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>αντὶ</expan>
+                                </choice>
+                                <q>ήγαγες</q> ήλλακται δὲ ὁ χρόνος:</p>
                         </div>
                     </div>
                 </body>

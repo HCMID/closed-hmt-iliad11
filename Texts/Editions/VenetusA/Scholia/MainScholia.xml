@@ -4091,6 +4091,65 @@
                                 γέροντος παριστάνειν ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.233" type="scholion">
+                        <div type="lemma">
+                            <p><choice>
+                                    <sic>οἴωῳ</sic>
+                                    <corr>οἴνῳ</corr>
+                                </choice>
+                                <placeName>Πραμνείῳ</placeName>,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.639</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἤτοι τῷ πραΰνοντι τὰς φρένας ἦ παλαιῷ ἀπο τοῦ παραμεμενηκέναι, ἢ
+                                ἀποείδους ἀμπέλου οὕτω καλουμένης· οἱ δὲ τὸν ἀπὸ τῶν ἀναδενδράδων
+                                εἶπον· πρέμνον γὰρ τὴν ὑφέτιν καλοῦσιν· ἄλλοι δὲ ἀποπράμνου εἶπον,
+                                πράμνη δὲ ὄρος ἐν τῇ <placeName>Ἰκαρίᾳ</placeName> οἰνοφόρον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.234" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπι δ' αἴγειον: κνη τυρὸν κνῄστῑ χαλκείῃ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.639-11.640</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔκοπτεν δὲ καὶ τυρὸν κνήστεϊ χαλκείῳ, τοῦτέστι μαχαιρίῳ τυροτόμῳ
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.235" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλφίτου ἀκτήν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.640</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἥτοι περιφραστικῶς <q>ἄλφιτα</q>, ἢ ἄρτον ἀπο τοῦ <choice>
+                                    <abbr>κατασκευασματ</abbr>
+                                    <expan>κατασκευασματα</expan>
+                                </choice> ὅ ἐστιν <q>ἀλεύρου</q>, δηλοῖ δὲ ἡ λέξις ὅτε μὲν το
+                                ἄλευρον ἀποκατάσσεσθαι καὶ ἀλεῖσθαι τὸν σίτον: ὁτὲ αἰγιαλὸν ἀπο τοῦ
+                                περικατάσσεσθαι αὐτῷ τά κύματα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.236" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπεί ρ' ὥπλισσε κυκειῶ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.641</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ <q>κυκειῶ</q> περισπαστέον τοῦ γὰρ κυκεῶνά ἐστιν ἀποκοπῆ καὶ
+                                ἐπλεόνασεν τὸ <rs type="waw">ϊ</rs>
+                                <q>κυκειὼν</q> δέ ἐστι πολυμιγὲς ποτόν ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
