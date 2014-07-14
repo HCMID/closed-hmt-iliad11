@@ -4150,6 +4150,25 @@
                                 <q>κυκειὼν</q> δέ ἐστι πολυμιγὲς ποτόν ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.237" type="scholion">
+                        <div type="lemma">
+                            <p>‡ πάλιν ἄγγελος,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.652</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατ ιδίαν τὸ <q>πάλιν</q>· οὕτως <persName
+                                    n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers341"><choice>
+                                        <sic>Ἀλεξιῶν</sic>
+                                        <corr>Ἀλεξίων</corr>
+                                    </choice></persName> καὶ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName> οὕτως δὲ
+                                ἔχει καὶ τὰ τῆς ἀναγνώσεως, πρὸς γὰρ τὸ ῥῆμα ἡ σύνταξις ἐγένετο
+                                    <q>πάλιν εἴμ' ἄγγελος</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
