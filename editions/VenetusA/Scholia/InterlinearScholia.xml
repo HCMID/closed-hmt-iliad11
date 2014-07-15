@@ -3417,6 +3417,50 @@
                             <p>οἰκτείρει ἐλεεῖ</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.302" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.667@ἀἕκητι</p>
+                        </div>
+                        <div type="comment">
+                            <p>αβουλησία</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.303" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.668@ἐπισχερὼ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐφεξῆς</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.304" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.670@εἴθ'</p>
+                        </div>
+                        <div type="comment">
+                            <p>ε</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.304" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.672@ἀμφι βοηλασίῃ</p>
+                        </div>
+                        <div type="comment">
+                            <p>περι βοῶν ἀπελασία</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
