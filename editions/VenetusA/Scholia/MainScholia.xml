@@ -4350,20 +4350,82 @@
                                         >Ἥλιδα</placeName></q> ἔστι δὲ οὕτως ὁρίσασθαι περὶ τῆς
                                 προσῳδίας ὡς πάντα τὰ εἰς <rs type="waw">ις</rs> λήγοντα καθαρὸν
                                 μόνως θηλυκὰ ὀξύνεσθαι θέλει οἷον
-                                    <q><persName>Κιρφηΐς</persName></q>
+                                    <q><persName>Κριφηΐς</persName></q>
                                 <q><persName n="urn:cite:hmt:pers.pers113">Βρισηΐς</persName></q>
                                 <q><persName>Θαΐς</persName></q>
                                 <q><persName>Λαΐς</persName></q> ὁ δὲ λόγος ἐπι <rs type="ethnic"
                                     n="urn:cite:hmt:place.place3">Ἑλληνικῶν</rs> ὀνομάτων μή τις το
                                         <q><placeName>Ξόϊς</placeName></q> καὶ
                                         <q><placeName>Σάϊς</placeName></q>
-                                <placeName n="urn:cite:hmt:place.place25">Αἰγύπτια</placeName> ὄντα
+                                <rs type="ethnic" n="urn:cite:hmt:place.place25">Αἰγύπτια</rs> ὄντα
                                 καὶ παρα <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName>
-                                λεχθέντα παραθῆται, περὶ μέντοι τοῦ δαὶ̈ς ὀξυνομένου τετολμημένου δὲ
-                                καὶ βαρύνεσθαι ἐπι ετέρου σημαινομένου εἰρήσεται ἡμῖν ἀλλαχόθι. τὸ
-                                δὲ κράτεϊς δοκεῖ ἐπι τοῦ κυκυρίου βεβαρυτονῆσθαι δια τὴν αἰτιατικήν.
-                                „βόστρεϊνστριν δὲ Κράτεὶν“. τάχα δὲ καὶ τοῦτο πρὸς ἀντιδιαστολὴήν
-                                ⁑</p>
+                                λεχθέντα παραθῆται, περὶ μέντοι τοῦ <q>δαὶ̈ς</q> ὀξυνομένου
+                                τετολμημένου δὲ καὶ βαρύνεσθαι ἐπι ετέρου σημαινομένου εἰρήσεται
+                                ἡμῖν ἀλλαχόθι. τὸ δὲ <q>κράτεϊς</q> δοκεῖ ἐπι τοῦ <choice>
+                                    <abbr>κυ</abbr>
+                                    <expan>κυρίου</expan>
+                                </choice> βεβαρυτονῆσθαι δια τὴν αἰτιατικήν. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:12.124</ref>
+                                    <q><choice>
+                                            <reg>βόστριν</reg>
+                                            <orig>βόστρεϊν</orig>
+                                        </choice> δὲ <persName>Κράτεὶν</persName></q>
+                                </cit>. τάχα δὲ καὶ τοῦτο πρὸς <choice>
+                                    <sic>ἀντιδιαστολὴν</sic>
+                                    <corr>ἀντιδιαστολήν</corr>
+                                </choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.247" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἴτημάτι στίζομεν κατα τὸ τέλος τοῦ στίχου πρεπωδέστερον γὰρ οὕτως
+                                κεχωρίσθαι τὰ ἑξῆς ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.248" type="scholion">
+                        <div type="lemma">
+                            <p>ἤλιθα:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677</p>
+                        </div>
+                        <div type="comment">
+                            <p>λίαν ἠθροισμένην· καὶ ὁ ἠλίθιος ὁ παχὺς τὸν νοῦν καὶ μὴ δι ακριβής ἡ
+                                παρα τὸ ἀλῆσαι ὅ ἐστιν ἀθροῖσαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.249" type="scholion">
+                        <div type="lemma">
+                            <p>ὅτι ἐγὼ κτάνον <persName n="urn:cite:hmt:pers.pers593"
+                                    >Ἰτυμονῆα</persName>.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.672</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers204">Νηλεὺς</persName> ὁ <persName
+                                    n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName>
+                                <choice>
+                                    <abbr>ἱππικώτατ</abbr>
+                                    <expan>ἱππικώτατος</expan>
+                                </choice> τῶν καθ αυτὸν γενόμενος ἔπεμψεν εἰς <placeName
+                                    n="urn:cite:hmt:place.place65">Ήλιν</placeName> ἵππους εἰς τὸν
+                                ὑπ' <persName>Αὐγέου</persName> κεῖσε συντελούμενος ἀγῶνα νικησάντων
+                                δὲ τούτων φθονήσας <persName>Αὐγέας</persName> ἀπέσπασε τούτους καὶ
+                                τοὺς ἡνιόχους ἀφῆκεν ἀπράκτους. <persName
+                                    n="urn:cite:hmt:pers.pers204">Νηλεὺς</persName> δὲ γνοὺς ησυχίαν
+                                ἦγε, <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> δὲ ὁ
+                                τῶν παίδων αὐτοῦ νεώτατος στράτειαν ἀθροίσας, ἐπῆλθεν <placeName
+                                    n="urn:cite:hmt:place.place65">Ήλιδι</placeName>. καὶ πολλοὺς
+                                ἀποκτείνας, ἀπέλαβε τοὺς ἵππους. καὶ οὐκ ολίγην τῶν πολεμίων
+                                ἀπεσύραν λίαν, ἡ ἱστορία παρα <persName
+                                    n="urn:cite:hmt:pers.pers255">Φερεκύδει</persName> ⁑</p>
                         </div>
                     </div>
                 </body>
