@@ -4335,6 +4335,37 @@
                                 </cit>, τὰ δὲ ἄλλα δια μέσου ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.246" type="scholion">
+                        <div type="lemma">
+                            <p>ληΐδα δ' ἐκ πεδίου.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> ὡς
+                                        <q><placeName n="urn:cite:hmt:place.place158"
+                                        >Χαλκίδα</placeName></q>. <persName>Μενεκράτης</persName> ὡς
+                                        <q><placeName n="urn:cite:hmt:place.place65"
+                                        >Ἥλιδα</placeName></q> ἔστι δὲ οὕτως ὁρίσασθαι περὶ τῆς
+                                προσῳδίας ὡς πάντα τὰ εἰς <rs type="waw">ις</rs> λήγοντα καθαρὸν
+                                μόνως θηλυκὰ ὀξύνεσθαι θέλει οἷον
+                                    <q><persName>Κιρφηΐς</persName></q>
+                                <q><persName n="urn:cite:hmt:pers.pers113">Βρισηΐς</persName></q>
+                                <q><persName>Θαΐς</persName></q>
+                                <q><persName>Λαΐς</persName></q> ὁ δὲ λόγος ἐπι <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place3">Ἑλληνικῶν</rs> ὀνομάτων μή τις το
+                                        <q><placeName>Ξόϊς</placeName></q> καὶ
+                                        <q><placeName>Σάϊς</placeName></q>
+                                <placeName n="urn:cite:hmt:place.place25">Αἰγύπτια</placeName> ὄντα
+                                καὶ παρα <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότῳ</persName>
+                                λεχθέντα παραθῆται, περὶ μέντοι τοῦ δαὶ̈ς ὀξυνομένου τετολμημένου δὲ
+                                καὶ βαρύνεσθαι ἐπι ετέρου σημαινομένου εἰρήσεται ἡμῖν ἀλλαχόθι. τὸ
+                                δὲ κράτεϊς δοκεῖ ἐπι τοῦ κυκυρίου βεβαρυτονῆσθαι δια τὴν αἰτιατικήν.
+                                „βόστρεϊνστριν δὲ Κράτεὶν“. τάχα δὲ καὶ τοῦτο πρὸς ἀντιδιαστολὴήν
+                                ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

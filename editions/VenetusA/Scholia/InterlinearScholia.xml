@@ -3461,6 +3461,50 @@
                             <p>περι βοῶν ἀπελασία</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.305" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.674@ῥύσι' ἐλαυνόμενος</p>
+                        </div>
+                        <div type="comment">
+                            <p>αντι τοῦ ενέχυρα λαμβάνων</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.306" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.676@περίτρεσαν</p>
+                        </div>
+                        <div type="comment">
+                            <p>έφυγον οἱ περι αυτοῦ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.307" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677@ληί̈δα</p>
+                        </div>
+                        <div type="comment">
+                            <p>λάφυρα</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.308" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677@ἤλιθα</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάνυ</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
