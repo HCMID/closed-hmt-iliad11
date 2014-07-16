@@ -4576,12 +4576,75 @@
                                     n="urn:cite:hmt:place.place65">Ήλειος</rs> ὁ κτίσας <placeName
                                     n="urn:cite:hmt:place.place65">Ήλιδα</placeName>· κλείου δὲ
                                     <persName n="urn:cite:hmt:pers.pers332">Ἄλεξις</persName> καὶ
-                                <persName>Ἐπειὸς</persName> ἀφοῦ <rs>Ἐπειοὶ</rs> ὡς φησὶν <persName
-                                    n="urn:cite:hmt:pers.pers300"><choice>
+                                    <persName>Ἐπειὸς</persName> ἀφοῦ <rs>Ἐπειοὶ</rs> ὡς φησὶν
+                                    <persName n="urn:cite:hmt:pers.pers300"><choice>
                                         <abbr>Ἀριστοτε</abbr>
                                         <expan>Ἀριστοτέλης</expan>
-                                    </choice></persName> ἐν τῶ <title n="urn:">Πέπλῳ</title> (fr.
-                                639 r.3 ⁑</p>
+                                    </choice></persName> ἐν τῶ <title>Πέπλῳ</title> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.258" type="scholion">
+                        <div type="lemma">
+                            <p>δώδεκα γὰρ <persName n="urn:cite:hmt:pers.pers204"
+                                >Νηλῆος</persName>,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.692</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τοὺς Χωρίζοντας ὅτι ἐν μὲν <title
+                                    n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιάδι</title> δώδεκα
+                                    <persName n="urn:cite:hmt:pers.pers204">Νηλῆος</persName> παῖδας
+                                λέγει, ἐν δὲ τῇ <title n="urn:cts:greekLit:tlg0012.tlg002"
+                                    >Ὀδυσσείᾳ</title> τρεῖς γεγονέναι ὡς γενεαλογεῖ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.281</ref>
+                                    <q>καὶ <persName>Χλωρὶν</persName> ἴδον περικαλλέα</q>
+                                </cit>, καὶ ἐν τοῖς ἑξῆς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.286</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers117">Νέστορά</persName> τε
+                                            <persName>Χρόμιόν</persName> τε <persName
+                                            n="urn:cite:hmt:pers.pers338">Περικλύμενόν</persName> τ'
+                                        ἀγερωχον</q>
+                                </cit>, ἐνδέχεται δὲ προγεγονότων αὐτῷ. ἐξ ετέρας γυναικὸς παίδων
+                                ὕστερον ἐκ <persName>Χλωρίδος</persName> τοὺς τρεῖς γεγονέναι. καὶ
+                                γὰρ ὁ <persName n="urn:cite:hmt:pers.pers145">Πρίαμος</persName>
+                                φησὶ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:24.495-24.497</ref>
+                                    <q>πεντηκοντά μοι ἦσαν ὅτ' ήλυθον υἷες <rs type="ethnic"
+                                            n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>. ἐννεακαίδεκα
+                                        μέν μοι ϊῆς ἐν <abbr>κνιδ</abbr> τοὺς δ' ἄλλους μοι ἔτικτον
+                                        ἐνι μεγάροισιν</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.259" type="scholion">
+                        <div type="lemma">
+                            <p>ἐλθὼν γάρ ρ' ἐκάκωσε:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.690</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> παρεγένετο
+                                εἰς <placeName n="urn:cite:hmt:place.place41">Πύλον</placeName>
+                                <choice>
+                                    <sic>χρῇζων</sic>
+                                    <corr>χρῄζων</corr>
+                                </choice> καθαρσίων οἱ δὲ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place41">Πύλιοι</rs> ἀποκλείσαντες τὰς
+                                πύλας οὐκ εἰσεδέξαντο αὐτόν ἐφ ᾧ ὀργισθεὶς ὁ ἥρως ἐπόρθησε
+                                    <placeName n="urn:cite:hmt:place.place41">Πύλον</placeName>,
+                                συνεμάχουν δὲ τῷ μὲν <persName n="urn:cite:hmt:pers.pers204"
+                                    >Νηλεῖ</persName> τρεῖς θεοί, <persName
+                                    n="urn:cite:hmt:pers.pers47">Ποσειδών</persName>
+                                <persName n="urn:cite:hmt:pers.pers116">Ἥρᾳ</persName>
+                                <persName n="urn:cite:hmt:pers.pers201">Ἀϊδωνεύς</persName> ὡς καὶ
+                                ἐν τῇ <ref type="urn:cts:greekLit:tlg0012.tlg001:5"
+                                    ><title>Ε</title></ref> φησὶ, τῷ δε <persName
+                                    n="urn:cite:hmt:pers.pers71">Ἡρακλεῖ</persName> δύο <persName
+                                    n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεύς</persName> ⁑</p>
                         </div>
                     </div>
                 </body>
