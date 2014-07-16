@@ -587,6 +587,20 @@
                                     >Ηλείους</rs> καλεῖ:</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:11.42" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.689</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἀντι τοῦ <q>οτε</q> ἢ ὅτι ἠ <q>ηνίκα</q> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

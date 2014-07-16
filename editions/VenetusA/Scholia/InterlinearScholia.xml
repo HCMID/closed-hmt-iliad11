@@ -3596,6 +3596,20 @@
                             <p>οἱ <rs type="ethnic" n="urn:cite:hmt:place.place65">Ήλειοι</rs></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.317" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.689@παῦροι</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ <choice>
+                                    <abbr>διασταλτ</abbr>
+                                    <expan>διασταλτέον</expan>
+                                </choice> ἐπι τὸ <q>παύροι</q> πρὸς ἔμφασιν:</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
