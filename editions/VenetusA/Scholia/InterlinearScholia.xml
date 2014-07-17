@@ -3676,6 +3676,31 @@
                             <p>δραμεῖσθαι</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.325" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.705@ἀτεμβόμενος</p>
+                        </div>
+                        <div type="comment">
+                            <p>στερηθείς</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.326" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.706@τὰ ἕκαστα δι' είπομεν</p>
+                        </div>
+                        <div type="comment">
+                            <p>περὶ <choice>
+                                    <abbr>παντ</abbr>
+                                    <expan>παντα</expan>
+                                </choice> εἴχομεν σπουδαίως</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
