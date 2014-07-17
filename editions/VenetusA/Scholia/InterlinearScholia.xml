@@ -3701,6 +3701,76 @@
                                 </choice> εἴχομεν σπουδαίως</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.327" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.710@ἐόντ'</p>
+                        </div>
+                        <div type="comment">
+                            <p>ε</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.328" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.710@θούριδος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ταχείας</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.329" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.712@Ἀλφειῷ</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>πο</abbr>
+                                    <expan>ποταμὸς</expan>
+                                </choice>
+                                <placeName n="urn:cite:hmt:place.place65">Ήλιδος</placeName></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.330" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.713@διαρραῖσαι</p>
+                        </div>
+                        <div type="comment">
+                            <p>διαφθεῖραι:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.331" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.714@μετεκίαθον</p>
+                        </div>
+                        <div type="comment">
+                            <p>παρεγένοντο:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.332" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.716@ἔννυχος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν νυκτί</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
