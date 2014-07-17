@@ -4647,6 +4647,72 @@
                                     n="urn:cite:hmt:pers.pers8">Ζεύς</persName> ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.260" type="scholion">
+                        <div type="lemma">
+                            <p>δώδεκα γὰρ <persName n="urn:cite:hmt:pers.pers204"
+                                >Νηλῆος</persName>:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.692</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸν <persName n="urn:cite:hmt:pers.pers117">Νέστορα</persName> φησὶ
+                                μόνον περισωθῆναι τῶν λοιπῶν τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers204">Νηλέως</persName> παίδων. ἥτοι ὅτι
+                                νέος ὑπάρχων ἔξω ἐτρέφετο παρα τοῖς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place115">Γερήνοις</rs>, ῆ ἐπεὶ
+                                συνεβούλευσεν εἰς ἀχθῆναι τὸν <persName n="urn:cite:hmt:pers.pers71"
+                                    >Ἡρακλέα</persName> ὥς τινες <choice>
+                                    <sic>φασὶν</sic>
+                                    <corr>φασίν</corr>
+                                </choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.261" type="scholion">
+                        <div type="lemma">
+                            <p>ταύθ' ὑπερηφανέοντες <rs>Ἐπειοὶ</rs></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.694</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἔν τισι γράφεται <q><rs type="ethnic"
+                                        n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></q> τοὺς δε <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place65">Ἡλείους</rs>
+                                <rs>Ἐπειοὺς</rs> καλεῖ <persName n="urn:cite:hmt:pers.pers17"
+                                    >Ὅμηρος</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.262" type="scholion">
+                        <div type="lemma">
+                            <p>τέσσαρες ἀθλοφόροι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.699</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι φαντασίαν ὁ τόπος ἔχει ὡς τετρώρω ἅρματι χρωμένων τῶν ἡρώων. καὶ
+                                γὰρ λέγει <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.702</ref>
+                                    <q>τὸν δ' ἐλατήρ' ἀφίει'</q>
+                                </cit>, συλληπτικῶς τὸν ἑκατέρας ἐλατῆρα ὡς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.335</ref>
+                                    <q>ἀμφίπολος δ' ἄρα οι</q>
+                                </cit> ἀκαχήμενον ἵππων ἐνδέχεται δὲ δύω συνωρίδας ἐπι τὸν αγῶνα
+                                πεπορεῦσθαι μή τι περὶ τὴν ετέραν γένηται· εἰρῆσθαι δὲ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.702</ref>
+                                    <q>τὸν ελατῆρ αφίει</q>
+                                </cit> συλληπτικῶς τὸν ἑκατέρας ἐλατῆρα ὡς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.335</ref>
+                                    <q>ἀμφίπολος δ' ἄρα οι κνίδη ἑκάτερθε παρέστη</q>
+                                </cit> οὐ μία επι ἀμφοτέρων τῶν μερῶν ἀλλ εκατέρωθεν μία· οἱ δὲ ὡς
+                                    <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName>
+                                υἱὸν τετρώρῳ φασὶ χρῆσθαι ἵππων γὰρ ὁ <choice>
+                                    <abbr>θς</abbr>
+                                    <expan>θεός</expan>
+                                </choice> ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
