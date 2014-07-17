@@ -1132,6 +1132,93 @@
                             <p>γράφεται <q>λευκὰ πάλυνε</q>:</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.78" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.661</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> τὸ
+                                ἐπίθετον καὶ διασταλτέον μετ αυτό</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.79" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.665</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ δὲ διασταλτέον μετα το <q>ἐων</q>:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.80" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.667</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> λείπει ἡ <q>ὑπὸ</q>
+                                <q><choice>
+                                        <abbr>υπ</abbr>
+                                        <expan>ὑπὸ</expan>
+                                    </choice> πυρὸς</q></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.81" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.672</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρισταρχος</expan>
+                                    </choice></persName> ἑνικῶ <q>βοηλασίῃ</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.82" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.688</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Αρισταρχος</expan>
+                                    </choice></persName> ἄλλοι δὲ <q>όφελλον</q>:</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.83" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.689</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐκ <q>εν <choice>
+                                        <abbr>πο</abbr>
+                                        <expan>πόλει</expan>
+                                    </choice> ἧμεν</q> ὡς ένιοι</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
