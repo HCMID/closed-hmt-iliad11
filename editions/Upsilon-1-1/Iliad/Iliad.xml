@@ -22,7 +22,7 @@
             <div n="11">
                 <l n="1">  ἠὼς δ᾽ ἐκ λεχέων παρ᾽ ἀγαυοῦ <persName n="urn:cite:hmt:pers.pers483">Τιθωνοῖο</persName>, </l>
             <l n="2">ὄρνυθ ἵν᾽ ἀθανάτοισι φόως φέροι ἠδὲ βροτοῖσι·</l>
-                <l n="3"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ <persName n="urn:cite:hmt:pers.pers156">Ἔριδα</persName> προΐαλλε θοὰς ἐπὶ νῆας <placeName type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</placeName></l>
+                <l n="3"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ <persName n="urn:cite:hmt:pers.pers156">Ἔριδα</persName> προΐαλλε θοὰς ἐπὶ νῆας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
             <l n="4">ἀργαλέην· πολέμοιο τέρας μετὰ χερσὶν ἔχουσαν·</l>
                 <l n="5">στῇ δ᾽ ἐπ᾽ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσῆος</persName> μεγακήτεϊ νηῒ μελαίνῃ·</l>
             <l n="6">ἥ ῥ᾽ ἐν μεσσάτῳ ἔσκε γεγωνέμεν ἀμφοτέρωσε·</l>
@@ -30,18 +30,18 @@
                 <l n="8">ἠδ᾽ ἐπ᾽ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆος</persName>· τοί ῥ᾽ ἔσχατα νῆας ἐΐσας</l>
             <l n="9">εἴρυσαν· ἠνορέῃ πίσυνοι καὶ κάρτεϊ χειρῶν·</l>
             <l n="10">ἔνθα στᾶσ᾽ ἤϋσε θεὰ μέγα τε δεινόν τε</l>
-                <l n="11">ὄρθι᾽· <persName type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοῖσι</persName> δὲ μέγα σθένος ἔμβαλ᾽ ἑκάστῳ</l>
+                <l n="11">ὄρθι᾽· <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοῖσι</rs> δὲ μέγα σθένος ἔμβαλ᾽ ἑκάστῳ</l>
             <l n="12">καρδίῃ· ἄλληκτον πολεμίζειν ἠδὲ μάχεσθαι·</l>
             <l n="13">τοῖσι δ᾽ ἄφαρ πόλεμος γλυκίων γένετ᾽ ἠὲ νέεσθαι</l>
             <l n="14">ἐν νηυσὶ γλαφυρῇσι φίλην ἐς πατρίδα γαῖαν·</l>
                 <l n="15"><persName n="urn:cite:hmt:pers.pers22">Ἀτρείδης</persName> δ᾽ ἐβόησεν. ἰδὲ` ζώννυσθαι ἄνωγεν</l>
-                <l n="16"><placeName type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείους</placeName>· ἐν δ᾽ αὐτὸς ἐδύσετο νώροπα χαλκόν·</l>
+                <l n="16"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείους</rs>· ἐν δ᾽ αὐτὸς ἐδύσετο νώροπα χαλκόν·</l>
             <l n="17">κνημῖδας μὲν πρῶτα περὶ κνήμῃσιν ἔθηκε</l>
             <l n="18">καλὰς. ἀργυρέοισιν ἐπισφυρίοις ἀραρυίας·</l>
             <l n="19">δεύτερον αὖ θώρηκα περὶ στήθεσσιν ἔδυνε·</l>
             <l n="20">τόν ποτέ οἱ <persName n="">Κινύρης</persName> δῶκε ξεινήϊον εἶναι·</l>
-                <l n="21">πεύθετο γὰρ <placeName n="urn:cite:hmt:place.place98">Κύπρον</placeName> δὲ μέγα κλέος· οὕνεκ᾽ <placeName type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</placeName></l>
-            <l n="22">ἐς <placeName n="">Τροίην</placeName> νήεσσιν ἀναπλεύσεσθαι ἔμελλον·</l>
+                <l n="21">πεύθετο γὰρ <placeName n="urn:cite:hmt:place.place98">Κύπρον</placeName> δὲ μέγα κλέος· οὕνεκ᾽ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l>
+                <l n="22">ἐς <placeName n="urn:cite:hmt:place.place6">Τροίην</placeName> νήεσσιν ἀναπλεύσεσθαι ἔμελλον·</l>
             <l n="23">τούνεκά οἱ τὸν δῶκε χαριζόμενος βασιλῆϊ</l>
             <l n="24">τοῦ δ᾽ ἥτοι δέκα οἶμοι ἔσαν μέλανος κυάνοιο·</l>
             <l n="25">δώδεκα δὲ χρυσοῖο. καὶ εἴκοσι κασσιτέροιο·</l>
@@ -75,9 +75,9 @@
                 <l n="53">ὦρσε κακὸν <persName n="urn:cite:hmt:pers.pers8">Κρονίδης</persName>· κατὰ δ᾽ ὑψόθεν ἧκεν ἐέρσας</l>
             <l n="54">αἵματι μυδαλέας ἐξ αἰθέρος· οὕνεκ᾽ ἔμελλε</l>
                 <l n="55">πολλὰς ἰφθίμους κεφαλὰς. <placeName n="urn:cite:hmt:place.place67">Ἄϊδι</placeName> προϊάψειν·</l>
-            <l n="56">Τρῶες δ᾽ αὖθ᾽ ἑτέρωθεν. ἐπὶ θρωσμῷ πεδίοιο· </l>
+                <l n="56"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρῶες</rs> δ᾽ αὖθ᾽ ἑτέρωθεν. ἐπὶ θρωσμῷ πεδίοιο· </l>
                 <l n="57"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> τ᾽ ἀμφὶ μέγαν. καὶ ἀμύμονα <persName n="urn:cite:hmt:pers.pers480">Πουλυδάμαντα</persName>·</l>
-                <l n="58"><persName n="urn:cite:hmt:pers.pers142">Αἰνείαν</persName> θ᾽. ὃς Τρωσὶ θεὸς ὣς τίετο δήμῳ·</l>
+                <l n="58"><persName n="urn:cite:hmt:pers.pers142">Αἰνείαν</persName> θ᾽. ὃς <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> θεὸς ὣς τίετο δήμῳ·</l>
                 <l n="59">τρεῖς τ᾽ Ἀντηνορίδας· <persName n="urn:cite:hmt:pers.pers392">Πόλυβον</persName> καὶ Ἀγήνορα δῖον·</l>
                 <l n="60">ἠΐθεόν τ᾽ <persName n="urn:cite:hmt:pers.pers453">Ἀκάμαντ</persName>᾽ ἐπιείκελον ἀθανάτοισιν·</l>
                 <l n="61"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δ᾽ ἐν πρώτοισι φέρ᾽ ἀσπίδα πάντοσ᾽ ἐΐσην</l>
