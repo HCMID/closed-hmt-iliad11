@@ -5087,15 +5087,27 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι ἐντεῦθεν <persName n="urn:cite:hmt:pers.pers4">Ἡσίοδος</persName>
-                                (fr. 17 b m.w.) <persName n="urn:cite:hmt:pers.pers650"
-                                    >Ἄκτορος</persName> κατ' επίκλησιν καὶ <persName
-                                    n="urn:cite:hmt:pers.pers651">Μολιόνης</persName> αὐτοὺς
-                                γεγενεαλόγηκεν γόνω δὲ <persName n="urn:cite:hmt:pers.pers47"
-                                    >Ποσειδῶνος</persName>. οὐδέποτε δὲ <persName
-                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> ἀπο <choice>
+                                <persName n="urn:cite:hmt:pers.pers650">Ἄκτορος</persName> κατ'
+                                επίκλησιν καὶ <persName n="urn:cite:hmt:pers.pers651"
+                                    >Μολιόνης</persName> αὐτοὺς γεγενεαλόγηκεν γόνω δὲ <persName
+                                    n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName>. οὐδέποτε δὲ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> ἀπο <choice>
                                     <abbr>μρς</abbr>
                                     <expan>μητρὸς</expan>
                                 </choice> σχηματίζει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.284" type="scholion">
+                        <div type="lemma">
+                            <p>εἰ μή σφωε πατὴρ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.751</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τὰ περὶ τῆς φύσεως τῶν <persName n="urn:cite:hmt:pers.pers650"
+                                    >Ἄκτωρος</persName> παίδων πότερον μία, ἀμφοτέρων συμφυΐα, ἡ
+                                ἑκάτερος αὐτῶν διφυὴς ἢν ⁑</p>
                         </div>
                     </div>
                 </body>
