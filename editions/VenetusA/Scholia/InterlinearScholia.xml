@@ -3771,6 +3771,32 @@
                             <p>ἐν νυκτί</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.333" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.723@Ἀρήνης</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλις</expan>
+                                </choice>
+                                <placeName n="urn:cite:hmt:place.place41">Πύλου</placeName></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAil.hmt:11.334" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.726@ένδῑοι</p>
+                        </div>
+                        <div type="comment">
+                            <p>μετα μεσημβρίαν</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

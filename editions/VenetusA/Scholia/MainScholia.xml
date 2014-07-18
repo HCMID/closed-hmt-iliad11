@@ -4919,6 +4919,21 @@
                             <p>ἤτοι τοῖς ἑξῆς ἢ τοῖς ἐπάνω προσδοτέον τὸ ἡμιστίχιον ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:11.274" type="scholion">
+                        <div type="lemma">
+                            <p>ἔνθεν πανσυδίη:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.725</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ διασταλτέον κατα τὸ τελος τοῦ στίχου ὑπ ὅρθρον γὰρ ὁπλισθέντες.
+                                πρὸς τὴν <placeName n="urn:cite:hmt:place.place166"
+                                    >Ἀρήνῃ</placeName> ὤδευσαν καὶ κατα μέσον ἡμέρας ἐπι τὸν
+                                    <placeName n="urn:cite:hmt:place.place176">Αλφειὸν</placeName>
+                                παρεγένοντο ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

@@ -189,6 +189,17 @@
                             <p><q>χρέως</q></p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAext.hmt:11.16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.727</p>
+                        </div>
+                        <div type="comment">
+                            <p><del>ὑπερμενέϊ</del></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
