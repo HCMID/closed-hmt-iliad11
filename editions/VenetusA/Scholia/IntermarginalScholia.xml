@@ -1251,6 +1251,17 @@
                                 </choice> ἐπι τὸ <q>ῆλθον</q> πρὸς τὸ σαφέστερον ⁑</p>
                         </div>
                     </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:11.86" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.733</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται <q>διαπραθέσιν</q></p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
