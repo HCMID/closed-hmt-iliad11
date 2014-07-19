@@ -26,7 +26,7 @@
             </edition>
             
             
-            
+            <!--
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.e3">
                 <label xml:lang="eng"> E3 </label>
                 <description xml:lang="eng"> Iliad text of the Escorial Upsilon 1.1 manuscript. </description>
@@ -40,7 +40,7 @@
                         </citation>
                     </citationMapping>
                 </online>
-            </edition>
+            </edition>-->
         </work>
     </textgroup>
     
@@ -48,17 +48,17 @@
     <textgroup urn="urn:cts:greekLit:tlg5026">
         <groupname xml:lang="eng"> Scholia to the Iliad</groupname>
         <work urn="urn:cts:greekLit:tlg5026.msA" xml:lang="grc">
-            <title xml:lang="eng"> Main marginal scholia</title>
+            <title xml:lang="eng"> Main marginal scholia of the Venetus A manuscript</title>
             <edition urn="urn:cts:greekLit:tlg5026.msA.hmt">
                 <label xml:lang="eng">msA</label>
                 <description xml:lang="eng">Main marginal scholia of the Venetus A manuscript, Marciana 454
-                    (=822).</description>
+                    (=822), Homer Multitext project edition</description>
                 <online docname="VenetusA/Scholia/MainScholia.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
                     </citationMapping>
@@ -75,12 +75,14 @@
                 <online docname="VenetusA/Scholia/ExteriorScholia.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
-                    <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
-                                xpath="/tei:div[@n = '?']"/>
-                        </citation>
-                    </citationMapping>
+                  
+                        <citationMapping>
+                            <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                                <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
+                                    xpath="/tei:div[@n = '?']"/>
+                            </citation>
+                        </citationMapping>
+                    
                 </online>
                 
             </edition>
@@ -95,8 +97,8 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
                     </citationMapping>
@@ -114,8 +116,8 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
                     </citationMapping>
@@ -134,8 +136,8 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
                     </citationMapping>
