@@ -3880,6 +3880,145 @@
                             <p>ε</p>
                         </div>
                     </div>
+                    <div n="342" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.754@σπιδέος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπιμήκους καὶ μακρός</p>
+                        </div>
+                    </div>
+                    <div n="343" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.755@λέγοντες</p>
+                        </div>
+                        <div type="comment">
+                            <p>συνάγοντες</p>
+                        </div>
+                    </div>
+                    <div n="344" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.756@Βουπρασίου</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>πο</abbr>
+                                    <expan>πόλις</expan>
+                                </choice>
+                                <placeName>Ί̈διδος</placeName></p>
+                        </div>
+                    </div>
+                    <div n="345" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.758@ἀπέτραπε</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀπέστρεψε σημείοις τισί</p>
+                        </div>
+                    </div>
+                    <div n="346" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.759@πύματον</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔσχατον</p>
+                        </div>
+                    </div>
+                    <div n="347" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.761@Νέστορί</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>αντὶ</expan>
+                                </choice> ἐμοί</p>
+                        </div>
+                    </div>
+                    <div n="348" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.763@ἀπονήσεται</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐναπολαύσει γενήσεται:</p>
+                        </div>
+                    </div>
+                    <div n="349" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.774@ἐν χόρτῳ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν τῷ τριγχῶ</p>
+                        </div>
+                    </div>
+                    <div n="350" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.774@άλεισον</p>
+                        </div>
+                        <div type="comment">
+                            <p>ποτήριον</p>
+                        </div>
+                    </div>
+                    <div n="351" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.775@αἰθομένοις</p>
+                        </div>
+                        <div type="comment">
+                            <p>καιόμενος</p>
+                        </div>
+                    </div>
+                    <div n="352" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.776@σφῶϊ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑμεῖς</p>
+                        </div>
+                    </div>
+                    <div n="353" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.776@ἕπετον</p>
+                        </div>
+                        <div type="comment">
+                            <p>νῦν ἐνεργεῖτετ</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
