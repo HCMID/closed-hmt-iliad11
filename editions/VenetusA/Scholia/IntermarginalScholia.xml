@@ -1271,10 +1271,7 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers493">Ἡρωδιανος</persName>
-                                <q>διὰ <choice>
-                                        <abbr>επιδε</abbr>
-                                        <expan>επιδέος</expan>
-                                    </choice></q></p>
+                                <q>διὰ <sic><w>επιδ<unclear>ε</unclear></w></sic> </q></p>
                         </div>
                     </div>
                     <div n="88" type="scholion">
