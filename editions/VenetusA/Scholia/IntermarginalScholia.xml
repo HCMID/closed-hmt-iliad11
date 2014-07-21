@@ -1259,6 +1259,22 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.733</p>
                         </div>
                         <div type="comment">
+                            <p>γράφεται <sic><q>διαπραθέσιν</q></sic></p>
+                        </div>
+                    </div>
+                    <div n="87" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.754</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers493">Ἡρωδιανος</persName>
+                                <q>διὰ <choice>
+                                        <abbr>επιδε</abbr>
+                                        <expan>επιδέος</expan>
+                                    </choice></q></p>
                         </div>
                     </div>
                 </body>

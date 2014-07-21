@@ -5047,7 +5047,8 @@
                                     n="urn:cite:hmt:place.place76"><choice>
                                         <abbr>Ἀττι</abbr>
                                         <expan>Ἀττικῆς</expan>
-                                    </choice></placeName> <sic>οἱκήσασα</sic> δὲ αὕτη τὴν πλησίον <placeName
+                                    </choice></placeName>
+                                <sic>οἱκήσασα</sic> δὲ αὕτη τὴν πλησίον <placeName
                                     n="urn:cite:hmt:place.place65">Ήλιδος</placeName>
                                 <placeName n="urn:cite:hmt:place.place165">Ἐφύραν</placeName>
                                 πολυφάρμακον ἐποίησεν αὐτὴν ἐπονομασθῆναι· ἡ ἱστορία παρα
@@ -5152,6 +5153,35 @@
                                 τοῦ πολλοῦ καὶ εὑρεος καὶ μεγάλου καγὼ δὲ συγκατίθεμαι τοῖς ἀνδράσιν
                                 ὁρῶ γὰρ πολλὴν τὴν τοιαύτην χρησιν παρα τοῖς ἀρχαίοις ἡ διπλῆ, πρὸς
                                 τὸ σημαινόμενον τὸ ἀπο τῆς λέξεως ⁑</p>
+                        </div>
+                    </div>
+                    <div n="286" type="scholion">
+                        <div type="lemma">
+                            <p>πέτρης τ' <rs>Ὠλενίης</rs> ⁑</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.757</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἤτοι διασταλτέον ἐπι τὸ <q><placeName n="urn:cite:hmt:place.place239"
+                                        >Ἀλισίου</placeName></q>, ἠ <choice>
+                                    <sic>συνσπτέον</sic>
+                                    <corr>συναπτέον</corr>
+                                </choice> τοῖς ἑξῆς ὡς <persName>Δημήτριος ὁ Σκήψιος</persName>
+                                <q>τάφον τὸν τοῦ <placeName n="urn:cite:hmt:place.place239"
+                                        >Ἀλισίου</placeName></q>
+                                <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτω</expan>
+                                </choice> γὰρ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName> γράφει προστιθεὶς ὅτι τῶν
+                                    <persName>Ἱπποδαμείας</persName> μνηστήρων εἷς ἢν ὁ
+                                    <persName>Ἀλίσιος</persName> ἠ <placeName
+                                    n="urn:cite:hmt:place.place239">Ἀλίσιον</placeName> μὲν πόλις,
+                                    <placeName>Κολώνη</placeName> δὲ, <choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτω</expan>
+                                </choice> καλούμενος τόπος ⁑</p>
                         </div>
                     </div>
                 </body>
