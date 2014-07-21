@@ -4978,7 +4978,7 @@
                     </div>
                     <div n="278" type="scholion">
                         <div type="lemma">
-                            <p>εὖτε γὰρ ἡέλιος,</p>
+                            <p>εὖτε γὰρ <sic>ἡέλιος</sic>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.735</p>
@@ -4991,9 +4991,9 @@
                     </div>
                     <div n="279" type="scholion">
                         <div type="lemma">
-                            <p>ἀλλ' ὄτε δὴ <rs type="ethnic" n="urn:cite:hmt:place.place41"
-                                    >Πυλίων</rs> καὶ <rs type="ethnic" n="urn:cite:hmt:pers.pers642"
-                                    >Ἐπειῶν</rs>,</p>
+                            <p>ἀλλ' <sic>ὄτε</sic> δὴ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place41">Πυλίων</rs> καὶ <rs type="ethnic"
+                                    n="urn:cite:hmt:pers.pers642">Ἐπειῶν</rs>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.737</p>
@@ -5020,20 +5020,22 @@
                                 θυγάτηρ, <persName n="urn:cite:hmt:pers.pers406">Ἱ̈άσωνος</persName>
                                 δὲ γυνη αὕτη μετὰ τὴν ἀπεργασθεῖσαν τεκνοκτονίαν φυγὰς εἰς
                                     <placeName n="urn:cite:hmt:place.place1">Ἀθήνας</placeName>
-                                ἀφίκετο καὶ ἐγαμήθη ἑκεῖ <persName n="urn:cite:hmt:pers.pers213"
-                                    >Αἰγεῖ</persName> τῷ <persName>Πανδίωνος</persName>, κακεῖ
-                                    <persName n="urn:cite:hmt:pers.pers280">Θησέα</persName> τὸν ἐξ
-                                    <persName n="urn:cite:hmt:pers.pers257">Αἴθρας</persName>
-                                γενόμενον τῷ <persName n="urn:cite:hmt:pers.pers213"
-                                    >Αἰγεῖ</persName> ἐπι τὸν τοῦ <choice>
+                                ἀφίκετο καὶ ἐγαμήθη <sic>ἑκεῖ</sic>
+                                <persName n="urn:cite:hmt:pers.pers213">Αἰγεῖ</persName> τῷ
+                                    <persName>Πανδίωνος</persName>, κακεῖ <persName
+                                    n="urn:cite:hmt:pers.pers280">Θησέα</persName> τὸν ἐξ <persName
+                                    n="urn:cite:hmt:pers.pers257">Αἴθρας</persName> γενόμενον τῷ
+                                    <persName n="urn:cite:hmt:pers.pers213">Αἰγεῖ</persName> ἐπι τὸν
+                                τοῦ <choice>
                                     <abbr>πρς</abbr>
                                     <expan>πατρὸς</expan>
                                 </choice> γνωρισμὸν ἐκ <placeName n="urn:cite:hmt:place.place160"
                                     >Τρόζηνος</placeName> ἀφικόμενον πείθει τὸν <persName
                                     n="urn:cite:hmt:pers.pers213">Αἰγέα</persName> φάρμακον αὐτῷ
                                 δοῦναι θανάσιμον ἐπίβουλον αὐτοῦ τῆς βασιλείας εἰποῦσα παραγίνεσθαι·
-                                πεισθεὶς δὲ Αἱγεὺς, παραγενομένω τῷ παιδὶ φάρμακον έδωκεν. μελλοντος
-                                δὲ καταπίνειν ἐπιγνοὺς, τό τε ξίφος καὶ τὰ <choice>
+                                πεισθεὶς δὲ <persName n="urn:cite:hmt:pers.pers213"
+                                    >Αἱγεὺς</persName>, παραγενομένω τῷ παιδὶ φάρμακον έδωκεν.
+                                μελλοντος δὲ καταπίνειν ἐπιγνοὺς, τό τε ξίφος καὶ τὰ <choice>
                                     <abbr>ὑπδήματα</abbr>
                                     <expan>ὑποδήματα</expan>
                                 </choice>, ταῦτα γὰρ ἐν <placeName>Τρυζήνη</placeName>
@@ -5045,7 +5047,7 @@
                                     n="urn:cite:hmt:place.place76"><choice>
                                         <abbr>Ἀττι</abbr>
                                         <expan>Ἀττικῆς</expan>
-                                    </choice></placeName> οἱκήσασα δὲ αὕτη τὴν πλησίον <placeName
+                                    </choice></placeName> <sic>οἱκήσασα</sic> δὲ αὕτη τὴν πλησίον <placeName
                                     n="urn:cite:hmt:place.place65">Ήλιδος</placeName>
                                 <placeName n="urn:cite:hmt:place.place165">Ἐφύραν</placeName>
                                 πολυφάρμακον ἐποίησεν αὐτὴν ἐπονομασθῆναι· ἡ ἱστορία παρα
