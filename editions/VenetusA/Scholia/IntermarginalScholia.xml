@@ -1259,7 +1259,59 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.733</p>
                         </div>
                         <div type="comment">
-                            <p>γράφεται <q>διαπραθέσιν</q></p>
+                            <p>γράφεται <sic><q>διαπραθέσιν</q></sic></p>
+                        </div>
+                    </div>
+                    <div n="87" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.754</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers493">Ἡρωδιανος</persName>
+                                <q>διὰ <sic><w>επιδ<unclear>ε</unclear></w></sic> </q></p>
+                        </div>
+                    </div>
+                    <div n="88" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.755</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἄλλω <choice>
+                                    <abbr>χω</abbr>
+                                    <expan>χωρὶς</expan>
+                                </choice>
+                                <q>λέγοντες</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="89" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.770</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλω <q>καλλιγυναικα</q>· ⁑</p>
+                        </div>
+                    </div>
+                    <div n="90" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.773</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                    <abbr>Ἀρισταρχ</abbr>
+                                    <expan>Ἀρισταρχος</expan>
+                                </choice></persName> <q>μηρία καιε</q> ⁑</p>
                         </div>
                     </div>
                 </body>
