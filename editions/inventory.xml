@@ -145,6 +145,30 @@
                 
             </edition>
         </work>
+        
+        
+        
+        
+        
+        
+        <work urn="urn:cts:greekLit:tlg5026.e3" xml:lang="grc">
+            <title xml:lang="eng"> Main scholia of the Escorial manuscript Upsilon 1.1</title>
+            <edition urn="urn:cts:greekLit:tlg5026.e3.hmt">
+                <label xml:lang="eng">msA</label>
+                <description xml:lang="eng">Main  scholia of the Escorial manuscript Upsilon 1.1, Homer Multitext project edition</description>
+                <online docname="Upsilon-1-1/Scholia/Upsilon-1-1-Scholia.xml">
+                    
+                    <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
+                    <citationMapping>
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>
+                    </citationMapping>
+                </online>
+                
+            </edition>
+        </work>
     </textgroup>
     
 </TextInventory>
