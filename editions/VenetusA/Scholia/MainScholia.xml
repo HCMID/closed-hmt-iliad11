@@ -5219,7 +5219,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.767</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ μὲν διπλη ὅτι χωρὶς τοῦ <rs type="waw">ν</rs> Ὁμηρικῶς,
+                            <p>ἡ μὲν διπλη ὅτι χωρὶς τοῦ <rs type="waw">ν</rs> ὁμηρικῶς,
                                     <q>ἡμεῖς</q> ἢ <q>ἡμᾶς</q>· ἀθετοῦνται δὲ ἀπο τούτου στίχοι <num
                                     value="19">ιθ</num> ἕως τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.785</ref>
@@ -5251,14 +5251,14 @@
                                 δὲ ὡς εἴδωλον σπένδει <cit>
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg001:11.778-11.779</ref>
-                                    <q>ἐς δ' άγε χειρὸς ἑλῶν κατά δ' ἐδριάασθαι ἄνωγεν. ξείνια τ' εῦ
+                                    <q>ἐς δ' άγε χειρὸς ἑλῶν κατά δ' <sic>ἐδριάασθαι</sic> ἄνωγεν. ξείνια τ' εῦ
                                         παρέθηκεν</q>
                                 </cit>· ὁ δὲ <persName n="urn:cite:hmt:pers.pers184"
                                     >Πηλεὺς</persName> οὐδ εἰ πάρεισι προσποιεῖται. εὐτελὴς δὲ ἡ
                                 σύνθεσις, καὶ τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.781</ref>
-                                    <q>ἦρχον ἐγὼ μύθοιο κελεύων ὕμμ' ἅμ' ἕπεσθαι</q>
-                                </cit>. ἡθετοῦντο καὶ παρα <persName><choice>
+                                    <q>ἦρχον ἐγὼ μύθοιο κελεύων <sic>ὕμμ'</sic> ἅμ' ἕπεσθαι</q>
+                                </cit>. <sic>ἡθετοῦντο</sic> καὶ παρα <persName><choice>
                                         <abbr>Ἀριστοφα</abbr>
                                         <expan>Ἀριστοφάνει</expan>
                                     </choice></persName> οἱ <num value="19">ιθ</num> ⁑</p>
@@ -5277,9 +5277,9 @@
                                     <expan>περιφραγματι</expan>
                                 </choice> τῆς αὐλῆς· χόρτοι δὲ οἱ τριγχοὶ ὡς καὶ <persName
                                     n="urn:cite:hmt:pers.pers97">Εὐριπίδης</persName> ἐν <title
-                                    n="urn:cts:greekLit:tlg0006.tlg024">Ἀντιόπῃ</title>, <q>σύγχορτα
+                                    n="urn:cts:greekLit:tlg0006.tlg024">ἀντιόπῃ</title>, <q>σύγχορτα
                                     νέω παιδία ταῖς <placeName>Ἐλευθέραις</placeName></q>· καὶ ἐν
-                                    <title n="urn:cts:greekLit:tlg0006.tlg039">Ανδρομάχῃ</title>
+                                    <title n="urn:cts:greekLit:tlg0006.tlg039">ανδρομάχῃ</title>
                                 ὁμοίως ⁑</p>
                         </div>
                     </div>
