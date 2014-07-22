@@ -586,27 +586,38 @@
                         </div>
                     </div>
 
-                    <div n="urn:cts:greekLit:tlg5026.e3.hmt:11.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.e3.hmt:11.35" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="1">α</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.98@πεπάλακτο</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>διεβρέχετο· ὡς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.100</ref>
+                                    <q>παλάσσετο δ' αἵματι θώρηξ</q>
+                                </cit>· φησὶν δ' οὖν τὸν ἐγκέφαλον ἐμπεπλῆσθαι τοῦ αἵματος·
+                                σφιγγομένου γὰρ τοῦ δόρατος ὑπὸ τοῦ ὀστέου ἔξω εἵργετο προελθεῖν τὸ
+                                αἷμα· ἔσω δὲ ἐπισυνάγεται καθάπερ ἐπὶ τῶν βληθέντων λίθων· ὅτ' ἂν
+                                συντριβῆ μὲν τὰ ὀστᾶ μὴ διαιρεθῇ δὲ ἡ ἐπιφάνεια. ἐντὸς χεῖται τὸ
+                                αἷμα τῆς ἔξω φορᾶς εἱργόμενον ⁑</p>
                         </div>
                     </div>
 
-                    <div n="urn:cts:greekLit:tlg5026.e3.hmt:11.X" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.e3.hmt:11.36" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="2">β</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.100@παμφαίνοντας</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐ συνάπτει <persName n="urn:cite:hmt:pers.pers76">Νικάνωρ</persName>
+                                · ἀλλὰ τὸ <q>παμφαίνοντας</q> δηλοῦν φησι τὸ νέον αὐτῶν·
+                                    <persName n="urn:cite:hmt:pers.pers655">Πῖος</persName> δὲ. <q>τὰ στήθη
+                                    περιφαίνοντας</q>· οἱ δὲ` ὅλον· <q>στήθεσι παμφαίνοντας
+                                    χιτῶνας</q> ⁑</p>
                         </div>
                     </div>
 
