@@ -713,12 +713,12 @@
                                     <expan>ἑτέρωθεν</expan>
                                 </choice>· „<cit>
                                     <ref type="urn"
-                                        >urn:cite:greekLit:tlg0012.tlg002:4.335-4.336</ref>
+                                        >urn:cts:greekLit:tlg0012.tlg002:4.335-4.336</ref>
                                     <q>ὡς δ' ὁπότ' ἔλαφος κρατεροῖο λέοντος νεβροὺς κοιμίσασα
                                         νεηγενέας γαλαθηνοὺς</q>
                                 </cit>· <cit>
                                     <ref type="urn"
-                                        >urn:cite:greekLit:tlg0012.tlg002:4.335-4.336</ref>
+                                        >urn:cts:greekLit:tlg0012.tlg002:4.335-4.336</ref>
                                     <q>ὁ δέ τ' ὦκα ἐὴν εἰσήλυθεν εὐνήν</q>
                                 </cit>· ὁ γὰρ λέων οὐδέποτε κοίτην ἄλλου ἐρευνᾶ ζώου. εἰ μὴ κατά
                                 τινα τύχην ⁑</p>
@@ -1020,11 +1020,158 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.157@πρόρριζοι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τῶν γὰρ ὑπογείων οὐ δύναται τοσοῦτον ἅπτεσθαι ⁑</p>
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="64" type="scholion">
+                        <div type="marker">
+                            <p><num value="8">η</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.159@φευγόντων</p>
+                        </div>
+                        <div type="comment">
+                            <p>τοῦτο γὰρ αἴτιον τῆς ἀσώστου αὐτῶν ἀπωλείας. ὅτι οὐδὲ ἀνθιστάμενοι
+                                ἀνῄρηντο ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="65" type="scholion">
+                        <div type="marker">
+                            <p><num value="9">θ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.162@γύπεσσιν</p>
+                        </div>
+                        <div type="comment">
+                            <p>μάλα εὐπρεπῶς ἔφρασεν· ὅτι φίλτεροι ἦσαν τοῖς γυψίν ὅτε ἀπέθανον. ἢ
+                                ταῖς γυναιξὶν ὅτε ἔζων· ἢ τοῖς μὲν γυψὶν ἔμελον. ταῖς δὲ γυναιξὶν οὔ
+                                ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="66" type="scholion">
+                        <div type="marker">
+                            <p><gap/></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.163@βελέων</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντὶ τοῦ ἔξω τῶν βελῶν· ἐντεχνως δὲ ἔχει καὶ ταῦτα· τό τε γὰρ παρόντα
+                                ἐλαττοῦσθαι <persName n="urn:cite:hmt:pers.pers22"
+                                    >Ἀγαμέμνονι</persName>, οὐ σύμφωνον τῇ ποιήσει· τό τε
+                                περιφεύγειν αὐτὸν, οὐ τῆς θρασύτητος <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>· καλῶς οὖν τὸν
+                                    <persName n="urn:cite:hmt:pers.pers8">Δία</persName> φησὶν αὐτὸν
+                                ἐξαγαγεῖν· ὡς εἰ περ παρῆν ἀπέλαυσεν ἂν τοῦ δεινοῦ ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="67" type="scholion">
+                        <div type="marker">
+                            <p><num value="11"><gap/>α</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.165@σφεδανὸν</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ μὲ ̀ν ἀντὶ τοῦ <q>σφενδονηδὸν</q>· οἱ δὲ ̀. ἀντὶ τοῦ σπευτικῶς
+                                    <q>εἵπετο</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="68" type="scholion">
+                        <div type="marker">
+                            <p><num value="11">ιβ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.168@πεδίον</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰ ἐν τῷ μέσῳ τοῦ πεδίου ὁ ἐρινεὸς. πῶς φησὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.433</ref>
+                                    <q>λαὸν δὲ στῆσον παρ' ἐρινεὸν</q>
+                                </cit> ἐν τῇ <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:6"
+                                        ><title>Ζ</title></ref>· βραχὺ οὖν διασταλτέον ἐπὶ τὸ
+                                πεδίον· ἐν μέσῳ γὰρ ἦν τὸ σῆμα· ὅθεν καὶ <persName
+                                    n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> τοξεύει καὶ
+                                    <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>
+                                βουλεύει· ὁ δ' ἐρινεὸς παρὰ τὸ τεῖχος ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="69" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.174@ἀναφαίνεται</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὡς γὰρ ὁ λέων φησί· φοβεῖ μὲν πάσας τὰς βοῦς· κτείνει δὲ τὴν πλησίον
+                                εὑρισκομένην, οὕτω καὶ <persName n="urn:cite:hmt:pers.pers22"
+                                    >Ἀγαμέμνων</persName>· ἐδίωκε μὲν πάντας. ἀνῄρει δὲ. ὃν
+                                κατελάμβανεν ὑστεροῦντα· <q>ἀμολγῷ</q> δὲ τῷ ἑσπερινῷ τῆς νυκτὸς
+                                καιρῷ. ἐν ᾧ ἀμέλγουσι· τότε γὰρ ὁ λέων τοῖς τετράπουσιν ἐπιβουλεύειν
+                                λέγεται ⁑ </p>
+                        </div>
+                    </div>
+
+                    <div n="70" type="scholion">
+                        <div type="marker">
+                            <p><num value="14">ιδ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.181@ἀλλ᾽ ὅτε</p>
+                        </div>
+                        <div type="comment">
+                            <p> δι' ὀλίγων εὐφράνας τὸν ἀκροατὴν. ἐπὶ τὰ συνεκτικὰ ἔρχεται· δεῖ γὰρ
+                                συνωθεῖσθαι τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                                    >Ἀχαιοὺς</rs>. εἰς τὴν ἔξοδον <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="71" type="scholion">
+                        <div type="marker">
+                            <p><num value="15">ιε</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.184@ἀστεροπὴν</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὄργανόν τι ἦν, ὅπερ τινασσόμενων ἀστραπὰς ἐποίει ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="72" type="scholion">
+                        <div type="marker">
+                            <p><num value="16">ιϛ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.187@ἂν μέν κεν</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὕψωσιν περιέχει ὁ λόγος ὡς καὶ τοῦ θεοῦ παραινοῦντος τῷ ἀπονενοημένῳ.
+                                κινδυνεύοντι ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="72" type="scholion">
+                        <div type="marker">
+                            <p><num value="17">ιζ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.191@βλήμενος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀξιοπίστως ἐπιδιστάζων φησίν· τὸ γὰρ ὁρίζειν ὡς τρωθήσεται. λύοντος
+                                ἦν τὸ μέλλον εἰσάγεσθαι πάθος ἐκ τῆς τοῦ βασιλέως πληγῆς ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1036,7 +1183,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1048,7 +1195,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1060,18 +1207,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1083,7 +1219,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1095,7 +1231,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1107,7 +1243,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1119,7 +1255,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1131,7 +1267,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1143,7 +1279,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1155,7 +1291,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1167,7 +1303,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1179,7 +1315,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1191,7 +1327,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1203,7 +1339,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1215,7 +1351,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1227,7 +1363,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1239,7 +1375,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1251,7 +1387,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1263,7 +1399,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1275,7 +1411,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1287,7 +1423,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1299,7 +1435,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1311,7 +1447,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1323,7 +1459,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1335,7 +1471,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1347,7 +1483,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1359,7 +1495,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1371,7 +1507,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1383,7 +1519,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1395,7 +1531,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1407,7 +1543,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1419,7 +1555,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1431,7 +1567,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1443,7 +1579,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1455,7 +1591,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1467,7 +1603,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1479,7 +1615,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1491,7 +1627,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1503,7 +1639,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1515,7 +1651,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1527,7 +1663,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1539,7 +1675,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1551,7 +1687,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1563,7 +1699,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
@@ -1575,115 +1711,7 @@
                         </div>
                     </div>
 
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
-                        <div type="marker">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-
-                    <div n="" type="scholion">
+                    <div n="x" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
