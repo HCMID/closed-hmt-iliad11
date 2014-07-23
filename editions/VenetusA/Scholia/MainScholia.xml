@@ -5389,7 +5389,7 @@
                     </div>
                     <div n="296" type="scholion">
                         <div type="lemma">
-                            <p>‡ ἴξε θέων <persName n="urn:cite:hmt:pers.pers158"
+                            <p>‡ <sic>ἴξε</sic> θέων <persName n="urn:cite:hmt:pers.pers158"
                                     >Πάτροκλος</persName>:</p>
                         </div>
                         <div type="ref">
@@ -5457,7 +5457,7 @@
                     </div>
                     <div n="301" type="scholion">
                         <div type="lemma">
-                            <p>ἔσσεται: ἀλλ' ἐν νηυσὶ μελαίνῃσι πεσέωνται,</p>
+                            <p>ἔσσεται: ἀλλ' ἐν νηυσὶ μελαίνῃσι <sic>πεσέωνται</sic>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.824</p>
