@@ -5387,6 +5387,87 @@
                                 </cit> λόγον ἔχει ⁑</p>
                         </div>
                     </div>
+                    <div n="296" type="scholion">
+                        <div type="lemma">
+                            <p>‡ ἴξε θέων <persName n="urn:cite:hmt:pers.pers158"
+                                    >Πάτροκλος</persName>:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.807</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὸ τοῦ στρατοπέδου διάγραμμα ὅτι ὑποτίθεται κατα μέσον τοῦ
+                                ναυστάθμου θεατροειδῆ τόπον εἰς ὄχλου συναγωγήν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="297" type="scholion">
+                        <div type="lemma">
+                            <p>ἵνά σφ' ἀγορή τε θέμις τε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.807</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅπου αὐτοῖς τά τε ώνια ἐπιπράσκετο καὶ τὰ δικαστηρια ἐγίνετο, ἡ γὰρ
+                                    <persName>Θέμις</persName> ἐπόπτης τῶν ἐκκλησιῶν· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.4</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δὲ
+                                            <persName>θέμις</persName> κελεύθους ἀγορην δὲ κέλευσε
+                                        θεούς</q>
+                                </cit>·</p>
+                        </div>
+                    </div>
+                    <div n="298" type="scholion">
+                        <div type="lemma">
+                            <p>τῇ δὴ καί σφι θεῶν τετεύχατο βωμοὶ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.808</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅπου καὶ τῶν πλευσάντων ἐπι τὴν <placeName
+                                    n="urn:cite:hmt:place.place6">Ἴλιον</placeName> ἑκάστω πατρώων
+                                θεῶν βωμοὶ κατεσκευασμένοι ἦσαν</p>
+                        </div>
+                    </div>
+                    <div n="299" type="scholion">
+                        <div type="lemma">
+                            <p>νότιος:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.811</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑγρὸς ἠ πολὺς ἐκ τοῦ νοσεῖν τὸ σῶμα γινόμενος ⁑</p>
+                        </div>
+                    </div>
+                    <div n="300" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς άρ <choice>
+                                    <sic>ἐμέλλετετ</sic>
+                                    <corr>ἐμέλλετε</corr>
+                                </choice>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.811</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ ὡς εἰκὸς ἦν ὡς ὑποκείμενον ἦν ὑμῖν τὸ παθεῖν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="301" type="scholion">
+                        <div type="lemma">
+                            <p>ἔσσεται: ἀλλ' ἐν νηυσὶ μελαίνῃσι πεσέωνται,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.824</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τοῦτο ἐπι τῶν <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρώων</rs> λέγει ἐμπεσοῦνται ταῖς ναυσὶν οἶον ἐνσείσουσιν
+                                ἐμπρήσουσιν ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

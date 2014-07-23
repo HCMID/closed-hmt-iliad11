@@ -1327,7 +1327,8 @@
                             <p><persName n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνοτ</abbr>
                                         <expan>Ζηνόδοτος</expan>
-                                    </choice></persName> <q>ἠθελέτην</q></p>
+                                    </choice></persName>
+                                <q>ἠθελέτην</q></p>
                         </div>
                     </div>
                     <div n="92" type="scholion">
@@ -1350,6 +1351,31 @@
                         </div>
                         <div type="comment">
                             <p>γένηται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="94" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.809</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> τετέξευται</p>
+                        </div>
+                    </div>
+                    <div n="95" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.822</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλω πεπνυμενος:</p>
                         </div>
                     </div>
                 </body>
