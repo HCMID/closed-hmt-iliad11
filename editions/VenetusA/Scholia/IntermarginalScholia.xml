@@ -1379,6 +1379,36 @@
                             <p>ἐν αλλω πεπνυμενος:</p>
                         </div>
                     </div>
+                    <div n="96" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.831</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
+                                <q>δεδάασθαι</q></p>
+                        </div>
+                    </div>
+                    <div n="97" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.841</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> δὲ <q>ἀμελήσω</q> ποιητικώτερον δὲ τὸ
+                                ἕτερον ⁑</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>

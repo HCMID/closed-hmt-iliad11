@@ -4254,6 +4254,123 @@
                                 </choice> βοήθημα</p>
                         </div>
                     </div>
+                    <div n="374" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.830@νίζ'</p>
+                        </div>
+                        <div type="comment">
+                            <p>πλύνε</p>
+                        </div>
+                    </div>
+                    <div n="375" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.830@λιαρῷ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ευκράτω χλιαρῷ</p>
+                        </div>
+                    </div>
+                    <div n="376" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.833@ἰ̈ητροὶ μὲν γὰρ</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῶν ϊατρῶν μὲν γὰρ</p>
+                        </div>
+                    </div>
+                    <div n="377" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.838@πῶς τάρ εοι</p>
+                        </div>
+                        <div type="comment">
+                            <p>πῶς <choice>
+                                    <abbr>τουτ</abbr>
+                                    <expan>τούτο</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>γένοιτ</abbr>
+                                    <expan>γένοιτο</expan>
+                                </choice> ἄν:</p>
+                        </div>
+                    </div>
+                    <div n="378" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.843@ὑπέχευε βόειας</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑπέστρωσε βύρσας</p>
+                        </div>
+                    </div>
+                    <div n="379" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.844@ἐκτανύσας</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐξαπλώσας</p>
+                        </div>
+                    </div>
+                    <div n="380" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.845@περιπευκὲς</p>
+                        </div>
+                        <div type="comment">
+                            <p>περισῶς πικρόν</p>
+                        </div>
+                    </div>
+                    <div n="381" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.847@ὀδυνήφατον</p>
+                        </div>
+                        <div type="comment">
+                            <p>οδύνων παυστικην</p>
+                        </div>
+                    </div>
+                    <div n="382" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.848@ἔσχ' ὀδύνας</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐπέσχεν ἔπαυσεν:</p>
+                        </div>
+                    </div>
+                    <div n="383" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.848@ἐτέρσετο</p>
+                        </div>
+                        <div type="comment">
+                            <p>εξηραίνετο:</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
