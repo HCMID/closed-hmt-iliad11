@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http·//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http·//relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http·//www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Iliad</title>
-                <editor>Brian Clark</editor>
-                <editor>Nikolas Churik</editor>
+                <editor>Andrew Boudon</editor>
+                <editor>Alex Simrell</editor>
+                <editor>Christopher Ryan</editor>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext
@@ -20,6 +21,8 @@
     <text>
         <body>
             <div n="11">
+                
+                
                 <l n="1">  ἠὼς δ᾽ ἐκ λεχέων παρ᾽ ἀγαυοῦ <persName n="urn:cite:hmt:pers.pers483">Τιθωνοῖο</persName>, </l>
             <l n="2">ὄρνυθ ἵν᾽ ἀθανάτοισι φόως φέροι ἠδὲ βροτοῖσι·</l>
                 <l n="3"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ <persName n="urn:cite:hmt:pers.pers156">Ἔριδα</persName> προΐαλλε θοὰς ἐπὶ νῆας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></l>
