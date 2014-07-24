@@ -130,7 +130,7 @@
                                     n="urn:cite:hmt:place.place45">Ὀλύμπῳ</placeName> ὑποτίθεται ὁ
                                 ποιητὴς οἰκεῖν τοὺς θεούς· ὄρος δὲ ὁ <placeName
                                     n="urn:cite:hmt:place.place45">Ὄλυμπος</placeName>, ἁρμοδίως τῷ
-                                πλάσματί φησιν αὐτοὺς καὶ ἐν σκότῳ ποτὲ εἶνα ⁑</p>
+                                πλάσματί φησιν αὐτοὺς καὶ ἐν σκότῳ ποτὲ εἶναι ⁑</p>
                         </div>
                     </div>
 
@@ -167,7 +167,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.20@Κινύρης</p>
                         </div>
                         <div type="comment">
-                            <p>οὗτος βίαντος μὲν ἦν παῖς· βασιλεὺς δὲ <placeName
+                            <p>οὗτος <persName>Βίαντος</persName> μὲν ἦν παῖς· βασιλεὺς δὲ <placeName
                                     n="urn:cite:hmt:place.place98">Κύπρου</placeName>· ζάπλουτος δὲ
                                 ὢν. παριόντας <rs type="ethnic" n="urn:cite:hmt:place.place3"
                                     >Ἕλληνας</rs> ἐξένισε· καὶ ὑπέσχετο αὐτοῖς ἐν <placeName
@@ -185,7 +185,7 @@
                                     n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> φιλίαν· οὐ γὰρ ὑπὲρ
                                 τοῦ μὴ στρατεῦσαι τὰ δῶρα διδόασιν. ἀλλὰ χαριζόμενος φησὶ βασιλῆϊ·
                                 ἠκούετο γάρ φησι εἰς <placeName n="urn:cite:hmt:place.place98"
-                                    >Κύπρον</placeName> τὰ μέγα κλέος ⁑</p>
+                                    >Κύπρον</placeName> τὰ μέγα κλέος ⁑</p>    
                         </div>
                     </div>
 
@@ -1931,7 +1931,7 @@
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="124" type="scholion">
                         <div type="marker">
                             <p/>
                         </div>
