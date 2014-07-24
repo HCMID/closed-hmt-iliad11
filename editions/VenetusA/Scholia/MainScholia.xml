@@ -1625,15 +1625,15 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6"
-                                    >Ἴλιον</placeName> καὶ ὅτι νῦν γραπτέον κατ'
-                                    <placeName>Ϊδέων</placeName> ὀρέων. ὅτ ἂν δὲ ἀπο τῆς <placeName
-                                    n="urn:cite:hmt:place89">Ἴδης</placeName> ἐπι τὸν <placeName
-                                    n="urn:cite:hmt:place.place45">Όλυμπον</placeName>
+                                    >Ἴλιον</placeName> καὶ ὅτι νῦν γραπτέον κατ' <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place89">Ϊδέων</rs> ὀρέων. ὅτ ἂν δὲ ἀπο
+                                τῆς <placeName n="urn:cite:hmt:place89">Ἴδης</placeName> ἐπι τὸν
+                                    <placeName n="urn:cite:hmt:place.place45">Όλυμπον</placeName>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:8.410</ref>
-                                    <q>βῆ δ' ἐξ <placeName>Ϊδαίων</placeName> ὀρέων ἐπι μακρὸν
-                                            <placeName n="urn:cite:hmt:place.place45"
-                                            >Ὄλυμπον</placeName></q>
+                                    <q>βῆ δ' ἐξ <rs type="ethnic" n="urn:cite:hmt:place.place89"
+                                            >Ϊδαίων</rs> ὀρέων ἐπι μακρὸν <placeName
+                                            n="urn:cite:hmt:place.place45">Ὄλυμπον</placeName></q>
                                 </cit> ὡς ἀπ' ἴσου ἐπ' ἴσον ⁑</p>
                         </div>
                     </div>
@@ -4499,8 +4499,9 @@
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> συγκατέκλινεν
                                 τὰς τῶν τετελευτηκότῶν γυναῖκας τῷ στρατῷ, οὕτως τὲ πολλῶν
                                 γεννηθέντων, ἔθηκεν τῷ <persName n="urn:cite:hmt:pers.pers8"
-                                    >Διὶ̈</persName> τὸν <rs>Ὀλυμπιακὸν</rs> ἀγῶνα καὶ αὐτὸς πρῶτος
-                                τῶν ἀγώνων ἥψατο ἡ ἱστορία παρα <persName
+                                    >Διὶ̈</persName> τὸν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place45">Ὀλυμπιακὸν</rs> ἀγῶνα καὶ αὐτὸς
+                                πρῶτος τῶν ἀγώνων ἥψατο ἡ ἱστορία παρα <persName
                                     n="urn:cite:hmt:pers.pesr86">Καλλιμάχῳ</persName> ⁑</p>
                         </div>
                     </div>
@@ -4527,7 +4528,8 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι τὰ περιελασθέντα ἐκ τῆς <placeName n="urn:cite:hmt:place.place41"
-                                    >Πύλου</placeName> ὑπο τῶν <rs>Ἐπειῶν</rs> θρέμματα <q><choice>
+                                    >Πύλου</placeName> ὑπο τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:pers.pers642">Ἐπειῶν</rs> θρέμματα <q><choice>
                                         <abbr>χρέω</abbr>
                                         <expan>χρέως</expan>
                                     </choice></q> καλεῖ, <persName n="urn:cite:hmt:pers.pers21"><choice>
@@ -4546,16 +4548,17 @@
                         <div type="comment">
                             <p>θαυμαστή ϊερά, ἐν αυτῆ γὰρ ετιμᾶτο <persName
                                     n="urn:cite:hmt:pers.pers8">Ὀλύμπιος Ζεὺς</persName> οὗ καὶ
-                                πανήγυρις παρα τριετῆ χρόνον ἤγετο τὰ <rs>Ὀλύμπια</rs> ἔνθα
-                                    <del>ε</del> ἡγωνίζοντο, οἵ ἀπο τῆς <placeName
-                                    n="urn:cite:hmt:place.place3">Ἑλλάδος</placeName> πάντες, ἐστι
-                                δὲ πόλις τῆς <placeName n="urn:cite:hmt:place.place36"
-                                    >Πελοποννήσου</placeName> ⁑</p>
+                                πανήγυρις παρα τριετῆ χρόνον ἤγετο τὰ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place45">Ὀλύμπια</rs> ἔνθα <del>ε</del>
+                                ἡγωνίζοντο, οἵ ἀπο τῆς <placeName n="urn:cite:hmt:place.place3"
+                                    >Ἑλλάδος</placeName> πάντες, ἐστι δὲ πόλις τῆς <placeName
+                                    n="urn:cite:hmt:place.place36">Πελοποννήσου</placeName> ⁑</p>
                         </div>
                     </div>
                     <div n="256" type="scholion">
                         <div type="lemma">
-                            <p>δαίτρευον πολέσιν γὰρ <rs>Ἐπειοὶ</rs> χρεῖος ὄφειλον ⁑</p>
+                            <p>δαίτρευον πολέσιν γὰρ <rs type="ethnic" n="urn:cite:hmt:pers.pers642"
+                                    >Ἐπειοὶ</rs> χρεῖος ὄφειλον ⁑</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.688</p>
@@ -4574,7 +4577,7 @@
                     </div>
                     <div n="257" type="scholion">
                         <div type="lemma">
-                            <p><rs>Ἐπειοὶ</rs></p>
+                            <p><rs type="ethnic" n="urn:cite:hmt:pers.pers642">Ἐπειοὶ</rs></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.688</p>
@@ -4590,7 +4593,8 @@
                                 κτίσας <placeName n="urn:cite:hmt:place.place65">Ήλιδα</placeName>·
                                 κλείου δὲ <persName n="urn:cite:hmt:pers.pers332">Ἄλεξις</persName>
                                 καὶ <persName n="urn:cite:hmt:pers.pers642">Ἐπειὸς</persName> ἀφοῦ
-                                    <rs>Ἐπειοὶ</rs> ὡς φησὶν <persName n="urn:cite:hmt:pers.pers300"><choice>
+                                    <rs type="ethnic" n="urn:cite:hmt:pers.pers642">Ἐπειοὶ</rs> ὡς
+                                φησὶν <persName n="urn:cite:hmt:pers.pers300"><choice>
                                         <abbr>Ἀριστοτε</abbr>
                                         <expan>Ἀριστοτέλης</expan>
                                     </choice></persName> ἐν τῶ <title>Πέπλῳ</title> ⁑</p>
@@ -4684,7 +4688,8 @@
                     </div>
                     <div n="261" type="scholion">
                         <div type="lemma">
-                            <p>ταύθ' ὑπερηφανέοντες <rs>Ἐπειοὶ</rs></p>
+                            <p>ταύθ' ὑπερηφανέοντες <rs type="ethnic" n="urn:cite:hmt:pers.pers642"
+                                    >Ἐπειοὶ</rs></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.694</p>
@@ -4693,8 +4698,8 @@
                             <p>ὅτι ἔν τισι γράφεται <q><rs type="ethnic"
                                         n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></q> τοὺς δε <rs
                                     type="ethnic" n="urn:cite:hmt:place.place65">Ἡλείους</rs>
-                                <rs>Ἐπειοὺς</rs> καλεῖ <persName n="urn:cite:hmt:pers.pers17"
-                                    >Ὅμηρος</persName> ⁑</p>
+                                <rs type="ethnic" n="urn:cite:hmt:pers.pers642">Ἐπειοὺς</rs> καλεῖ
+                                    <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="262" type="scholion">
