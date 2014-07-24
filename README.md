@@ -1,6 +1,6 @@
 # hmt-iliad11#
 
-Repostiory of the Holy Cross team working on diplomatic editions of *Iliad* 11 in MSS of the Homer Multitext project.
+Repository of the Holy Cross team working on diplomatic editions of *Iliad* 11 in MSS of the Homer Multitext project.
 
 ## Validation ##
 
