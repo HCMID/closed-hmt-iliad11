@@ -1867,8 +1867,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.318@ἔσσεται</p>
                         </div>
                         <div type="comment">
-                            <p>ἀπὸ τῆς ἀγχιστρόφου μάχης τοῦτο νοεῖ· <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> δὲ βασανίζει τὸν
-                                καιρόν· οἰκονομικῶς δὲ ὁ ποιητὴς ἐπιρρίπτει αὐτοὺς τοῖς δεινοῖς·
+                            <p>ἀπὸ τῆς ἀγχιστρόφου μάχης τοῦτο νοεῖ· <persName
+                                    n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> δὲ βασανίζει
+                                τὸν καιρόν· οἰκονομικῶς δὲ ὁ ποιητὴς ἐπιρρίπτει αὐτοὺς τοῖς δεινοῖς·
                                 ὅπως τρωθέντες ὑποχωρήσωσι· καὶ δι' ἀναρχίαν ἡ καῦσις τῶν νεῶν
                                 γεγονέναι δοκῇ· διδάσκει δὲ ὅτι χρὴ πράττειν τὰ παρ' ἑαυτοῦ· καὶ εἰ
                                 μέλοι τὰ τῆς τύχης ἐναντιοῦσθαι ⁑</p>
@@ -1883,31 +1884,49 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.327@φεύγοντες</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ ἑξῆς φεύγοντες <persName n="urn:cite:hmt:pers.pers172"
+                                    >Ἕκτορα</persName> δῖον. ἀσπασίως ἀνέπνεον· ὅρα δὲ τὸ ὄφελος τῶν
+                                    <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName>
+                                λόγων· παρορμήσας γὰρ τὸν <persName n="urn:cite:hmt:pers.pers215"
+                                    >Διομήδην</persName>, αἴτιος ἐγένετο τοῖς ἄλλοις <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place3">Ἕλλησι</rs>
+                                <choice>
+                                    <abbr>σρίας</abbr>
+                                    <expan>σωτηρίας</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="122" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="18">ιη</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.332@πειθέσθην</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὔτε ἀπειθεῖν πατράσιν ἀξιοῖ· οὔτε μαντικῆς καταφρονεῖν. θανάτῳ τοὺς
+                                τοῦτο δράσαντας κολάσας ⁑</p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="123" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="19">ιθ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.336@κατὰ ἶσα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>πρὸς τὸ ἀξιόπιστον· οὐ γὰρ ἂν ἠρίστευον ἀντιτασσομένου <persName
+                                    n="urn:cite:hmt:pers.pers8">Διός</persName>· φιλέλλην δὲ ὢν ὁ
+                                    <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> τὸ
+                                πρόθυμον αὐτῶν αἰδεσθεὶς. πρὸς ὀλίγον ἐνδίδωσιν· ἢ τοῦτο θέλει
+                                εἰπεῖν· ὡς ἰσοβαρὴς αὐτοῖς ἐνεκείνῃ τῇ ἡμέρᾳ γέγονεν ἡ
+                                μάχη·ἀριστεύει μὲν γὰρ <persName n="urn:cite:hmt:pers.pers22"
+                                    >Ἀγαμέμνων</persName>· ἔπειτα <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>· εἶτα
+                                τιτρώσκονται οὗτοι. ἐτρώθη δὲ καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> ⁑</p>
                         </div>
                     </div>
 
