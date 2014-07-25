@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-stylesheet type="text/css" href="../../scholia-css/tei-iliad.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,7 +67,7 @@
                         <abbr>ἀνων</abbr>
                         <expan>ἀνθρώπων</expan>
                     </choice>·</l>
-                <l n="29">ἀμφὶ δ' ὰρ ᾤμοισιν, βάλετο ξίφος· ἐν δέ οἱ ῆλοι</l>
+                <l n="29">ἀμφὶ δ' ὰρ <sic>ᾤμοισιν</sic>, βάλετο ξίφος· ἐν δέ οἱ ῆλοι</l>
                 <l n="30">χρύσειοι πάμφαινον· ἀτὰρ περὶ κουλεὸν ῆεν</l>
                 <l n="31">ἀργύρεον, χρυσέοισιν ἀορτήρεσσιν ἀρηρός·</l>
                 <l n="32">ἂν δ' έλετ' ἀμφιβρότην πολυδαίδαλον ἀσπίδα θοῦριν.</l>
