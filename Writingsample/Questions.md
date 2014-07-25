@@ -1,4 +1,4 @@
-This is the file for the abstracts of Nikolas Churik and Andrew Boudon.
+This is the file for the questions of Nikolas Churik and Andrew Boudon.
 
 Questions:
 
@@ -15,6 +15,6 @@ Questions:
 How to approach and answer questions:
 
 1. See what lines have multiple scholia on them.
-2. Search (?) for words that are glossed multiple times.
+2. Search for words that are glossed multiple times.
 3. See what lines have scholia in both VenA and Y.1.1.
 4. Look for formulaic structures/lines/half-lines.
