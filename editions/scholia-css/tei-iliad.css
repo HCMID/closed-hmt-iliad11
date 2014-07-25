@@ -81,3 +81,14 @@ lb:before{
     content:"";
 }
 
+
+l:before {
+content: attr('n') ". " ;
+color : silver;
+}
+
+div:before {
+    content: "Iliad " attr('n') ;
+    font-weight: bold;
+}
+
