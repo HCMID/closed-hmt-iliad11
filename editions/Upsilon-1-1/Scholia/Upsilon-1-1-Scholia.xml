@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../../scholia-css/tei-scholia.css"?>
+<?xml-stylesheet type="text/css" href="../../css/tei-scholia.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
@@ -691,7 +691,7 @@
                                     >Ἀγαμέμνονος</persName> ὁ λέων παρείληπται· ἡ δὲ παραβολὴ. πρὸς
                                 τὸ μὴ δύνασθαι τῇ εκείνων ἀναιρέσει βοηθῆσαι τινὰ τῶν <rs
                                     type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>· λίαν δέ
-                                ἐστιν ἐμφερεστάτη.νεβροὶ γὰρ οἱ νέοι <persName
+                                ἐστιν ἐμφερεστάτη. νεβροὶ γὰρ οἱ νέοι <persName
                                     n="urn:cite:hmt:pers.pers486"><persName
                                         n="urn:cite:hmt:pers.pers487"
                                     >Πριαμίδαι</persName></persName>· μήτηρ, οἱ <rs type="ethnic"
@@ -716,7 +716,7 @@
                             <p>τὴν τοῦ λέοντος ἰδίαν ὅπου ἀγνοοῦσα αὐτοὺς ἔθηκεν· καὶ τοῦτο δῆλον <choice>
                                     <abbr>ἑτέρωθ</abbr>
                                     <expan>ἑτέρωθεν</expan>
-                                </choice>· „<cit>
+                                </choice>· <cit>
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:4.335-4.336</ref>
                                     <q>ὡς δ' ὁπότ' ἔλαφος κρατεροῖο λέοντος νεβροὺς κοιμίσασα
@@ -739,7 +739,7 @@
                         </div>
                         <div type="comment">
                             <p>οὕτως <persName n="urn:cite:hmt:pers.pers300">Ἀριστοτέλης</persName>
-                                καὶ Ἀντίπατρος ὁ ἰατρὸς συναύξεσθαί φασι τῷ σώματι τὴν ψυχήν ⁑</p>
+                                καὶ <persName n="urn:cite:hmt:pers.pers656">Ἀντίπατρος</persName> ὁ ἰατρὸς συναύξεσθαί φασι τῷ σώματι τὴν ψυχήν ⁑</p>
                         </div>
                     </div>
 
@@ -767,7 +767,7 @@
                         </div>
                         <div type="comment">
                             <p>οὐ πολεμικοῦ. ἀλλὰ τῇ βουλῇ τοὺς πολεμίους μόνον
-                                διεγείροντος·γράφεται δὲ καὶ <q>κακόφρονος</q> ⁑</p>
+                                διεγείροντος· γράφεται δὲ καὶ <q>κακόφρονος</q> ⁑</p>
                         </div>
                     </div>
 
@@ -895,7 +895,7 @@
                             <p>καὶ τοῦτο ἐν εἰρωνείᾳ· φαύλην γὰρ γνώμην εἰσενεγκὼν εἰς <rs
                                     type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs>, διήγειρε
                                 πολεμεῖν· εἰ δὲ καὶ τὸν πολεμικὸν δηλοῖ, κατ' εἰρωνείαν καὶ τοῦτο·
-                                ὅτι τοὺς ἐν σπονδαῖς ἀφικομένους κτεῖναι παρῄνει, ὡσπέρ τι γενναῖον
+                                ὅτι τοὺς ἐν σπονδαῖς ἀφικομένους κτεῖναι παρῄνει, ὡσ πέρ τι γενναῖον
                                 ποιεῖν δοκῶν ⁑ </p>
                         </div>
                     </div>
