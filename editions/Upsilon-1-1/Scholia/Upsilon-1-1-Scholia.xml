@@ -739,7 +739,8 @@
                         </div>
                         <div type="comment">
                             <p>οὕτως <persName n="urn:cite:hmt:pers.pers300">Ἀριστοτέλης</persName>
-                                καὶ <persName n="urn:cite:hmt:pers.pers656">Ἀντίπατρος</persName> ὁ ἰατρὸς συναύξεσθαί φασι τῷ σώματι τὴν ψυχήν ⁑</p>
+                                καὶ <persName n="urn:cite:hmt:pers.pers656">Ἀντίπατρος</persName> ὁ
+                                ἰατρὸς συναύξεσθαί φασι τῷ σώματι τὴν ψυχήν ⁑</p>
                         </div>
                     </div>
 
@@ -766,8 +767,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.123@δαΐφρονος</p>
                         </div>
                         <div type="comment">
-                            <p>οὐ πολεμικοῦ. ἀλλὰ τῇ βουλῇ τοὺς πολεμίους μόνον
-                                διεγείροντος· γράφεται δὲ καὶ <q>κακόφρονος</q> ⁑</p>
+                            <p>οὐ πολεμικοῦ. ἀλλὰ τῇ βουλῇ τοὺς πολεμίους μόνον διεγείροντος·
+                                γράφεται δὲ καὶ <q>κακόφρονος</q> ⁑</p>
                         </div>
                     </div>
 
@@ -2136,7 +2137,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.383@μηκάδες</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς δειλὸς καὶ περὶ τῶν ἄλλων ὑπείληφεν ὡς φοβουμένων· ἔστι δὲ καὶ ἀνοήτων τὸ τοὺς οἰκείους ἐπὶ τῶν πολεμίων ἐλέγχειν ⁑ </p>
+                            <p>ὡς δειλὸς καὶ περὶ τῶν ἄλλων ὑπείληφεν ὡς φοβουμένων· ἔστι δὲ καὶ
+                                ἀνοήτων τὸ τοὺς οἰκείους ἐπὶ τῶν πολεμίων ἐλέγχειν ⁑ </p>
                         </div>
                     </div>
 
@@ -2148,19 +2150,25 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.385@τοξότα</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἀλλὰ καὶ οἱ θεοὶ φασι τοξόται. καὶ τῶν ἡρώων οἱ κράτιστοι· <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>·
+                                <persName n="urn:cite:hmt:pers.pers39">Ἄρτεμις</persName>· <persName n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName>· <persName>Εὔρυτος</persName>· ἀλλὰ καὶ ἐν τοῖς πρὸς <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>
+                                στρατευομένοις, <persName n="urn:cite:hmt:pers.pers212">Μηριόνης</persName>· <persName n="urn:cite:hmt:pers.pers319">Φιλοκτήτης</persName>· <persName n="urn:cite:hmt:pers.pers243">Τεῦκρος</persName>· οὐχ' ὅτι δε τοξότης
+                                ὀνειδίζει. ἀλλ' ὅτι φαῦλος· τοῦτο γὰρ ἐμφαίνει τὸ <q>λωβητήρ</q>· εἶτα
+                                πάλιν τῇ τριχὶ φησι κάλλιστε, ἐπὶ ἀπάτῃ παρθένων· οὐδὲ γὰρ οὐδὲ το
+                                κομᾶν κακόν ἐστι καθ' ἑαυτό· τὸ δὲ κέρᾳ σὺν τῷ <rs type="waw">ι</rs> ἡ παράδοσις·
+                                δοτικὴν ἐκδεχομένη· τινὲς δὲ πληθυντικῶς ἤκουσαν ⁑</p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="140" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num n="16">ιϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.386@ἀντίβιον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γενναῖον ἐστὶ τὸ πάσχοντα, αὐθωρὸν προκαλεῖσθαι τὸν βαλόντα ⁑</p>
                         </div>
                     </div>
 
