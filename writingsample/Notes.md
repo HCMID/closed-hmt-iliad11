@@ -3,8 +3,8 @@ This file is for notes, exempla, thoughts, queries, conjectures, URNs.
 Book X
 
 - ἀθέσφατον
-urn:cts:greekLit:tlg5026.msA.hmt:10.5
-urn:cts:greekLit:tlg5026.msAint.hmt:10.32
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.5
+>- urn:cts:greekLit:tlg5026.msAint.hmt:10.32
 
 - ἐλεύκανεν
 urn:cts:greekLit:tlg5026.msA.hmt:10.7
