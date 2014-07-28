@@ -49,3 +49,11 @@ Book X
 >- urn:cts:greekLit:tlg5026.msA.hmt:10.68
 >- urn:cts:greekLit:tlg5026.msAim.hmt:10.82
 
+- τέλος
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.89
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.71
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.6001
+
+- αβροτάξομεν
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.90
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.74
