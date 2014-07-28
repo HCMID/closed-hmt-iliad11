@@ -44,3 +44,8 @@ Book X
 - ἐπ ήματι
 >- urn:cts:greekLit:tlg5026.msAim.hmt:10.51
 >- urn:cts:greekLit:tlg5026.msA.hmt:10.6000
+
+- Αἴαντα
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.68
+>- urn:cts:greekLit:tlg5026.msAim.hmt:10.82
+
