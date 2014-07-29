@@ -1066,7 +1066,7 @@
                     </div>
                     <div n="62" type="scholion">
                         <div type="lemma">
-                            <p>‡ ὁμοῦ δ' ἔχον: ὡκέας ἵππους:</p>
+                            <p>‡ ὁμοῦ δ' ἔχον: <sic>ὡκέας</sic> ἵππους:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.127</p>
@@ -1101,7 +1101,7 @@
                                 </choice> ὁ στίχος καὶ σπανίως χρῆται ὡς καὶ ἐν <title
                                     n="urn:cts:greekLit:tlg0012.tlg002"><choice>
                                         <abbr>οδ</abbr>
-                                        <expan>Ὀδυσσείᾳ</expan>
+                                        <expan>ὀδυσσείᾳ</expan>
                                     </choice></title>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.15</ref>
@@ -1161,7 +1161,7 @@
                     </div>
                     <div n="68" type="scholion">
                         <div type="lemma">
-                            <p>νῦν μὲν δεὶ τοῦ <choice>
+                            <p>νῦν μὲν <sic>δεὶ</sic> τοῦ <choice>
                                     <abbr>πρς</abbr>
                                     <expan>πατρός</expan>
                                 </choice></p>
@@ -1215,8 +1215,8 @@
                                     <sic>τινὰ</sic>
                                     <corr>τινά</corr>
                                 </choice>. ἡ διπλὴ δὲ ὅτι ἅπαξ ἐνταῦθα κέχρηται καὶ ὅτι ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιάδι</title> εὐτελέσι
-                                κέχρηται λεξιδίους οὐ μόνον ἐν <title
+                                    n="urn:cts:greekLit:tlg0012.tlg001">ἰλιάδι</title> εὐτελέσι
+                                κέχρηται <sic>λεξιδίους</sic> οὐ μόνον ἐν <title
                                     n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</title>
                                 <q>χοίνικος</q> καὶ <q>λύχνου</q> προς τοὺς Χωρίζοντας ⁑</p>
                         </div>
