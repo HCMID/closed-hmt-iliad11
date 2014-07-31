@@ -2530,8 +2530,8 @@
                             <p>καλῶς ἄρα <persName n="urn:cite:hmt:pers.pers188"
                                     >Λυκοῦργος</persName> ἐνομοθέτησε <placeName
                                     n="urn:cite:hmt:place.place27">Λακεδαιμονίους</placeName> ἐσθῆτα
-                                <sic>φοινικὴν</sic>. ἐν τοῖς πολεμίοις φορεῖν· ἵν' εἰ τρωθείη τις. λανθάνη τοὺς
-                                πολεμίους διὰ τὸ ὁμόχρουν ⁑</p>
+                                    <sic>φοινικὴν</sic>. ἐν τοῖς πολεμίοις φορεῖν· ἵν' εἰ τρωθείη
+                                τις. λανθάνη τοὺς πολεμίους διὰ τὸ ὁμόχρουν ⁑</p>
                         </div>
                     </div>
 
@@ -2543,8 +2543,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.461@ἐξοπίσω</p>
                         </div>
                         <div type="comment">
-                            <p><sic>συγγιωστέον</sic>· ἐν ἐσχάτοις γάρ ἐστιν· εἰκότως οὖν ὑποχωρεῖ. καὶ βοᾷ
-                                τοὺς συμμάχους ⁑</p>
+                            <p><sic>συγγιωστέον</sic>· ἐν ἐσχάτοις γάρ ἐστιν· εἰκότως οὖν ὑποχωρεῖ.
+                                καὶ βοᾷ τοὺς συμμάχους ⁑</p>
                         </div>
                     </div>
 
@@ -2618,7 +2618,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:469@ἀλεξέμεναι</p>
                         </div>
                         <div type="comment">
-                            <p>ἄμεινόν φησιν ἐκείνῳ βοηθεῖν <gap></gap> σχολάζειν ὧδε ⁑</p>
+                            <p>ἄμεινόν φησιν ἐκείνῳ βοηθεῖν <gap/> σχολάζειν ὧδε ⁑</p>
                         </div>
                     </div>
 
@@ -2650,8 +2650,664 @@
                         </div>
                         <div type="comment">
                             <p>πρὸς τὸ πιθανὴν γενέσθαι τὴν ἔφοδον. τῶν πολλῶν ζώων· ἄγει δὲ καὶ ἐπ'
-                                ἐκεῖνον ἡ ἔννοια· ὅτι οὐδ ἂν τῷ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεῖ</persName> προσῆλθον οἱ βάρβαροι, εἰ μὴ
-                                διὰ τὸ τετρῶσθαι ὑπεῖξεν ⁑</p>
+                                ἐκεῖνον ἡ ἔννοια· ὅτι οὐδ ἂν τῷ <persName
+                                    n="urn:cite:hmt:pers.pers118">Ὀδυσσεῖ</persName> προσῆλθον οἱ
+                                βάρβαροι, εἰ μὴ διὰ τὸ τετρῶσθαι ὑπεῖξεν ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="174" type="scholion">
+                        <div type="marker">
+                            <p><num value="1">α</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.484@ἀΐσσων</p>
+                        </div>
+                        <div type="comment">
+                            <p>στιγμὴ εἰς τὸ ἀΐσσων· οὐ πρὸς τρῶσιν δὲ ἐφορμαῖ· ἄπιστον γὰρ τοῦτο,
+                                ἀλλ' εἰς τὸ ἐκφοβῆσαι μόνον ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="175" type="scholion">
+                        <div type="marker">
+                            <p><num value="2">β</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.488@εἵος</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ τοῦ <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>·
+                                    <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> γὰρ
+                                οὐκ ἔχει ἵππους ἅτε δὴ νησιώτης ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="176" type="scholion">
+                        <div type="marker">
+                            <p><num value="3">γ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.490@Πριαμίδην</p>
+                        </div>
+                        <div type="comment">
+                            <p>στιγμὴ εἰς τὸ <choice>
+                                    <abbr><persName n="urn:cite:hmt:pers.pers557"
+                                        >Πριαμίδ</persName></abbr>
+                                    <expan><persName n="urn:cite:hmt:pers.pers557"
+                                            >Πριαμίδην</persName></expan>
+                                </choice>· εἶτα μετ' ἐμφάσεως ἡ ἐπανάληψις· καὶ πάλιν εἰς τὸ υἱόν
+                                τελεία ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="177" type="scholion">
+                        <div type="marker">
+                            <p><num value="4">δ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.492@κάτεισι</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ ἐπὶ <persName n="urn:cite:hmt:pers.pers215">Διομήδους</persName>
+                                ἡ παραβολὴ· ἀλλὰ τότε μείζων τούτου ἐκεῖνος. διὰ τὴν ἐπικουρίαν
+                                    <persName n="urn:cite:hmt:pers.pers.67">Ἀθηνᾶς</persName>· οὐ
+                                μὴν οὐδὲ αὕτη εἰκῆ πρόσκειται· τὸ γὰρ <q>κάτεισι</q>, τὴν ἀκώλυτον
+                                ὑποφαίνει ὁρμὴν. καὶ τὸ <q>ὀπαζόμενος</q>. οἷον ἐπειγόμενος ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="178" type="scholion">
+                        <div type="marker">
+                            <p><num value="5">ε</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.494@ἀζαλέας</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἢ τὰς μὴ παρὰ τὸν ποταμὸν. ἀλλ' ἄνω ποῦ οὔσας ἵνα τὸ πλῆθος τοῦ
+                                ῥείθρου δηλοῖ· ἢ ἃς οἱ δρυτόμοι τιθέασι πρὸς τὸ ξηρανθῆναι· διὰ δὲ
+                                τὸ δυσμετακόμιστον. ἐῶσι τὸν ποταμὸν ἀγαγεῖν· διὰ δὲ τοῦ
+                                πολλαπλασιάζειν τὸ πολλάς. ἐπαίρει τὸν λόγον ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="179" type="scholion">
+                        <div type="marker">
+                            <p><num value="6">ϛ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.504@κελεύθου</p>
+                        </div>
+                        <div type="comment">
+                            <p>τῆς ὡς πρὸς τοὺς πολεμίους ὁρμῆς. καὶ ἧς εἶχον κατ' αὐτῶν προθυμίας ⁑</p>
+                        </div>
+                    </div>
+
+                    <div n="180" type="scholion">
+                        <div type="marker">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p></p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                <abbr>στιχ</abbr>
+                                <expan>στίχος</expan>
+                            </choice> χειμάρρους κατ' ὄρεσφιν ὀπαζόμενος διὸς ὄμβρῳ·<gap/></p>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div n="x" type="scholion">
+                        <div type="marker">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
                         </div>
                     </div>
 
