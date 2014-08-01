@@ -2839,9 +2839,18 @@
                                 εὕρητο παρὰ τοῖς παλαιοῖς· τοῦ γὰρ διαιτητικοῦ
                                     <persName>Ἡρόδικος</persName> μὲν ἤρξατο· συνετέλεσε δὲ
                                     <persName n="urn:cite:hmt:pers.pers325">Ἱπποκράτης</persName>·
+<<<<<<< HEAD
                                     <persName>Πραξαγόρας</persName>· <persName>Χρύσιππος</persName>·
                                 ἔνιοι δὲ φασιν ὡς οὐδὲ ἐπὶ πάντας τοὺς ἰατροὺς. ὁ ἔπαινος οὗτός ἐστὶ
                                 κοινὸς. ἀλλὰ τὸν <persName n="urn:cite:hmt:pers.pers89"
+=======
+<<<<<<< HEAD
+                                    <persName>Πραξαγόρας</persName>· Χρύσιππος· ἔνιοι δὲ φασιν ὡς οὐδὲ ἐπὶ πάντας τοὺς ἰατροὺς. ὁ ἔπαινος
+=======
+                                    <persName>Πραξαγόρας</persName>· <persName>Χρύσιππος</persName>· ἔνιοι δὲ φασιν ὡς οὐδὲ ἐπὶ πάντας τοὺς ἰατροὺς. ὁ ἔπαινος
+>>>>>>> b48707528ea71832f40d1fb06cfe5a5a2e3f8132
+                                οὗτός ἐστὶ κοινὸς. ἀλλὰ τὸν <persName n="urn:cite:hmt:pers.pers89"
+>>>>>>> 53be74c798732eb0ef9520276746a42b6e051de5
                                     >Μαχάονα</persName> μόνον χειρουργεῖν θέλουσι· τὸν γὰρ
                                     <persName>Ποδαλείριον</persName>. διαιτᾶσθαι φασι τὰς νόσους·
                                 τεκμήριον ὅτι <persName n="urn:cite:hmt:pers.pers22"
