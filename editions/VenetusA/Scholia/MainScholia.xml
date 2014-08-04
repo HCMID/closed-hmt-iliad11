@@ -1398,7 +1398,8 @@
                         </div>
                         <div type="comment">
                             <p>μέχρι τοῦ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.167</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.167</ref>
                                     <q>μέσον καπ πεδίον</q>
                                 </cit> συναπτέον εἶτα βραχὺ <sic>δίασταλτέον</sic>. ὁ γὰρ ἐρινεὸς
                                 οὐκ ἐν μέσῳ τῷ πεδίῳ ἀλλ εγγὺς τῆς <choice>
@@ -1406,53 +1407,65 @@
                                     <expan>πόλεως</expan>
                                 </choice>
                                 <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:6.433</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:6.433</ref>
                                     <q>λαὸν δὲ στῆσον παρ' ἐρινεὸν ἔνθα μάλιστα</q>
                                 </cit>
                                 <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:6.434</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:6.434</ref>
                                     <q>ἄμβατός ἐστι <choice>
                                             <abbr>πο</abbr>
                                             <expan>πόλις</expan>
                                         </choice></q>
                                 </cit> καὶ ἀλλαχοῦ. <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.145</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:22.145</ref>
                                     <q>οἱ δὲ παρὰ σκοπιὴν καὶ ἐρινεὸν</q>
                                 </cit> ταῦτα μὲν ὅτι πλησίον τοῦ τείχους ὁ ερινεός ὅτι δὲ καὶ ἐν
-                                μέσῳ τῷ πεδίῳ ἐστὶ τὸ <persName n="urn:cite:hmt:pers.pers494"
-                                    >Ἤλου</persName> σῆμα, φανερὸν ἐξ εκείνου, <q><persName
+                                μέσῳ τῷ πεδίῳ ἐστὶ τὸ <persName
+                                    n="urn:cite:hmt:pers.pers494">Ἤλου</persName> σῆμα, φανερὸν ἐξ
+                                εκείνου, <q><persName
                                         n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν μετα
                                     τοῖσιν. ὅσοι βουλὰς βουλεύουσιν θείου παρα σήματος <persName
-                                        n="urn:cite:hmt:pers.pers494"
-                                >Ἴλου</persName></q>.ἐπαυλίζονται δὲ ἐν μέσῳ τοῦ πεδίου ἐπι τοῦ
-                                    <sic>θροσμοῦ</sic>
+                                        n="urn:cite:hmt:pers.pers494">Ἴλου</persName></q>.ἐπαυλίζονται
+                                δὲ ἐν μέσῳ τοῦ πεδίου ἐπι τοῦ <sic>θροσμοῦ</sic>
                                 <cit>
-                                    <ref type="urn">rn:cts:greekLit:tlg0012.tlg001.msA:10.160</ref>
-                                    <q>οὐκ αΐεις ὡς <rs type="ethnic" n="urn:cite:hmt:place.place6"
-                                            >Τρῶες</rs> ἐπι <sic>θροσμῷ</sic> πεδίοιο</q>
-                                </cit> ὅ τε <persName n="urn:cite:hmt:pers.pers129"
-                                    >Ἀλέξανδρος</persName> ἐν ταύτῃ τῇ ραψῳδίᾳ τοξεύει <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.371</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.160</ref>
+                                    <q>οὐκ αΐεις ὡς <rs
+                                            n="urn:cite:hmt:place.place6"
+                                            type="ethnic">Τρῶες</rs> ἐπι <sic>θροσμῷ</sic>
+                                        πεδίοιο</q>
+                                </cit> ὅ τε <persName
+                                    n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> ἐν ταύτῃ τῇ
+                                ραψῳδίᾳ τοξεύει <cit>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.371</ref>
                                     <q>στήλῃ κεκλημένος</q>
                                 </cit>
                                 <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.372</ref>
-                                    <q><persName n="urn:cite:hmt:pers.pers494">Ἴλου
-                                            Δαρδανίδαο</persName></q>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.372</ref>
+                                    <q><persName
+                                            n="urn:cite:hmt:pers.pers494">Ἴλου
+                                        Δαρδανίδαο</persName></q>
                                 </cit>· ἡ δε μάχη ἐν τῶ πεδίῳ συναπτέον οὖν ἀναγινώσκοντας ἕως τοῦ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.167</ref>
+                                    <ref
+                                        type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.167</ref>
                                     <q>μέσον καπ πεδίον</q>
                                 </cit>, εῖτα βραχὺ διαστείλαντας τὰ εξῆς ῥητέον καὶ οὑτω λυθήσεται
-                                τὸ ἐν τῷ τόπῳ ἄπορον. καὶ <persName n="urn:cite:hmt:pers.pers494"
-                                    >Ἴλου</persName> σῆμα καὶ μέσον πεδίον· καὶ ἐρινεὸς καὶ ἡ <choice>
+                                τὸ ἐν τῷ τόπῳ ἄπορον. καὶ <persName
+                                    n="urn:cite:hmt:pers.pers494">Ἴλου</persName> σῆμα καὶ μέσον
+                                πεδίον· καὶ ἐρινεὸς καὶ ἡ <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλις</expan>
                                 </choice> ἐν ταὐτῷ ⁑ παρέρχονται μὲν γὰρ τὸ μέσον <choice>
                                     <abbr>πεδ</abbr>
                                     <expan>πεδίον</expan>
-                                </choice> ἐν ῷ τὸ <persName n="urn:cite:hmt:pers.pers494"
-                                    >Ἴλου</persName> σῆμα σεύονται δὲ πρὸς τὸν ἐρινεὸν ί̈ενται δὲ
-                                τῆς <choice>
+                                </choice> ἐν ῷ τὸ <persName
+                                    n="urn:cite:hmt:pers.pers494">Ἴλου</persName> σῆμα σεύονται δὲ
+                                πρὸς τὸν ἐρινεὸν ί̈ενται δὲ τῆς <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλεως</expan>
                                 </choice> ὡσεὶ <choice>
@@ -1464,8 +1477,9 @@
                                     <abbr>πο</abbr>
                                     <expan>πόλιν</expan>
                                 </choice> ⁑ ἡ διπλῆ πρὸς τὸ περι τοῦ <sic>ναστάθμου</sic> διάγραμμα
-                                το γὰρ <persName n="urn:cite:hmt:pers.pers494">΄Ϊλου</persName> σῆμα
-                                κατα μεσον εῖναι φησιν τῷ πεδίῳ ⁑</p>
+                                το γὰρ <persName
+                                    n="urn:cite:hmt:pers.pers494">΄Ϊλου</persName> σῆμα κατα μεσον
+                                εῖναι φησιν τῷ πεδίῳ ⁑</p>
                         </div>
                     </div>
                     <div n="82" type="scholion">
