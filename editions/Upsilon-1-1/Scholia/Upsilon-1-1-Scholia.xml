@@ -29,10 +29,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.1@ἠὼς</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς <w>φιλέλλ<supplied resp="Erbse">ην</supplied></w> ὁ
-                                        <w>ποιητ<supplied resp="Erbse">ής</supplied></w>· μεχρι των
-                                νεων τους <rs type="ethnic" n="urn:cite:hmt:place.place3"
-                                    >Ελληνας</rs> συνελάσας· καὶ ἐπαυλιζομένους ταῖς ναυσὶ ποιήσας
+                            <p><damage><choice><reg>ὡς</reg> <unclear>ως</unclear></choice> <choice><unclear>φιλελλ</unclear><reg resp="Erbse">φιλέλλην</reg></choice> <choice><unclear>ο</unclear><reg>ὁ</reg></choice>
+                                <choice><unclear>ποιητ</unclear><reg>ποιητής</reg></choice>· <choice><unclear>μεχρι</unclear><reg>μέχρι</reg></choice> <choice><unclear>των</unclear><reg>τῶν</reg></choice>
+                                <choice><unclear>νεων</unclear><reg>νεῶν</reg></choice> <choice><unclear>τους</unclear><reg>τούς</reg></choice> <choice><unclear><rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                    >Ελληνας</rs></unclear><reg><rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs></reg></choice></damage> συνελάσας· καὶ ἐπαυλιζομένους ταῖς ναυσὶ ποιήσας
                                 τοὺς βαρβάρους, οὐκ εὐθέως τειχομαχίαν ἐποίησεν· οὐδὲ τὴν ἐπὶ ταῖς
                                 ναυσὶ μάχην· ὅπερ καὶ κατὰ δόξαν ἦν τοῖς ἀκροωμένοις· ἀλλὰ πρότερον
                                 τὴν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>
