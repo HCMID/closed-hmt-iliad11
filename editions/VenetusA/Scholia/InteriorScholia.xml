@@ -232,7 +232,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.431</p>
                         </div>
                         <div type="comment">
-                            <p>γράφεται <persName>Ἱππασιδήϊν</persName></p>
+                            <p>γράφεται <q><persName n="urn:cite:hmt:pers.pers554">Ἱππασιδήϊν</persName></q></p>
                         </div>
                     </div>
                     <div n="18" type="scholion">
@@ -269,7 +269,7 @@
                         <div type="comment">
                             <p>ἐκ πλήρους <persName n="urn:cite:hmt:pers.pers16"
                                     >Ἀρισταρχος</persName>
-                                <q>ὼ <persName>Σὦκε</persName></q>.</p>
+                                <q>ὼ <persName n="urn:cite:hmt:pers.pers555">Σὦκε</persName></q>.</p>
                         </div>
                     </div>
                     <div n="21" type="scholion">

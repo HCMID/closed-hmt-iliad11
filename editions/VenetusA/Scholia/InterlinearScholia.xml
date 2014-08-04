@@ -1669,7 +1669,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.306@ἀργεστᾶο Νότοιο</p>
                         </div>
                         <div type="comment">
-                            <p>τοῦ <persName>Λευκονότου</persName></p>
+                            <p>τοῦ <persName n="urn:cite:hmt:pers.pers681">Λευκονότου</persName></p>
                         </div>
                     </div>
                     <div n="148" type="scholion">
@@ -3926,7 +3926,7 @@
                                     <abbr>πο</abbr>
                                     <expan>πόλις</expan>
                                 </choice>
-                                <placeName>Ί̈διδος</placeName></p>
+                                <placeName n="urn:cite:hmt:place.place65"><sic>Ί̈διδος</sic></placeName></p>
                         </div>
                     </div>
                     <div n="345" type="scholion">
