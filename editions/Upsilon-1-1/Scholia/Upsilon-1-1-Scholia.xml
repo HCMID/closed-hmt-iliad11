@@ -29,21 +29,54 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.1@ἠὼς</p>
                         </div>
                         <div type="comment">
-                            <p><damage><choice><reg>ὡς</reg> <unclear>ως</unclear></choice> <choice><unclear>φιλελλ</unclear><reg resp="Erbse">φιλέλλην</reg></choice> <choice><unclear>ο</unclear><reg>ὁ</reg></choice>
-                                <choice><unclear>ποιητ</unclear><reg>ποιητής</reg></choice>· <choice><unclear>μεχρι</unclear><reg>μέχρι</reg></choice> <choice><unclear>των</unclear><reg>τῶν</reg></choice>
-                                <choice><unclear>νεων</unclear><reg>νεῶν</reg></choice> <choice><unclear>τους</unclear><reg>τούς</reg></choice> <choice><unclear><rs type="ethnic" n="urn:cite:hmt:place.place3"
-                                    >Ελληνας</rs></unclear><reg><rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs></reg></choice></damage> συνελάσας· καὶ ἐπαυλιζομένους ταῖς ναυσὶ ποιήσας
-                                τοὺς βαρβάρους, οὐκ εὐθέως τειχομαχίαν ἐποίησεν· οὐδὲ τὴν ἐπὶ ταῖς
-                                ναυσὶ μάχην· ὅπερ καὶ κατὰ δόξαν ἦν τοῖς ἀκροωμένοις· ἀλλὰ πρότερον
-                                τὴν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>
-                                ἀριστείαν διέγραψε· καὶ μετ' αὐτὴν τὴν τῶν ἄλλων ἀριστέων· εἶτα
-                                ἐπειδὴ τοὺς ἀρίστους ἐπὶ τὰς ναῦς ἀπέστειλε τρωθέντας, τότε τοὺς <rs
-                                    type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>
-                                ἐποίησεν ἡττωμένους· ἐπειδὴ δὲ μεμονωμένους τοὺς <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place3">Ἕλληνας</rs>· ἀπίθανον ἦν
-                                παρεισάγειν ἀνδραγαθοῦντας ἕωθεν, εὐλόγως
-                                    <w><unclear>ἡ</unclear></w> νὺξ παραμυθεῖται αὐτῶν τὴν ἧτταν·
-                                καὶ τοσοῦτον. ὡς συνωθῆσαι πάλιν μέχρι τείχους τοὺς <rs
+                            <p><damage><choice>
+                                        <reg>ὡς</reg>
+                                        <unclear>ως</unclear>
+                                    </choice>
+                                    <choice>
+                                        <unclear>φιλελλ</unclear>
+                                        <reg resp="Erbse">φιλέλλην</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear>ο</unclear>
+                                        <reg>ὁ</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear>ποιητ</unclear>
+                                        <reg>ποιητής</reg>
+                                    </choice>· <choice>
+                                        <unclear>μεχρι</unclear>
+                                        <reg>μέχρι</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear>των</unclear>
+                                        <reg>τῶν</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear>νεων</unclear>
+                                        <reg>νεῶν</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear>τους</unclear>
+                                        <reg>τούς</reg>
+                                    </choice>
+                                    <choice>
+                                        <unclear><rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                                >Ελληνας</rs></unclear>
+                                        <reg><rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                                >Ἕλληνας</rs></reg>
+                                    </choice></damage> συνελάσας· καὶ ἐπαυλιζομένους ταῖς ναυσὶ
+                                ποιήσας τοὺς βαρβάρους, οὐκ εὐθέως τειχομαχίαν ἐποίησεν· οὐδὲ τὴν
+                                ἐπὶ ταῖς ναυσὶ μάχην· ὅπερ καὶ κατὰ δόξαν ἦν τοῖς ἀκροωμένοις· ἀλλὰ
+                                πρότερον τὴν <persName n="urn:cite:hmt:pers.pers22"
+                                    >Ἀγαμέμνονος</persName> ἀριστείαν διέγραψε· καὶ μετ' αὐτὴν τὴν
+                                τῶν ἄλλων ἀριστέων· εἶτα ἐπειδὴ τοὺς ἀρίστους ἐπὶ τὰς ναῦς ἀπέστειλε
+                                τρωθέντας, τότε τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place3"
+                                    >Ἕλληνας</rs> ἐποίησεν ἡττωμένους· ἐπειδὴ δὲ μεμονωμένους τοὺς
+                                    <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>·
+                                ἀπίθανον ἦν παρεισάγειν ἀνδραγαθοῦντας ἕωθεν, εὐλόγως
+                                        <w><unclear>ἡ</unclear></w> νὺξ παραμυθεῖται αὐτῶν τὴν
+                                ἧτταν· καὶ τοσοῦτον. ὡς συνωθῆσαι πάλιν μέχρι τείχους τοὺς <rs
                                     type="ethnic" n="urn:cite:hmt:place.place6">Τρῶας</rs>· ἄχρις
                                 ὅτου τῆς τοῦ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName>
                                 τύχωσιν ἐπικουρίας· ἐπιδείκνυσι γὰρ ὅτι τύχαις οὐ γνώμαις ἐλείποντο
@@ -3050,12 +3083,15 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.558@ὅτ᾽ ὄνος</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ παραβολὴ πρὸς τὴν καταφρόνησιν τῶν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>· ὅτι οὐκ αὐτοὺς φεύγει.
-                                ἀλλὰ <persName n="urn:cite:hmt:pers.pers8">Δία</persName>· πρὸς δὲ τὴν στάσιν τὴν <w>ἀδ<add place="supralinear">δ</add>ηφαγίαν</w> τοῦ ζώου
-                                ἔλαβε· διὰ δὲ τοῦ κείρειν, τὴν ἀφθονίαν τῆς τροφῆς· εὖ δὲ καὶ οὐ
-                                φορτηγῷ ὄνῳ παρέβαλεν ἀλλὰ βοσκομένῳ· βραδεῖα γὰρ ἡ κίνησις τοῦ
+                            <p>ἡ παραβολὴ πρὸς τὴν καταφρόνησιν τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώων</rs>· ὅτι οὐκ αὐτοὺς φεύγει.
+                                ἀλλὰ <persName n="urn:cite:hmt:pers.pers8">Δία</persName>· πρὸς δὲ
+                                τὴν στάσιν τὴν <w>ἀδ<add place="supralinear">δ</add>ηφαγίαν</w> τοῦ
+                                ζώου ἔλαβε· διὰ δὲ τοῦ κείρειν, τὴν ἀφθονίαν τῆς τροφῆς· εὖ δὲ καὶ
+                                οὐ φορτηγῷ ὄνῳ παρέβαλεν ἀλλὰ βοσκομένῳ· βραδεῖα γὰρ ἡ κίνησις τοῦ
                                 νεμομένου· καὶ ἐπιτείνων τὸν ὄνον. νωθῆ λέγει καὶ πληγῶν ἐθάδα
-                                πολλῶν. καὶ <q>οὐκ ἄνδρας τύπτειν</q> φησιν <q>αὐτόν ἀλλὰ παῖδας</q> ⁑</p>
+                                πολλῶν. καὶ <q>οὐκ ἄνδρας τύπτειν</q> φησιν <q>αὐτόν ἀλλὰ παῖδας</q>
+                                ⁑</p>
                         </div>
                     </div>
 
@@ -3067,7 +3103,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.559@ῥόπαλ᾽</p>
                         </div>
                         <div type="comment">
-                            <p>οὐχ' ὑπὸ τῶν παίδων. ἀλλὰ πάντοτε ὑπὸ ἄλλων· οὗτος γὰρ ἐθὰς ὢν. οὐκ ἀλεγίζει τῶν πληγῶν ⁑</p>
+                            <p>οὐχ' ὑπὸ τῶν παίδων. ἀλλὰ πάντοτε ὑπὸ ἄλλων· οὗτος γὰρ ἐθὰς ὢν. οὐκ
+                                ἀλεγίζει τῶν πληγῶν ⁑</p>
                         </div>
                     </div>
 
@@ -3079,43 +3116,56 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.566@μνησάσκετο</p>
                         </div>
                         <div type="comment">
-                            <p>καίπερ καταστασιαζόμενος ὑπὸ τοῦ θεου, τῆς φύσεως οὐκ ἤθελεν ἐξίστασθαι ⁑ </p>
+                            <p>καίπερ καταστασιαζόμενος ὑπὸ τοῦ θεου, τῆς φύσεως οὐκ ἤθελεν
+                                ἐξίστασθαι ⁑ </p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="202" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="15">ιε</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.569-11.571@προέεργε</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς. <q>ἕρκος <rs type="ethnic" n="urn:cite:hmt:place.place96"
+                                        >Ἀχαιῶν</rs></q>, εἴργει τοὺς πολεμίους· ὥσπερ δὲ
+                                ἐπιλαθόμενος ὅτι φεύγειν αὐτὸν βούλεται <persName
+                                    n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>, ἀριστεύει πάλιν·
+                                ὁρμῶν γὰρ, ἵστατο καὶ ἀπετείχιζε <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρῶας</rs>· εὐκαιρίαν ἀκίνδυνον
+                                τοῦ φεύγειν ἐμποιῶν τοῖς φίλοις· ἔστιν οὖν θύνων. ἵστατο ⁑</p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="203" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="16">ιϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.574@ἆσαι</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐνεργητικὸν ἀντὶ παθητικοῦ· ὤφειλε γὰρ, ἄσασθαι ⁑</p>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="204" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="17">ιζ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.575-11.577@παρ' αὐτὸν</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>παθητικῶς <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName>
+                                ὑπ' <persName n="urn:cite:hmt:pers.pers244">Εὐρυπύλου</persName>
+                                εἰσάγει βοηθούμενον· νῦν γὰρ οὐκ ἔχει κρείσσονα τῶν ἄλλων
+                                τετρωμένων· εὖ δὲ τὸ μὴ τὸν. <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴαντα</persName> βοηθὸν ἐπικαλεῖσθαι. τὸν δὲ <persName
+                                    n="urn:cite:hmt:pers.pers244">Εὐρύπυλον</persName> αὐτομάτως
+                                ἥκειν ⁑</p>
                         </div>
                     </div>
 
