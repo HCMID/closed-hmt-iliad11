@@ -905,7 +905,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.101</p>
                         </div>
                         <div type="comment">
-                            <p>κατα διάστασιν ἐστι <q>βή ρα</q> εῖτα <q><persName
+                            <p>κατα διάστασιν ἐστι <q><sic>βή</sic> ρα</q> εῖτα <q><persName
                                         n="urn:cite:hmt:pers.pers486">Ἰσόν</persName> τε καὶ
                                         <persName n="urn:cite:hmt:pers.pers487"
                                     >Ἄντιφον</persName></q>. τὸ μέντοι ἐπιφερόμενον ἐν τῇ συντάξει
@@ -1099,11 +1099,11 @@
                             <p>ὅτι <choice>
                                     <abbr>δωδεκασύλλα</abbr>
                                     <expan>δωδεκασύλλαβος</expan>
-                                </choice> ὁ στίχος καὶ σπανίως χρῆται ὡς καὶ ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                            </choice> ὁ στίχος καὶ σπανίως χρῆται ὡς καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    ><choice>
                                         <abbr>οδ</abbr>
-                                        <expan>ὀδυσσείᾳ</expan>
-                                    </choice></title>
+                                        <expan>Ὀδυσσείᾳ</expan>
+                                    </choice></title></ref>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.15</ref>
                                     <q>τὼ δ' ἐν <placeName n="urn:cite:hmt:place.place185"
@@ -1156,7 +1156,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.141</p>
                         </div>
                         <div type="comment">
-                            <p>δασυντέον τὸ γὰρ εἶναι καὶ ἀφεῖναι παραγώγως γέγονεν ἑμεναι ὡς τὸ
+                            <p>δασυντέον τὸ γὰρ εἶναι καὶ ἀφεῖναι παραγώγως γέγονεν έμεναι ὡς τὸ
                                 θεῖναι θέμεναι ⁑</p>
                         </div>
                     </div>
@@ -1215,10 +1215,10 @@
                                 εἰσ ὸν κόπτουσιν ὄσπρια καὶ ἄλλα <choice>
                                     <sic>τινὰ</sic>
                                     <corr>τινά</corr>
-                                </choice>. ἡ διπλὴ δὲ ὅτι ἅπαξ ἐνταῦθα κέχρηται καὶ ὅτι ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001">ἰλιάδι</title> εὐτελέσι
-                                κέχρηται <sic>λεξιδίους</sic> οὐ μόνον ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</title>
+                                </choice>. ἡ διπλὴ δὲ ὅτι ἅπαξ ἐνταῦθα κέχρηται καὶ ὅτι ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title
+                                    >Ἰλιάδι</title></ref> εὐτελέσι
+                                κέχρηται <sic>λεξιδίους</sic> οὐ μόνον ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    >Ὀδυσσείᾳ</title></ref>
                                 <q>χοίνικος</q> καὶ <q>λύχνου</q> προς τοὺς Χωρίζοντας ⁑</p>
                         </div>
                     </div>
@@ -1324,8 +1324,8 @@
                             <p>λέγει ὁ <choice>
                                     <sic>τεχνικῶς</sic>
                                     <corr>τεχνικὸς</corr>
-                                </choice> ἐν τῶ ὑπομνήματι τοῦ <title
-                                    n="urn:cts:greekLit:tlg0087.tlg009">Περι παθῶν</title>
+                            </choice> ἐν τῶ ὑπομνήματι τοῦ <ref type="urn" n="urn:cts:greekLit:tlg0087.tlg009"><title
+                                    >Περι παθῶν</title></ref>
                                 <persName n="urn:cite:hmt:pers.pers175">Διδύμου</persName>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0087.tlg009</ref>
@@ -1334,9 +1334,9 @@
                                             <sic>ἐκθλιβεῖσα</sic> συλλαβῇ ἡ ἔχουσα τὴν ὀξεῖαν
                                         βραχεῖα. ἡ δὲ ὀπίσω συλλαβῇ φύσει μακρά τῷ τονικῷ
                                         παραγγέλματι γίνεται περισπώμενον</q>
-                                </cit>, περισπᾷ γοῦν τὸ <q>δῆλον</q>, ἐν δε <title
-                                    n="urn:cts:greekLit:tlg0087.tlg007">τῇ <rs>ὁμηρικῇ</rs>
-                                    προσῳδία</title>· ἐναντιοῦται τούτῳ ⁑</p>
+                                </cit>, περισπᾷ γοῦν τὸ <q>δῆλον</q>, ἐν δε <ref type="urn" n="urn:cts:greekLit:tlg0087.tlg007"><title
+                                    >τῇ <rs>ὁμηρικῇ</rs>
+                                    προσῳδία</title></ref>· ἐναντιοῦται τούτῳ ⁑</p>
                         </div>
                     </div>
                     <div n="78" type="scholion">
@@ -1361,10 +1361,10 @@
                         </div>
                         <div type="comment">
                             <p>ἡ <q>ἔκ</q> νῦν ἐπιπαν εἶναι ἀντι τοῦ <q>εκτὸς</q> κεῖται οὕτως οὖν
-                                καὶ ἐν <title n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                                καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title><choice>
                                         <abbr>οδ</abbr>
                                         <expan>ὀδυσσείᾳ</expan>
-                                    </choice></title>, κεῖται <cit>
+                                    </choice></title></ref>, κεῖται <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.134</ref>
                                     <q>θάνατος δέ τοι ἐξ αλὸς αὐτῷ</q>
                                 </cit> ⁑</p>
@@ -1751,8 +1751,8 @@
                                 </choice> ἔγημεν ὥσπερ καὶ παρα τοῖς <rs type="ethnic"
                                     n="urn:cite:hmt:place.place3">Ἕλλησι</rs>
                                 <persName n="urn:cite:hmt:pers.pers215">Διομήδης</persName>· ἡ διπλη
-                                δέ ὅτι ὡς ἐμπνευσθεὶς ἀνταποδέδωκε καθάπερ ἐν αρχῇ τῆς <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001">ἰ̈λιάδος</title>
+                                δέ ὅτι ὡς ἐμπνευσθεὶς ἀνταποδέδωκε καθάπερ ἐν αρχῇ τῆς <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title
+                                    >ἰ̈λιάδος</title></ref>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.8</ref>
                                     <q>τίς τ αρ σφωε θεῶν</q>
