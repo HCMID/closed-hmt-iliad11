@@ -406,14 +406,14 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι καὶ ἐπι τῆς <persName n="urn:cite:hmt:pers.pers129"
-                                    >Ἀλεξάνδρου</persName> μονομαχίας τὸ ὄμοιον ⁑</p>
+                                    >Ἀλεξάνδρου</persName> μονομαχίας τὸ <sic>ὄμοιον</sic> ⁑</p>
                         </div>
                     </div>
                     <div n="23" type="scholion">
                         <div type="lemma">
                             <p>ὀξέα τῆλε δὲ χαλκὸς ἀπ αυτοφιν <choice>
                                     <abbr>οὐνον</abbr>
-                                    <expan>οὐρανον</expan>
+                                    <expan>οὐρανὸν</expan>
                                 </choice> εἴσω ⁑</p>
                         </div>
                         <div type="ref">
@@ -442,7 +442,7 @@
                             <p>ὅτι δια τὸ μέτρον <choice>
                                     <sic>παρακείται</sic>
                                     <corr>παράκειται</corr>
-                                </choice> τὸ <rs type="waw">γ</rs> τὸν δε δοῦπον οὐκ ἂν εἴπη γδοῦπον
+                                </choice> τὸ <rs type="waw">γ</rs> τὸν δε δοῦπον οὐκ ἂν εἴπη <rs type="waw">γδοῦπον</rs>
                                 ⁑</p>
                         </div>
                     </div>
