@@ -2268,12 +2268,12 @@
                                 προπαροξυνόμενον προς γὰρ ἀντιδιαστολὴν τοῦ προπερισπωμένου
                                 ἐπιθετικοῦ ἐγένετο, τὸ μέντοι <q><persName
                                         n="urn:cite:hmt:pers.pers523">Πείραιος</persName></q>
-                                προπαροξυνόμενον παρὰ τὸ πειρὼ ἐγένετο ὡς παρὰ τὸ φιλῶ <q><persName
+                                προπαροξυνόμενον παρὰ τὸ <sic><q>πειρὼ</q></sic> ἐγένετο ὡς παρὰ τὸ <q>φιλῶ</q> <q><persName
                                         n="urn:cite:hmt:pers.pers524">Φίλαιος</persName></q>
                                 <choice>
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
-                                </choice> καὶ παπαρὰ τὸ <q>βέβηκα</q> ὁ <q>βέβαιος</q> ⁑</p>
+                                </choice> καὶ <choice><abbr>πα</abbr><expan>παρὰ</expan></choice> τὸ <q>βέβηκα</q> ὁ <q>βέβαιος</q> ⁑</p>
                         </div>
                     </div>
                     <div n="122" type="scholion">
@@ -2285,13 +2285,13 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.302</p>
                         </div>
                         <div type="comment">
-                            <p>προς τὴν ὠμωνυμίαν ὅτι καὶ <w><add place="above">τῶν</add></w>
+                            <p>προς τὴν <sic>ὠμωνυμίαν</sic> ὅτι καὶ <w><add place="above">τῶν</add></w>
                                 <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἐστὶ
                                     <persName n="urn:cite:hmt:pers.pers515">Δόλοψ</persName> αἰχμῆς <cit>
                                     <ref type="urn"
                                         >urn:cts:greekLit:tlg0012.tlg002:15.525-15.526</ref>
                                     <q>τόφρα δὲ τῶ ἐπόρουσε <persName n="urn:cite:hmt:pers.pers515"
-                                            >Δόλοψ</persName> αἰχμῆς εὖ εἰδῶς <persName
+                                            >Δόλοψ</persName> αἰχμῆς εὖ <sic>εἰδῶς</sic> <persName
                                             n="urn:cite:hmt:pers.pers515">Λαμπετίδης</persName></q>
                                 </cit>
                                 <persName n="urn:cite:hmt:pers.pers511">Λάμπου</persName> υἱὸς τοῦ
@@ -2303,7 +2303,7 @@
                     <div n="123" type="scholion">
                         <div type="lemma">
                             <p>πληθὺν ὡς ὁπότε <persName n="urn:cite:hmt:pers.pers320"
-                                    >Ζέφυρος</persName> στυφελίξῃ ἀργεστᾶοι <persName
+                                    >Ζέφυρος</persName> στυφελίξῃ ἀργεστᾶο <sic>ι</sic> <persName
                                     n="urn:cite:hmt:pers.pers520">Νότοιο</persName>:</p>
                         </div>
                         <div type="ref">
@@ -2317,7 +2317,7 @@
                                     στυφελίξῃ βαθείῃ λαίλαπι</q>. ὡς τὰ ὑπο τοῦ <persName
                                     n="urn:cite:hmt:pers.pers520">Νότου</persName> συναχθέντα νέφη
                                 τοῦ <persName n="urn:cite:hmt:pers.pers320">Ζεφύρου</persName>
-                                διασκίδναντος. καὶ χαριέντως πάνυ ἔχει ἡ ομοίωσις· καὶ γὰρ τοὺς <rs
+                                <sic>διασκίδναντος</sic>. καὶ χαριέντως πάνυ ἔχει ἡ ομοίωσις· καὶ γὰρ τοὺς <rs
                                     type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs> ὑπ
                                     <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>
                                 ἐπιστρεφεστέρους γινομένους, διέλυσεν ὁ <persName
@@ -2351,7 +2351,7 @@
                         <div type="comment">
                             <p>ἀπο τοῦ ἀργεστής ὀξυτόνου <rs type="ethnic"
                                     n="urn:cite:hmt:place.place30">Βοιωτιακὴ</rs> γενικῇ ἡ
-                                    <q>ἀργεστᾶο</q> προπερισπώμένως ⁑</p>
+                                    <q>ἀργεστᾶο</q> <sic>προπερισπώμένως</sic> ⁑</p>
                         </div>
                     </div>
                     <div n="126" type="scholion">
@@ -2363,11 +2363,11 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι τὸ <q>τρόφι</q> ἀποκοπῆ τοῦ <q>τρόφιμον</q> ὁ <persName
-                                    n="urn:cite:hmt:pers.pers">Ηρῳδιανός</persName> φησιν ὅτι έστη
+                                    n="urn:cite:hmt:pers.pers493">Ηρῳδιανός</persName> φησιν ὅτι έστη
                                 τῇ πήξει τῇ αὐξήσει <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.290</ref>
                                     <q>κύματά τε τροφέοντα</q>
-                                </cit> εὐτραφῆ καὶ τρόφαλις τὸ πεπηγὸς γάλα ⁑</p>
+                                </cit> εὐτραφῆ καὶ <sic>τρόφαλις</sic> τὸ πεπηγὸς γάλα ⁑</p>
                         </div>
                     </div>
                     <div n="127" type="scholion">
@@ -2390,7 +2390,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.314</p>
                         </div>
                         <div type="comment">
-                            <p>σημειοῦνται τινὲς ὅτι ἀριστίαν ἐνταῦθα <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                            <p>σημειοῦνται τινὲς ὅτι <sic>ἀριστίαν</sic> ἐνταῦθα <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
                                     >Ὀδυσσέως</title></ref> παράγει, τὸ
                                 δε δεῦρο εἰς τοῦτον τὸν τόπον ⁑</p>
                         </div>
