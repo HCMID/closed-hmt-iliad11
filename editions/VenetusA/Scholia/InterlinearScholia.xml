@@ -435,12 +435,12 @@
                             <p>εμμανᾶς ώρμων</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="2001" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.2001@ὰρ</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.73@ὰρ</p>
                         </div>
                         <div type="comment">
                             <p>α</p>
@@ -1322,7 +1322,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.237@ἐτράπετ'</p>
                         </div>
                         <div type="comment">
-                            <p>εἰς τοῦ πίσω ἀνετραπη</p>
+                            <p>εἰς τοῦ πίσω <choice><abbr>ἀνετραπ</abbr><expan>ἀνετράπη</expan></choice></p>
                         </div>
                     </div>
                     <div n="117" type="scholion">
@@ -1691,7 +1691,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.307@ἄχνη</p>
                         </div>
                         <div type="comment">
-                            <p>ὁ άφρος</p>
+                            <p>ὁ <sic>άφρος</sic></p>
                         </div>
                     </div>
                     <div n="150" type="scholion">
