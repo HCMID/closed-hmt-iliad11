@@ -1270,7 +1270,7 @@
                     </div>
                     <div n="74" type="scholion">
                         <div type="lemma">
-                            <p>χαλκῷ δῃϊόωντες:</p>
+                            <p>χαλκῷ <sic>δῃϊόωντες</sic>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.153</p>
@@ -2390,8 +2390,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.314</p>
                         </div>
                         <div type="comment">
-                            <p>σημειοῦνται τινὲς ὅτι ἀριστίαν ἐνταῦθα <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσέως</title> παράγει, τὸ
+                            <p>σημειοῦνται τινὲς ὅτι ἀριστίαν ἐνταῦθα <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    >Ὀδυσσέως</title></ref> παράγει, τὸ
                                 δε δεῦρο εἰς τοῦτον τὸν τόπον ⁑</p>
                         </div>
                     </div>
@@ -3119,8 +3119,8 @@
                                     <q>τοὺς ἕλε. οἱ δ' ἄλλοι φυγαδε μνώοντο</q>
                                 </cit> ἀντι γὰρ αἰτιατικῆς οὐ μετὰ τῆς <q>εις</q> δι' ὃ καί τινες
                                 ὑπέλαβον μὴ καὶ δύο μέρη λόγου εἰσίν· οὕτως <persName
-                                    n="urn:cite:hmt:pers.pers493">Ἡρῳδιανὸς</persName> ἐν τῇ <title
-                                    n="urn:cts:greekLit:tlg0087.tlg001">Καθόλου</title> ⁑</p>
+                                    n="urn:cite:hmt:pers.pers493">Ἡρῳδιανὸς</persName> ἐν τῇ <ref type="urn" n="urn:cts:greekLit:tlg0087.tlg001"><title
+                                    >Καθόλου</title></ref> ⁑</p>
                         </div>
                     </div>
                     <div n="171" type="scholion">
@@ -3328,8 +3328,7 @@
                                     <expan>γενομένη</expan>
                                 </choice> κλεῖν περισπᾶται τῆς εὐθείας ὀξυνομενης· ταῦτα <persName
                                     n="urn:cite:hmt:pers.pers493">Ἡρωδιανὸς</persName> ἐν τῷ
-                                πεντεκαιδεκάτῳ τῆς <title n="urn:cts:greekLit:tlg0087.tlg001"
-                                    >Καθόλου</title> ⁑</p>
+                                πεντεκαιδεκάτῳ τῆς <ref type="urn" n="urn:cts:greekLit:tlg0087.tlg001"><title>Καθόλου</title></ref> ⁑</p>
                         </div>
                     </div>
                     <div n="183" type="scholion">
@@ -3365,8 +3364,8 @@
                             <p><persName n="urn:cite:hmt:pers.pers300"><choice>
                                         <abbr>Ἀριστοτε</abbr>
                                         <expan>Ἀριστοτέλης</expan>
-                                    </choice></persName> ἐν τῷ <title
-                                    n="urn:cts:greekLit:tlg0086.tlg014">Περὶ ζῴων</title> φησὶ θῶας
+                            </choice></persName> ἐν τῷ <ref type="urn" n="urn:cts:greekLit:tlg0086.tlg014"><title
+                                    >Περὶ ζῴων</title></ref> φησὶ θῶας
                                 καὶ λέοντας πολέμια εἶναι σαρκοφάγα ὄντα καὶ ἀπο τῶν αὐτῶν τὴν
                                 τροφὴν ποριζόμενα, ἔμπειρος οὖν τούτων καὶ προ <persName
                                     n="urn:cite:hmt:pers.pers300">Ἀριστοτέλους</persName> ὁ ποιητής
@@ -4648,11 +4647,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.692</p>
                         </div>
                         <div type="comment">
-                            <p>πρὸς τοὺς Χωρίζοντας ὅτι ἐν μὲν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιάδι</title> δώδεκα
+                            <p>πρὸς τοὺς Χωρίζοντας ὅτι ἐν μὲν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title
+                                    >Ἰλιάδι</title></ref> δώδεκα
                                     <persName n="urn:cite:hmt:pers.pers204">Νηλῆος</persName> παῖδας
-                                λέγει, ἐν δὲ τῇ <title n="urn:cts:greekLit:tlg0012.tlg002"
-                                    >Ὀδυσσείᾳ</title> τρεῖς γεγονέναι ὡς γενεαλογεῖ <cit>
+                                λέγει, ἐν δὲ τῇ <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσείᾳ</title></ref> τρεῖς γεγονέναι ὡς γενεαλογεῖ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:11.281</ref>
                                     <q>καὶ <persName n="urn:cite:hmt:pers.pers645">Χλωρὶν</persName>
                                         ἴδον περικαλλέα</q>
@@ -4697,7 +4695,7 @@
                                     n="urn:cite:hmt:pers.pers47">Ποσειδών</persName>
                                 <persName n="urn:cite:hmt:pers.pers116">Ἥρᾳ</persName>
                                 <persName n="urn:cite:hmt:pers.pers201">Ἀϊδωνεύς</persName> ὡς καὶ
-                                ἐν τῇ <ref type="urn:cts:greekLit:tlg0012.tlg001:5"
+                                ἐν τῇ <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:5"
                                     ><title>Ε</title></ref> φησὶ, τῷ δε <persName
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλεῖ</persName> δύο <persName
                                     n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName> καὶ <persName
@@ -4780,8 +4778,7 @@
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> περι τῆς
-                                κοινωνίας λεγομένων ἐν <title n="urn:cts:greekLit:tlg0012.tlg002"
-                                    >Ὀδυσσείᾳ</title> μετάκειται ὁ στίχος ἔνθα καὶ εὔλογον αὐτοὺς τὰ
+                                κοινωνίας λεγομένων ἐν <ref type="urn"  n="urn:cts:greekLit:tlg0012.tlg002"><title>Ὀδυσσείᾳ</title></ref> μετάκειται ὁ στίχος ἔνθα καὶ εὔλογον αὐτοὺς τὰ
                                 λάφυρα ἐξ ίσου μερίζεσθαι, ἐνταῦθα δὲ οὐκ απέβαλεν ἐξ ίσου
                                 μερίζεσθαι, ἀλλ ανάλογον ἑκάστω τοῖς ὀφειλομένοις, οὐ γὰρ ἐκ πολέμου
                                 λαφυραγωγίας, <persName n="urn:cite:hmt:pers.pers15"
@@ -5335,10 +5332,10 @@
                                     <abbr>περιφραγματ</abbr>
                                     <expan>περιφραγματι</expan>
                                 </choice> τῆς αὐλῆς· χόρτοι δὲ οἱ τριγχοὶ ὡς καὶ <persName
-                                    n="urn:cite:hmt:pers.pers97">Εὐριπίδης</persName> ἐν <title
-                                    n="urn:cts:greekLit:tlg0006.tlg024">ἀντιόπῃ</title>, <q>σύγχορτα
+                                    n="urn:cite:hmt:pers.pers97">Εὐριπίδης</persName> ἐν <ref type="urn" n="urn:cts:greekLit:tlg0006.tlg024"><title
+                                    >ἀντιόπῃ</title></ref>, <q>σύγχορτα
                                         νέω παιδία ταῖς <placeName n="urn:cite:hmt:place.place295">Ἐλευθέραις</placeName></q>· καὶ ἐν
-                                    <title n="urn:cts:greekLit:tlg0006.tlg039">ανδρομάχῃ</title>
+                                <ref type="urn" n="urn:cts:greekLit:tlg0006.tlg039"><title>Ανδρομάχῃ</title></ref>
                                 ὁμοίως ⁑</p>
                         </div>
                     </div>
