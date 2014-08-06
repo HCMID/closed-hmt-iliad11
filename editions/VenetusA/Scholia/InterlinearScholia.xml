@@ -333,7 +333,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.54@μυδαλέας</p>
                         </div>
                         <div type="comment">
-                            <p>διαβόχους</p>
+                            <p>διαβρόχους</p>
                         </div>
                     </div>
                     <div n="28" type="scholion">
@@ -355,7 +355,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.62@ούλιος ἀστὴρ</p>
                         </div>
                         <div type="comment">
-                            <p>ολέθριος υκύων·</p>
+                            <p>ολέθριος ο κύων·</p>
                         </div>
                     </div>
                     <div n="30" type="scholion">
@@ -399,7 +399,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.69@ταρφέα</p>
                         </div>
                         <div type="comment">
-                            <p>συν εχ πυκνα:</p>
+                            <p><choice><abbr>συνεχ</abbr><expan>συνεχῆ</expan></choice> πυκνα:</p>
                         </div>
                     </div>
                     <div n="34" type="scholion">
@@ -421,7 +421,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.72@ἴσας δ' ὑσμίνη</p>
                         </div>
                         <div type="comment">
-                            <p>εξ ίσου τω ἀν τοῖς ὴ μαχ</p>
+                            <p><sic>εξίσουτω</sic> αὐτοῖς ἡ <choice><abbr>μαχ</abbr><expan>μάχη</expan></choice></p>
                         </div>
                     </div>
                     <div n="36" type="scholion">
@@ -432,7 +432,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.73@θῦνον</p>
                         </div>
                         <div type="comment">
-                            <p>εμμανᾶς ώρμων</p>
+                            <p>εμμανῶς ώρμων</p>
                         </div>
                     </div>
                     <div n="2001" type="scholion">
@@ -443,7 +443,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.73@ὰρ</p>
                         </div>
                         <div type="comment">
-                            <p>α</p>
+                            <p><rs type="waw">α</rs></p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
