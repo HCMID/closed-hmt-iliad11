@@ -531,7 +531,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.95@μετώπιον</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ μεταξὺ τῶν ὡ τῶν τὸ μεσόφρυον</p>
+                            <p>τὸ μεταξὺ τῶν ώτων τὸ μεσόφρυον</p>
                         </div>
                     </div>
                     <div n="46" type="scholion">
@@ -542,7 +542,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.96@στεφάνη</p>
                         </div>
                         <div type="comment">
-                            <p>εῖδος περικεφαλαιας:</p>
+                            <p>εῖδος <choice><abbr>πεκεφαλαιας</abbr><expan>περικεφαλαίας</expan></choice>:</p>
                         </div>
                     </div>
                     <div n="47" type="scholion">
