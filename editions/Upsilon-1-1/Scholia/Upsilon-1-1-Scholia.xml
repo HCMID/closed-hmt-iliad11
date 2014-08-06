@@ -113,7 +113,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.1@Τιθωνοῖο</p>
                         </div>
                         <div type="comment">
-                            <p>Ἱερώνυμος <note resp="Erbse">(fr. 15 we.)</note> φησὶ τὸν <persName
+                            <p><persName n="urn:cite:hmt:pers.pers648">Ἱερώνυμος</persName> <note resp="Erbse">(fr. 15 we.)</note> φησὶ τὸν <persName
                                     n="urn:cite:hmt:pers.pers483">Τιθωνὸν</persName> αἰτήσασθαι
                                 ἀθανασίαν παρὰ τῆς <persName n="urn:cite:hmt:pers.pers286"
                                     >Ἠοῦς</persName>, οὐ μέντοι καὶ ἀγηρασίαν· ὡς δὲ πολλῷ τῷ γήραϊ
@@ -1805,7 +1805,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.306@ἀργεστᾶο</p>
                         </div>
                         <div type="comment">
-                            <p>εἰ μὲν τὸν <persName>Εὔρον</persName> δηλοῖ, ἔστι κύριον
+                            <p>εἰ μὲν τὸν <persName n="urn:cite:hmt:pers.pers671">Εὔρον</persName> δηλοῖ, ἔστι κύριον
                                 προπαροξυνόμενον· εἰ δὲ ᾖ τοῦ νόθου ἐπίθετον. προπερισπᾶται· δηλοῖ
                                 δὲ ἢ τὸν λευκὸν ἢ τὸν ταχύν· εἰς τὸ <q><persName
                                         n="urn:cite:hmt:pers.pers520">Νότοιο</persName></q> δὲ ὀλίγη

@@ -40,7 +40,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.4@πολέμοιο</p>
                         </div>
                         <div type="comment">
-                            <p>επφραστικῶς τὸ πολέμοιος</p>
+                            <p><choice><abbr>πεφραστικῶς</abbr><expan>περιφραστικῶς</expan></choice>  τὸ <sic>πολέμοιος</sic></p>
                         </div>
                     </div>
                     <div n="3" type="scholion">
@@ -76,7 +76,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.11@ὄρθι'</p>
                         </div>
                         <div type="comment">
-                            <p>α</p>
+                            <p><rs type="waw">α</rs></p>
                         </div>
                     </div>
                     <div n="6" type="scholion">
@@ -87,7 +87,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.13@γένετ'</p>
                         </div>
                         <div type="comment">
-                            <p>ο</p>
+                            <p><rs type="waw">ο</rs></p>
                         </div>
                     </div>
                     <div n="7" type="scholion">
@@ -131,7 +131,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.24@οἶμοι</p>
                         </div>
                         <div type="comment">
-                            <p>μεταλητικῶς <choice>
+                            <p><w>μεταλη<unclear>π</unclear>τικῶς</w> <choice>
                                     <abbr>ἀντ</abbr>
                                     <expan>ἀντὶ</expan>
                                 </choice> τοῦ <rs type="waw">ῥάβδοι</rs></p>
