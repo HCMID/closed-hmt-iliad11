@@ -1589,7 +1589,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.282@άφρεον</p>
                         </div>
                         <div type="comment">
-                            <p>ί̈δρουν</p>
+                            <p><sic>ί̈δρουν</sic></p>
                         </div>
                     </div>
                     <div n="141" type="scholion">
@@ -1647,7 +1647,7 @@
                             <p><choice>
                                     <abbr>κατ</abbr>
                                     <expan>κατὰ</expan>
-                                </choice> πνευμα</p>
+                            </choice> <choice><abbr>πνευμ</abbr><expan>πνεῦμα</expan></choice></p>
                         </div>
                     </div>
                     <div n="146" type="scholion">
