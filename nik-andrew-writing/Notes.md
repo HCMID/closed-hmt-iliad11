@@ -57,3 +57,11 @@ Book X
 - αβροτάξομεν
 >- urn:cts:greekLit:tlg5026.msAil.hmt:10.90
 >- urn:cts:greekLit:tlg5026.msA.hmt:10.74
+
+- ἐγρήγορθαι 
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.92
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.76
+
+- ἄνωχθι
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.77
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.92
