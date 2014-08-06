@@ -611,7 +611,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.105@κνημοῖσι</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν τοῖς τροχέσι τόποις</p>
+                            <p>ἐν τοῖς τραχέσι τόποις</p>
                         </div>
                     </div>
                     <div n="54" type="scholion">
@@ -644,7 +644,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.105@λύγοισι</p>
                         </div>
                         <div type="comment">
-                            <p>φυτῶ τινὶ ὃ ἡμεῖς κύτινον κολοῦμεν</p>
+                            <p>φυτῶ τινὶ ὃ ἡμεῖς κύτινον καλοῦμεν</p>
                         </div>
                     </div>
                     <div n="57" type="scholion">
@@ -655,7 +655,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.106@ἔλυσεν ἀποίνων</p>
                         </div>
                         <div type="comment">
-                            <p>λυτρα δεξάμε ἀπέδωκεν:</p>
+                            <p>λυτρα <choice><abbr>δεξάμε</abbr><expan>δεξάμενος</expan></choice> ἀπέδωκεν:</p>
                         </div>
                     </div>
                     <div n="58" type="scholion">
@@ -734,7 +734,7 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>υπμένοντ</abbr>
-                                    <expan>ὑπομένοντ</expan>
+                                    <expan>ὑπομένοντα</expan>
                                 </choice> τὴν μάχην πολεμικήν·</p>
                         </div>
                     </div>
@@ -746,7 +746,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.124@Ἀλεξάνδροιο</p>
                         </div>
                         <div type="comment">
-                            <p>λλείπει ἡ παρα</p>
+                            <p><choice><abbr>λ</abbr><expan>λείπει</expan></choice> ἡ παρα</p>
                         </div>
                     </div>
                     <div n="66" type="scholion">
