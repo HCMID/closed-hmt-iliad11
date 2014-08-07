@@ -2935,14 +2935,14 @@
                     </div>
                     <div n="4001" type="scholion">
                         <div type="lemma">
-                            <p>αὐτὰρ ἔπετα <persName n="urn:cite:hmt:pers.pers541">Θόωνα</persName>. καὶ <persName n="urn:cite:hmt:pers.pers542">Ἔννομον</persName>,</p>
+                            <p>αὐτὰρ ἔπειτα <persName n="urn:cite:hmt:pers.pers541">Θόωνα</persName>. καὶ <persName n="urn:cite:hmt:pers.pers542">Ἔννομον</persName>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.422</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι οὗτος ὁ <persName n="urn:cite:hmt:pers.pers542">Ἔννομος</persName> ὁμώνυμος ἐστι τῷ ἐν τῷ δια κόσμῳ, <rs type="ethnic" n="urn:cite:hmt:place.place20">Μυσῶν</rs> δὲ <persName n="urn:cite:hmt:pers.pers635">Χρόμις</persName>
-                                ῆρχεζ' <persName n="urn:cite:hmt:pers.pers542">Ἔννομος</persName> ⁑</p>
+                                ῆρχε καὶ <persName n="urn:cite:hmt:pers.pers542">Ἔννομος</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="162" type="scholion">
@@ -3012,7 +3012,7 @@
                             <p>ὅτι ἐμφαίνει τὸν <persName n="urn:cite:hmt:pers.pers118"><choice>
                                         <abbr>οδ</abbr>
                                         <expan>Ὀδυσσέα</expan>
-                                    </choice></persName> ἐξ ἱστορίας παρειληφῶς δόλιον καὶ ἐπι τοῦτο <choice>
+                                    </choice></persName> ἐξ ἱστορίας <sic>παρειληφῶς</sic> δόλιον καὶ ἐπι τοῦτο <choice>
                                     <abbr>διαβεβλημε</abbr>
                                     <expan>διαβεβλημένον</expan>
                                 </choice> ⁑</p>
@@ -3047,8 +3047,8 @@
                                     >Ἀριστάρχου</persName>
                                 <persName n="urn:cite:hmt:pers.pers15">Ζηνοδότειος</persName> δέ
                                 ἐστιν ἡ <q>χρόα</q> στικτέον δὲ ἐπι το ἔργαθεν τὸ γὰρ λεγόμενον
-                                τοιοῦτόν ἐστι, τὸ δόρυ διελθῶν τὴν πανοπλίαν ὅλον τὸν επι ταῖς
-                                πλευραῖς χρώτα ἐχώρισεν αὐτῷ οἷον διέστασε τὰς σάρκας ἀπο τῶν οστῶν
+                                τοιοῦτόν ἐστι, τὸ δόρυ <sic>διελθῶν</sic> τὴν πανοπλίαν ὅλον τὸν επι ταῖς
+                                πλευραῖς <sic>χρώτα</sic> ἐχώρισεν αὐτῷ οἷον διέστασε τὰς σάρκας ἀπο τῶν οστῶν
                                 οὐ μὴν εἴασεν ἡ <persName n="urn:cite:hmt:pers.pers67"
                                     >Ἀθηνᾶ</persName>, κατα βαθος ἐλθεῖν. ὥστε τῶν ἐντοσθιδίων
                                 ἅψασθαι ⁑</p>
@@ -3065,7 +3065,7 @@
                         <div type="comment">
                             <p>αἱ <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχου</persName> οὕτως
                                     <q>τέλος</q>, καὶ σχεδὸν ἅπασαι ἔγνω, ὅτι οὐ κατα καίριον τέλος
-                                ἦλθεν ἡ πληγῆ οὐκ εις καίριον τόπον ἐτελεύτα <persName
+                                ἦλθεν ἡ <sic>πληγῆ</sic> οὐκ εις καίριον τόπον ἐτελεύτα <persName
                                     n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνόδοτ</abbr>
                                         <expan>Ζηνόδοτος</expan>
@@ -3075,14 +3075,14 @@
                     </div>
                     <div n="169" type="scholion">
                         <div type="lemma">
-                            <p>ἁδειλ'. ῆ μάλλα δη σε:</p>
+                            <p><sic>ἁ</sic> δειλ'. ῆ <sic>μάλλα</sic> δη σε:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.441</p>
                         </div>
                         <div type="comment">
                             <p>ἐπεὶ μετὰ τὰς προσαγορευτικὰς ἀνάγκη στίζειν ὡς καὶ ἡ συνήθεια
-                                μαρτυρεῖ <w>στί<del>χες</del>ζουσα</w> μετα τὴν δευτέραν λέξιν οὐκ
+                                μαρτυρεῖ <w>στί<del>χεσ</del>ζουσα</w> μετα τὴν δευτέραν λέξιν οὐκ
                                 έστι δὲ πλήρης. ἀλλὰ συνείληπται. οὕτως δὲ ἡμῶν ἀναγινωσκόντων
                                 πεπονθυῖαν τὴν λέξιν. βαρβαρισμὸς γίνεται εἴτε ὀξύνοιμεν εἴτε
                                 περισπάσοιμεν ἀναγκαίως ἐκ πλήρους γράφειν τὴν λέξιν <q>ᾶ δειλὲ</q>
@@ -3114,7 +3114,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.446</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς οἵκαδε ἰσοδυναμεῖ δὲ τὸ <q>εἰς φυγὴν</q> οὐ μὴν τῷ <cit>
+                            <p>ὡς <sic>οἵκαδε</sic> ἰσοδυναμεῖ δὲ τὸ <q>εἰς φυγὴν</q> οὐ μὴν τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:16.697</ref>
                                     <q>τοὺς ἕλε. οἱ δ' ἄλλοι φυγαδε μνώοντο</q>
                                 </cit> ἀντι γὰρ αἰτιατικῆς οὐ μετὰ τῆς <q>εις</q> δι' ὃ καί τινες
@@ -3131,7 +3131,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.445</p>
                         </div>
                         <div type="comment">
-                            <p>τῷ ἰσχυροὺς καὶ ὀνομαστοὺς ἵππους ἔχοντι ὅτι οὐδεῖς τὸν θάνατον
+                            <p>τῷ ἰσχυροὺς καὶ ὀνομαστοὺς ἵππους ἔχοντι ὅτι <sic>οὐδεῖς</sic> τὸν θάνατον
                                 διαφυγεῖν δύναται ‡</p>
                         </div>
                     </div>
