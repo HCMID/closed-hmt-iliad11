@@ -107,10 +107,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.418</p>
                         </div>
                         <div type="comment">
-                            <p>γ ε <choice>
-                                    <reg>ἐστιν</reg>
-                                    <orig>εἶναι</orig>
-                                </choice></p>
+                            <p><gap></gap><sic>ρ</sic> <w>εo<unclear>ν</unclear>τα</w>
+                                </p>
                         </div>
                     </div>
                     <div n="9" type="scholion">

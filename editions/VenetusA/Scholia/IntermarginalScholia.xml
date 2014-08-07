@@ -689,10 +689,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.405</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι έξωθεν ἡ <q>εἶς</q>
+                            <p>ὅτι <choice><abbr>έξωθ</abbr><expan>ἔξωθεν</expan></choice> ἡ <q>εἶς</q>
                                 <choice>
                                     <abbr>προθ</abbr>
-                                    <expan>προθεσις</expan>
+                                    <expan>πρόθεσις</expan>
                                 </choice> εἰς <choice>
                                     <abbr>πληθ</abbr>
                                     <expan>πληθύν</expan>
