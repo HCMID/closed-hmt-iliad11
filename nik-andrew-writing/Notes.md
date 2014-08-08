@@ -65,3 +65,49 @@ Book X
 - ἄνωχθι
 >- urn:cts:greekLit:tlg5026.msA.hmt:10.77
 >- urn:cts:greekLit:tlg5026.msAil.hmt:10.92
+
+- οὐρήων
+>-urn:cts:greekLit:tlg5026.msA.hmt:10.98
+>-urn:cts:greekLit:tlg5026.msAil.hmt:10.110
+
+- δείδια
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.100
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.112
+
+- καμάτω
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.103
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.115
+
+- κήδεσι μοχθήσσειν
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1018
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1019
+
+- ἵνα 
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1500
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1514
+
+- ἐκταδίην
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1518
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1501
+
+- οὔλη 
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1502
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1519
+
+- ὑπὸ κρασὶν
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1538
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1522
+
+- ὀλίγος δ᾽ ετί χῶρος
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.143
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1526
+
+- ἀμήχανος
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1529
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1545
+
+- ἐγρηγορτὶ 
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.1547
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.1561
+
+- Resume at urn:cts:greekLit:tlg5026.msA.hmt:10.2000
