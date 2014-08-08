@@ -3320,7 +3320,7 @@
                         <div type="comment">
                             <p>περισπαστέον, κατα νόμον τῶν μονοσυλλάβων αἰτιατικῶν. πᾶσα γὰρ
                                 αἰτιατικῇ μονοσύλλαβος εἰς <rs type="waw">ν</rs> λήγουσα περισπᾶται·
-                                ἀπέστραπται δὲ τὸν ὀξὺν τόνον· <q>μοῦν</q>
+                                ἀπέστραπται δὲ τὸν ὀξὺν τόνον· <q><sic>μοῦν</sic></q>
                                 <q>μνᾶν</q>
                                 <q>σῦν</q>
                                 <q>μῦν</q>, ταύτη καὶ ἡ κλεῖδα αἰτιατικὴ <choice>
@@ -3344,7 +3344,7 @@
                                         <corr>μῦς</corr>
                                     </choice></q>
                                 <q>μῦν</q>. τὸ γὰρ πληθυντικὸν παρὰ <persName
-                                    n="urn:cote:hmt:pers.pers86"><choice>
+                                    n="urn:cite:hmt:pers.pers86"><choice>
                                         <abbr>Καλλιμάχ</abbr>
                                         <expan>Καλλιμάχῳ</expan>
                                     </choice></persName>
@@ -3388,15 +3388,15 @@
                                 <choice>
                                     <abbr>προθ</abbr>
                                     <expan>προθέσει</expan>
-                                </choice>. ὡς καὶ ἐκεὶ <cit>
+                                </choice>. ὡς καὶ ἐκεῖ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.348</ref>
-                                    <q>ἔγχει ἑπαΐσσων</q>
+                                    <q>ἔγχει <sic>ἑπαΐσσων</sic></q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="186" type="scholion">
                         <div type="lemma">
-                            <p>στὴ δὲ παρὲξ,</p>
+                            <p>στῆ δὲ παρὲξ,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.486</p>
@@ -3492,9 +3492,7 @@
                                     </choice></persName> λέγειν ὅτι τὰ ὑπερ τρεῖς συλλαβὰς δια τοῦ
                                     <rs type="waw">ετος</rs> ἐκφερόμενα μὴ ἔχοντα παρασχηματισμὸν
                                 θηλυκοῦ. ἐπιθετικῶς μὲν λαμβανομενα τρίτην ἀπο τέλους θέλει ἔχειν
-                                τὴν ὀξεῖαν ὥσπερ ἔχει τὸ αμαιμάκετος περιμήκετος· τὸ δὲ <rs
-                                    type="waw">λα</rs>
-                                <q>λαπετὸς</q> μη ὃν ἐπιθετικὼῶν ὀξύνθη καὶ το <cit>
+                                τὴν ὀξεῖαν ὥσπερ ἔχει τὸ αμαιμάκετος περιμήκετος· τὸ δὲ <q><sic>λαλαπετὸς</sic></q> μη ὃν <choice><sic>ἐπιθετικὼν</sic><corr>ἐπιθετικῶν</corr></choice> ὀξύνθη καὶ το <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.479</ref>
                                     <q><persName n="urn:cite:hmt:pers.pers562"
                                         >Ϊαπετὸς</persName></q>
