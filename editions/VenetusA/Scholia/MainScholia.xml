@@ -3829,7 +3829,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.579</p>
                         </div>
                         <div type="comment">
-                            <p>πραπῖδες τὸ <w>διά<del>α</del>φραγμα</w>. ἐστι δὲ νευρώδης <sic>ὑμῆν</sic>
+                            <p><sic>πραπῖδες</sic> τὸ <w>διά<del>α</del>φραγμα</w>. ἐστι δὲ νευρώδης <sic>ὑμῆν</sic>
                                 διεζωκὼς τὰ σπλάγχνα ⁑</p>
                         </div>
                     </div>
@@ -3947,11 +3947,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.604</p>
                         </div>
                         <div type="comment">
-                            <p>σημειοῦνται τινὲς ὅτι οὐ πόρρωθεν ἡ προάναφώνησις. κακεῖ οὖν οὐκ επι
+                            <p>σημειοῦνται τινὲς ὅτι οὐ πόρρωθεν ἡ <sic>προάναφώνησις</sic>. κακεῖ οὖν οὐκ επι
                                 τὰ πόρρω ἡ ἀπότασις <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.5</ref>
                                     <q><persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> δ'
-                                        ἑτελείετο, βουλῇ</q>
+                                        <sic>ἑτελείετο</sic>, βουλῇ</q>
                                 </cit> ⁑</p>
                         </div>
                     </div>
@@ -3980,7 +3980,7 @@
                     </div>
                     <div n="225" type="scholion">
                         <div type="lemma">
-                            <p>ἐξ οχέων:τοὶ δ' ἰδρῶ <choice>
+                            <p>ἐξ οχέων:τοὶ δ' <sic>ἰδρῶ</sic> <choice>
                                     <abbr>ἀπεψύχοντ</abbr>
                                     <expan>ἀπεψύχοντο</expan>
                                 </choice>·</p>
