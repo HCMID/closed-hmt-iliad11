@@ -67,8 +67,8 @@ Book X
 >- urn:cts:greekLit:tlg5026.msAil.hmt:10.92
 
 - οὐρήων
->-urn:cts:greekLit:tlg5026.msA.hmt:10.98
->-urn:cts:greekLit:tlg5026.msAil.hmt:10.110
+>- urn:cts:greekLit:tlg5026.msA.hmt:10.98
+>- urn:cts:greekLit:tlg5026.msAil.hmt:10.110
 
 - δείδια
 >- urn:cts:greekLit:tlg5026.msA.hmt:10.100
