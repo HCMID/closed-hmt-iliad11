@@ -4574,7 +4574,7 @@
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> δὲ
                                 ἐπιστρατευσάμενος <placeName n="urn:cite:hmt:place.place65"
                                     >Ἤλιν</placeName> ἐπόρθησεν καὶ μετὰ πεμψάμενος τὸν <persName
-                                    n="urn:cite:hmt:pers.pers569">Φυλέα</persName> ἐκ δουλιχείου
+                                    n="urn:cite:hmt:pers.pers569">Φυλέα</persName> ἐκ <placeName n="urn:cite:hmt:place.place190">Δουλιχείου</placeName>
                                 παραδίδωσιν αὐτῷ τὴν βασιλείαν· <sic>ὀλιγανδρείας</sic> δὲ οὔσης, δια τὸ
                                 πολλοὺς ἐν τῷ πολέμῳ συνεφθάρθαι <persName
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> συγκατέκλινεν
@@ -4830,7 +4830,7 @@
                                 εὔλογον αὐτοὺς τὰ λάφυρα ἐξ ίσου μερίζεσθαι, ἐνταῦθα δὲ οὐκ απέβαλεν
                                 ἐξ ίσου μερίζεσθαι, ἀλλ ανάλογον ἑκάστω τοῖς ὀφειλομένοις, οὐ γὰρ ἐκ
                                 πολέμου λαφυραγωγίας, <persName n="urn:cite:hmt:pers.pers15"
-                                    >Ζηνόδοτος</persName>, οὐδὲ ἕγραφεν ⁑</p>
+                                    >Ζηνόδοτος</persName>, οὐδὲ <sic>ἕγραφεν</sic> ⁑</p>
                         </div>
                     </div>
                     <div n="264" type="scholion">
@@ -4841,7 +4841,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.705</p>
                         </div>
                         <div type="comment">
-                            <p>ὅπως μῆδεῖς ἀπέλθη στερηθεὶς τῆς ὁμοίας καὶ ἴσης τιμῆς ἴσης γὰρ τῆς
+                            <p>ὅπως <sic>μῆδεῖς</sic> ἀπέλθη στερηθεὶς τῆς ὁμοίας καὶ ἴσης τιμῆς ἴσης γὰρ τῆς
                                 τὸ δίκαι καὶ ἴσον ἐχούσης ⁑</p>
                         </div>
                     </div>
@@ -4882,7 +4882,7 @@
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers650">Ἄκτορος</persName> καὶ
                                     <persName n="urn:cite:hmt:pers.pers651">Μολίνης</persName>
-                                παίδας <persName n="urn:cite:hmt:pers.pers275">Κτέατον</persName>
+                                <sic>παίδας</sic> <persName n="urn:cite:hmt:pers.pers275">Κτέατον</persName>
                                 καὶ <persName n="urn:cite:hmt:pers.pers467">Εύρυτον</persName> κατά
                                 τινας δὲ <persName n="urn:cite:hmt:pers.pers651">Μολίνης</persName>
                                 καὶ <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνος</persName>.
@@ -4913,11 +4913,11 @@
                                     <abbr>ἀνων</abbr>
                                     <expan>ἀνθρώπων</expan>
                                 </choice>· διφυεῖς γὰρ· ῆσαν ἔχοντες ἑκάτερος δύο κεφαλὰς καὶ πόδας
-                                τοὺς ἴσους ἓν δὲ σῶμα. δια τοῦτο τοὺς πολεμίους καὶ γυμνικοὺς ἑνίκων
+                                τοὺς ἴσους ἓν δὲ σῶμα. δια τοῦτο τοὺς πολεμίους καὶ γυμνικοὺς <sic>ἑνίκων</sic>
                                 αγῶνας, <persName n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> δὲ
                                 πολεμῶν καὶ μη δυνάμενος κατα τουμφανὲς αὐτῶν περιγενέσθαι
                                 συμμαχούντών <persName n="urn:cite:hmt:pers.pers594"
-                                    >Αὐγέα</persName> λοχήσας αὐτοὺς ἀνεῖλεν καὶ οὕτως ἐπύρθησε τὴν
+                                    >Αὐγέα</persName> λοχήσας αὐτοὺς ἀνεῖλεν καὶ οὕτως <sic>ἐπύρθησε</sic> τὴν
                                     <placeName n="urn:cite:hmt:place.place65">Ήλιν</placeName>, ἡ
                                 ϊστορία παρα <persName n="urn:cite:hmt:pers.pers255"
                                     >Φερεκύδει</persName> ⁑</p>
@@ -4977,7 +4977,7 @@
                         </div>
                         <div type="comment">
                             <p>προτρέπει τὸν <persName n="urn:cite:hmt:pers.pers158"
-                                    >Πάτροκλον</persName>. δι ὦν αύτὸς καὶ νέος καὶ ὑπο <choice>
+                                    >Πάτροκλον</persName>. δι ὦν αὐτὸς καὶ νέος καὶ ὑπο <choice>
                                     <abbr>πρς</abbr>
                                     <expan>πατρὸς</expan>
                                 </choice> κωλυόμενος ὅμως πεζὸς ἐξῆλθεν ⁑</p>
@@ -5005,11 +5005,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.720-11.721</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ μὲν πρότερον ὡς περισπωμένως, τὸ δὲ ἕτερον κατ εγκλησιν ἐπει δηπερ
-                                τὸ μεταφραστικὸν αὐτοῦ ἔστιν ἐπεὶ οὗὕτως ῆγε νεῖκος ἡ <persName
-                                    n="urn:cite:hmt:pers.pers67">Αθηνᾶ</persName> ᾒ οὕτως ἔφερε τὸν
+                            <p>τὸ μὲν πρότερον ὡς περισπωμένως, τὸ δὲ ἕτερον κατ <sic>εγκλησιν</sic> ἐπειδηπερ
+                                τὸ μεταφραστικὸν αὐτοῦ ἔστιν ἐπεὶ <choice><sic>οὗτως</sic><corr>οὕτως</corr></choice> ῆγε νεῖκος ἡ <persName
+                                    n="urn:cite:hmt:pers.pers67">Αθηνᾶ</persName> <sic>ᾒ</sic> οὕτως ἔφερε τὸν
                                 πόλεμον ἡ <persName n="urn:cite:hmt:pers.pers67">Ἀθηνᾶ</persName>
-                                ὅπως ἐπιφανὴς γενήσωμαι ⁑</p>
+                                ὅπως ἐπιφανὴς <sic>γενήσωμαι</sic> ⁑</p>
                         </div>
                     </div>
                     <div n="273" type="scholion">
@@ -5032,9 +5032,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.725</p>
                         </div>
                         <div type="comment">
-                            <p>βραχὺ διασταλτέον κατα τὸ τελος τοῦ στίχου ὑπ ὅρθρον γὰρ ὁπλισθέντες.
+                            <p>βραχὺ διασταλτέον κατα τὸ τελος τοῦ στίχου ὑπ <sic>ὅρθρον</sic> γὰρ ὁπλισθέντες.
                                 πρὸς τὴν <placeName n="urn:cite:hmt:place.place166"
-                                    >Ἀρήνῃ</placeName> ὤδευσαν καὶ κατα μέσον ἡμέρας ἐπι τὸν
+                                    >Ἀρήνῃ</placeName> <sic>ὤδευσαν</sic> καὶ κατα μέσον ἡμέρας ἐπι τὸν
                                     <placeName n="urn:cite:hmt:place.place176">Αλφειὸν</placeName>
                                 παρεγένοντο ⁑</p>
                         </div>
