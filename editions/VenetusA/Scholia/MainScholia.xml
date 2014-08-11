@@ -4529,7 +4529,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.678</p>
                         </div>
                         <div type="comment">
-                            <p>παρὰ τὸ <q>πόᾳ</q> χρῆσθαι ἤτις ἐστὶν αὐτόποιητος: </p>
+                            <p>παρὰ τὸ <q>πόᾳ</q> χρῆσθαι <sic>ἤτις</sic> ἐστὶν <sic>αὐτόποιητος</sic>: </p>
                         </div>
                     </div>
                     <div n="251" type="scholion">
@@ -4558,11 +4558,11 @@
                             <p>καὶ γὰρ τὼ χρεῖος.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.683</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.700</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName>
-                                προστάξαντος εὑρυθέως, ἀνεκάθηρε τὴν <persName
+                                προστάξαντος <persName n="urn:cite:hmt:pers.pers391"><sic>Εὑρυθέως</sic></persName>, ἀνεκάθηρε τὴν <persName
                                     n="urn:cite:hmt:pers.pers594">Αὐγέου</persName> κόπρον.
                                 ἀπαιτοῦντι δὲ αὐτῷ τὸν μισθὸν οὐκ απεδίδου λέγων ἐξ επι τα γῆς αὐτὸν
                                 πεποιηκέναι <persName n="urn:cite:hmt:pers.pers569"
@@ -4575,7 +4575,7 @@
                                 ἐπιστρατευσάμενος <placeName n="urn:cite:hmt:place.place65"
                                     >Ἤλιν</placeName> ἐπόρθησεν καὶ μετὰ πεμψάμενος τὸν <persName
                                     n="urn:cite:hmt:pers.pers569">Φυλέα</persName> ἐκ δουλιχείου
-                                παραδίδωσιν αὐτῷ τὴν βασιλείαν· ὀλιγαν δρείας δὲ οὐσης, δια τὸ
+                                παραδίδωσιν αὐτῷ τὴν βασιλείαν· <sic>ὀλιγανδρείας</sic> δὲ οὔσης, δια τὸ
                                 πολλοὺς ἐν τῷ πολέμῳ συνεφθάρθαι <persName
                                     n="urn:cite:hmt:pers.pers71">Ἡρακλῆς</persName> συγκατέκλινεν
                                 τὰς τῶν τετελευτηκότῶν γυναῖκας τῷ στρατῷ, οὕτως τὲ πολλῶν
@@ -4583,19 +4583,19 @@
                                     >Διὶ̈</persName> τὸν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place45">Ὀλυμπιακὸν</rs> ἀγῶνα καὶ αὐτὸς
                                 πρῶτος τῶν ἀγώνων ἥψατο ἡ ἱστορία παρα <persName
-                                    n="urn:cite:hmt:pers.pesr86">Καλλιμάχῳ</persName> ⁑</p>
+                                    n="urn:cite:hmt:pers.pers86">Καλλιμάχῳ</persName> ⁑</p>
                         </div>
                     </div>
                     <div n="253" type="scholion">
                         <div type="lemma">
-                            <p>ἅμ' ἡοῖ φαινομένηφι</p>
+                            <p>ἅμ' <sic>ἡοῖ</sic> φαινομένηφι</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.685</p>
                         </div>
                         <div type="comment">
                             <p>τοῦτο τὸ ἡμιστίχιον καὶ τοῖς ἐπάνω δύναται προσδίδοσθαι καὶ τοῖς
-                                ἑξῆς. ἥτοι γὰρ ἡμερας γενομένης ἐκήρυσσον ὅπως ἐκεῖνοι συναχθῶσιν ἠ
+                                ἑξῆς. <sic>ἥτοι</sic> γὰρ ἡμερας γενομένης ἐκήρυσσον ὅπως ἐκεῖνοι συναχθῶσιν ἠ
                                 ἄλλοτε ἐκήρυσσον ἵνα ἐκεῖνοι ὑπο τὸν ὄρθρον ἔλθωσι. καὶ ἀμφότερα
                                 λόγον ἔχει ⁑</p>
                         </div>
@@ -4631,7 +4631,7 @@
                                     n="urn:cite:hmt:pers.pers8">Ὀλύμπιος Ζεὺς</persName> οὗ καὶ
                                 πανήγυρις παρα τριετῆ χρόνον ἤγετο τὰ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place45">Ὀλύμπια</rs> ἔνθα <del>ε</del>
-                                ἡγωνίζοντο, οἵ ἀπο τῆς <placeName n="urn:cite:hmt:place.place3"
+                                <sic>ἡγωνίζοντο</sic>, οἵ ἀπο τῆς <placeName n="urn:cite:hmt:place.place3"
                                     >Ἑλλάδος</placeName> πάντες, ἐστι δὲ πόλις τῆς <placeName
                                     n="urn:cite:hmt:place.place36">Πελοποννήσου</placeName> ⁑</p>
                         </div>
@@ -4650,7 +4650,7 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.689</ref>
                                     <q>ὃς</q>
                                 </cit>. ἀντι τοῦ ὅτι ἐστὶ κείμενον καὶ ἐὰν χωρίσωμεν δὲ, καὶ
-                                ἀκούωμεν καὶ οὕτως ἕσται θαυμαστικὸς ὁ λόγος περι τῆς καταφρονήσεως
+                                ἀκούωμεν καὶ οὕτως <sic>ἕσται</sic> θαυμαστικὸς ὁ λόγος περι τῆς καταφρονήσεως
                                 ἣν ἐποιήσαντο οἱ <rs type="ethnic" n="urn:cite:hmt:place.place65"
                                     >Ήλιοι</rs> περι τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place41">Πυλίων</rs> ⁑</p>
@@ -4759,7 +4759,7 @@
                         <div type="comment">
                             <p>τὸν <persName n="urn:cite:hmt:pers.pers117">Νέστορα</persName> φησὶ
                                 μόνον περισωθῆναι τῶν λοιπῶν τοῦ <persName
-                                    n="urn:cite:hmt:pers.pers204">Νηλέως</persName> παίδων. ἥτοι ὅτι
+                                    n="urn:cite:hmt:pers.pers204">Νηλέως</persName> παίδων. <sic>ἥτοι</sic> ὅτι
                                 νέος ὑπάρχων ἔξω ἐτρέφετο παρα τοῖς <rs type="ethnic"
                                     n="urn:cite:hmt:place.place115">Γερήνοις</rs>, ῆ ἐπεὶ
                                 συνεβούλευσεν εἰς ἀχθῆναι τὸν <persName n="urn:cite:hmt:pers.pers71"
@@ -4796,7 +4796,7 @@
                             <p>ὅτι φαντασίαν ὁ τόπος ἔχει ὡς τετρώρω ἅρματι χρωμένων τῶν ἡρώων. καὶ
                                 γὰρ λέγει <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.702</ref>
-                                    <q>τὸν δ' ἐλατήρ' ἀφίει'</q>
+                                    <q>τὸν δ' <sic>ἐλατήρ'</sic> ἀφίει <sic>'</sic></q>
                                 </cit>, συλληπτικῶς τὸν ἑκατέρας ἐλατῆρα ὡς <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.335</ref>
                                     <q>ἀμφίπολος δ' ἄρα οι</q>
