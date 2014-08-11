@@ -4458,8 +4458,8 @@
                                 </choice> βεβαρυτονῆσθαι δια τὴν αἰτιατικήν. <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:12.124</ref>
                                     <q><choice>
-                                            <reg>βόστριν</reg>
-                                            <orig>βόστρεϊν</orig>
+                                            <reg><sic>βόστριν</sic></reg>
+                                            <orig><sic>βόστρεϊν</sic></orig>
                                         </choice> δὲ <persName n="urn:cite:hmt:pers.pers652"
                                             >Κράτεὶν</persName></q>
                                 </cit>. τάχα δὲ καὶ τοῦτο πρὸς <choice>
@@ -4476,7 +4476,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.677</p>
                         </div>
                         <div type="comment">
-                            <p>αἴτημάτι στίζομεν κατα τὸ τέλος τοῦ στίχου πρεπωδέστερον γὰρ οὕτως
+                            <p><sic>αἴτημάτι</sic> στίζομεν κατα τὸ τέλος τοῦ στίχου πρεπωδέστερον γὰρ οὕτως
                                 κεχωρίσθαι τὰ ἑξῆς ⁑</p>
                         </div>
                     </div>
@@ -4489,7 +4489,7 @@
                         </div>
                         <div type="comment">
                             <p>λίαν ἠθροισμένην· καὶ ὁ ἠλίθιος ὁ παχὺς τὸν νοῦν καὶ μὴ δι ακριβής ἡ
-                                παρα τὸ ἀλῆσαι ὅ ἐστιν ἀθροῖσαι ⁑</p>
+                                παρα τὸ <sic>ἀλῆσαι</sic> ὅ ἐστιν ἀθροῖσαι ⁑</p>
                         </div>
                     </div>
                     <div n="249" type="scholion">
@@ -4498,7 +4498,7 @@
                                     >Ἰτυμονῆα</persName>.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.672</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.672-11.674</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers204">Νηλεὺς</persName> ὁ <persName
@@ -4514,10 +4514,10 @@
                                 καὶ τοὺς ἡνιόχους ἀφῆκεν ἀπράκτους. <persName
                                     n="urn:cite:hmt:pers.pers204">Νηλεὺς</persName> δὲ γνοὺς ησυχίαν
                                 ἦγε, <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> δὲ ὁ
-                                τῶν παίδων αὐτοῦ νεώτατος στράτειαν ἀθροίσας, ἐπῆλθεν <placeName
+                                τῶν παίδων αὐτοῦ νεώτατος στρατείαν ἀθροίσας, ἐπῆλθεν <placeName
                                     n="urn:cite:hmt:place.place65">Ήλιδι</placeName>. καὶ πολλοὺς
                                 ἀποκτείνας, ἀπέλαβε τοὺς ἵππους. καὶ οὐκ ολίγην τῶν πολεμίων
-                                ἀπεσύραν λίαν, ἡ ἱστορία παρα <persName
+                                <sic>ἀπεσύραν</sic> λίαν, ἡ ἱστορία παρα <persName
                                     n="urn:cite:hmt:pers.pers255">Φερεκύδει</persName> ⁑</p>
                         </div>
                     </div>
