@@ -5222,7 +5222,7 @@
                     </div>
                     <div n="285" type="scholion">
                         <div type="lemma">
-                            <p>‡ τόφρα γὰρ οὖν <sic>ἐπόμεσθα</sic> δι ἀσπιδέως
+                            <p>‡ τόφρα γὰρ οὖν <sic>ἐπόμεσθα</sic> δι <sic>ἀσπιδέως</sic>
                                 πεδίοιο:</p>
                         </div>
                         <div type="ref">
@@ -5230,7 +5230,7 @@
                         </div>
                         <div type="comment">
                             <p>ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName>
-                                <q>δια σπίδεως</q> ἐπεὶ ἐπιφέρει <cit>
+                                <q>δι <sic>ασπίδεως</sic></q> ἐπεὶ ἐπιφέρει <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.755</ref>
                                     <q>ἀνά τ' ἔντεα καλὰ λέγοντες</q>
                                 </cit>, τοιοῦτό τι λέγων τοῦ πολλὰς ἔχοντος ἀσπίδας, ὁ δὲ <persName
@@ -5245,7 +5245,7 @@
                                     <q>ἀσπίδεος</q> τοῦ ἔχοντος πολλὰς ἀσπίδας καθ ὅτι ἐπιφέρει <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:11.755</ref>
                                     <q>ἀνά τ' ἔντεα καλὰ λέγοντες</q>
-                                </cit>. οἱ δέ φασὶν ἐκ πλήρους <q>σπίδεος</q> καὶ
+                                </cit>. οἱ δέ φασὶν ἐκ πλήρους <q><sic>σπίδεος</sic></q> καὶ
                                 ἀποδιδόασι πολλοῦ καὶ μακροῦ, καὶ γὰρ <persName
                                     n="urn:cite:hmt:pers.pers225">Αἰσχῦλος</persName> πολλάκις τὴν
                                 λέξιν οὕτως ἔχουσαν τίθησιν ὅταν λέγῃ <q>σπίδιον μῆκος ὁδοῦ</q>, καὶ
@@ -5332,7 +5332,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.767</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ μὲν διπλη ὅτι χωρὶς τοῦ <rs type="waw">ν</rs> ὁμηρικῶς,
+                            <p>ἡ μὲν διπλη ὅτι χωρὶς τοῦ <rs type="waw">ν</rs> Ὁμηρικῶς,
                                     <q>ἡμεῖς</q> ἢ <q>ἡμᾶς</q>· ἀθετοῦνται δὲ ἀπο τούτου στίχοι <num
                                     value="19">ιθ</num> ἕως τοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.785</ref>
@@ -5388,7 +5388,7 @@
                         <div type="comment">
                             <p>ἐν τῷ <choice>
                                     <abbr>περιφραγματ</abbr>
-                                    <expan>περιφραγματι</expan>
+                                    <expan>περιφράγματι</expan>
                                 </choice> τῆς αὐλῆς· χόρτοι δὲ οἱ τριγχοὶ ὡς καὶ <persName
                                     n="urn:cite:hmt:pers.pers97">Εὐριπίδης</persName> ἐν <ref
                                     type="urn" n="urn:cts:greekLit:tlg0006.tlg024"
