@@ -4102,7 +4102,7 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>αντ</abbr>
-                                    <expan>αντὶ</expan>
+                                    <expan>ἀντὶ</expan>
                                 </choice> σήμαινε μήνυε</p>
                         </div>
                     </div>
@@ -4180,7 +4180,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.811@νότιος</p>
                         </div>
                         <div type="comment">
-                            <p>ὑγρὸς ὴ πολυς</p>
+                            <p>ὑγρὸς ἡ πολυς</p>
                         </div>
                     </div>
                     <div n="367" type="scholion">
@@ -4191,7 +4191,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.813@κελάρυζε</p>
                         </div>
                         <div type="comment">
-                            <p>μετα ήχου ἀνεφέρετἀνεφέρετο</p>
+                            <p>μετα ήχου <choice><abbr>ἀνεφέρετ</abbr><expan>ἀνεφέρετο</expan></choice></p>
                         </div>
                     </div>
                     <div n="368" type="scholion">
@@ -4248,7 +4248,7 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>ἀναιρεθίσοντ</abbr>
-                                    <expan>ἀναιρεθίσονται</expan>
+                                    <expan><sic>ἀναιρεθίσονται</sic></expan>
                                 </choice>:</p>
                         </div>
                     </div>
@@ -4262,7 +4262,7 @@
                         <div type="comment">
                             <p><choice>
                                     <abbr>αλέξημ</abbr>
-                                    <expan>αλέξημα</expan>
+                                    <expan>ἀλέξημα</expan>
                                 </choice> βοήθημα</p>
                         </div>
                     </div>
@@ -4274,7 +4274,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.830@νίζ'</p>
                         </div>
                         <div type="comment">
-                            <p>πλύνε</p>
+                            <p><sic>πλύνε</sic></p>
                         </div>
                     </div>
                     <div n="375" type="scholion">
@@ -4285,7 +4285,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.830@λιαρῷ</p>
                         </div>
                         <div type="comment">
-                            <p>ευκράτω χλιαρῷ</p>
+                            <p>ευκράτῳ χλιαρῷ</p>
                         </div>
                     </div>
                     <div n="376" type="scholion">
@@ -4309,7 +4309,7 @@
                         <div type="comment">
                             <p>πῶς <choice>
                                     <abbr>τουτ</abbr>
-                                    <expan>τούτο</expan>
+                                    <expan>τοῦτο</expan>
                                 </choice>
                                 <choice>
                                     <abbr>γένοιτ</abbr>
@@ -4358,7 +4358,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:11.847@ὀδυνήφατον</p>
                         </div>
                         <div type="comment">
-                            <p>οδύνων παυστικην</p>
+                            <p><sic>οδύνων</sic> <sic>παυστικην</sic></p>
                         </div>
                     </div>
                     <div n="382" type="scholion">
