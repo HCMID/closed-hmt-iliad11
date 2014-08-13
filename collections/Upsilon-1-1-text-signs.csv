@@ -300,14 +300,14 @@ urn:cite:hmt:e3footnotes.11-295,urn:cts:greekLit:tlg5026.e3.hmt:11.294,,,,urn:ci
 urn:cite:hmt:e3footnotes.11-296,urn:cts:greekLit:tlg5026.e3.hmt:11.295,,,,urn:cite:hmt:e3bifolio.E3_151bisv_152r,
 urn:cite:hmt:e3footnotes.11-297,urn:cts:greekLit:tlg5026.e3.hmt:11.296,,,,urn:cite:hmt:e3bifolio.E3_151bisv_152r,
 urn:cite:hmt:e3footnotes.11-298,urn:cts:greekLit:tlg5026.e3.hmt:11.297,,,,urn:cite:hmt:e3bifolio.E3_151bisv_152r,
-urn:cite:hmt:e3footnotes.11-299,urn:cts:greekLit:tlg5026.e3.hmt:11.298,urn:cts:greekLit:tlg0012.tlg001.e3:11.820@σχήσουσι,"IMG",1,urn:cite:hmt:e3bifolio.E3_152v_153r,1
-urn:cite:hmt:e3footnotes.11-300,urn:cts:greekLit:tlg5026.e3.hmt:11.299,urn:cts:greekLit:tlg0012.tlg001.e3:11.824@πεσέονται,"IMG",2,urn:cite:hmt:e3bifolio.E3_152v_153r,2
-urn:cite:hmt:e3footnotes.11-301,urn:cts:greekLit:tlg5026.e3.hmt:11.300,urn:cts:greekLit:tlg0012.tlg001.e3:11.829@ἔκταμ᾽,"IMG",3,urn:cite:hmt:e3bifolio.E3_152v_153r,3
-urn:cite:hmt:e3footnotes.11-302,urn:cts:greekLit:tlg5026.e3.hmt:11.301,urn:cts:greekLit:tlg0012.tlg001.e3:11.830@ἤπια,"IMG",4,urn:cite:hmt:e3bifolio.E3_152v_153r,4
-urn:cite:hmt:e3footnotes.11-303,urn:cts:greekLit:tlg5026.e3.hmt:11.302,urn:cts:greekLit:tlg0012.tlg001.e3:11.832@δικαιότατος,"IMG",5,urn:cite:hmt:e3bifolio.E3_152v_153r,5
-urn:cite:hmt:e3footnotes.11-304,urn:cts:greekLit:tlg5026.e3.hmt:11.303,urn:cts:greekLit:tlg0012.tlg001.e3:11.835@χρηΐζοντα,"IMG",6,urn:cite:hmt:e3bifolio.E3_152v_153r,6
-urn:cite:hmt:e3footnotes.11-305,urn:cts:greekLit:tlg5026.e3.hmt:11.304,urn:cts:greekLit:tlg0012.tlg001.e3:11.842@στέρνοιο,"IMG",7,urn:cite:hmt:e3bifolio.E3_152v_153r,7
-urn:cite:hmt:e3footnotes.11-306,urn:cts:greekLit:tlg5026.e3.hmt:11.305,urn:cts:greekLit:tlg0012.tlg001.e3:11.844@ἐκτανύσας,"IMG",8,urn:cite:hmt:e3bifolio.E3_152v_153r,8
-urn:cite:hmt:e3footnotes.11-307,urn:cts:greekLit:tlg5026.e3.hmt:11.306,urn:cts:greekLit:tlg0012.tlg001.e3:11.846@ῥίζαν,"IMG",9,urn:cite:hmt:e3bifolio.E3_152v_153r,9
-urn:cite:hmt:e3footnotes.11-308,urn:cts:greekLit:tlg5026.e3.hmt:11.307,urn:cts:greekLit:tlg0012.tlg001.e3:11.847@χερσὶ,"IMG",10,urn:cite:hmt:e3bifolio.E3_152v_153r,10
+urn:cite:hmt:e3footnotes.11-299,urn:cts:greekLit:tlg5026.e3.hmt:11.298,urn:cts:greekLit:tlg0012.tlg001.e3:11.820@σχήσουσι,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.3674,0.1997,0.018,0.0225",1,urn:cite:hmt:e3bifolio.E3_152v_153r,1
+urn:cite:hmt:e3footnotes.11-300,urn:cts:greekLit:tlg5026.e3.hmt:11.299,urn:cts:greekLit:tlg0012.tlg001.e3:11.824@πεσέονται,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.4775,0.2688,0.018,0.0225",2,urn:cite:hmt:e3bifolio.E3_152v_153r,2
+urn:cite:hmt:e3footnotes.11-301,urn:cts:greekLit:tlg5026.e3.hmt:11.300,urn:cts:greekLit:tlg0012.tlg001.e3:11.829@ἔκταμ᾽,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.3574,0.3544,0.03,0.027",3,urn:cite:hmt:e3bifolio.E3_152v_153r,3
+urn:cite:hmt:e3footnotes.11-302,urn:cts:greekLit:tlg5026.e3.hmt:11.301,urn:cts:greekLit:tlg0012.tlg001.e3:11.830@ἤπια,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.4304,0.3709,0.03,0.027",4,urn:cite:hmt:e3bifolio.E3_152v_153r,4
+urn:cite:hmt:e3footnotes.11-303,urn:cts:greekLit:tlg5026.e3.hmt:11.302,urn:cts:greekLit:tlg0012.tlg001.e3:11.832@δικαιότατος,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.4084,0.3994,0.03,0.027",5,urn:cite:hmt:e3bifolio.E3_152v_153r,5
+urn:cite:hmt:e3footnotes.11-304,urn:cts:greekLit:tlg5026.e3.hmt:11.303,urn:cts:greekLit:tlg0012.tlg001.e3:11.835@χρηΐζοντα,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.3343,0.4595,0.015,0.027",6,urn:cite:hmt:e3bifolio.E3_152v_153r,6
+urn:cite:hmt:e3footnotes.11-305,urn:cts:greekLit:tlg5026.e3.hmt:11.304,urn:cts:greekLit:tlg0012.tlg001.e3:11.842@στέρνοιο,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.3594,0.5766,0.021,0.0285",7,urn:cite:hmt:e3bifolio.E3_152v_153r,7
+urn:cite:hmt:e3footnotes.11-306,urn:cts:greekLit:tlg5026.e3.hmt:11.305,urn:cts:greekLit:tlg0012.tlg001.e3:11.844@ἐκτανύσας,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.6186,0.2162,0.022,0.0225",8,urn:cite:hmt:e3bifolio.E3_152v_153r,8
+urn:cite:hmt:e3footnotes.11-307,urn:cts:greekLit:tlg5026.e3.hmt:11.306,urn:cts:greekLit:tlg0012.tlg001.e3:11.846@ῥίζαν,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.6917,0.2538,0.022,0.0225",9,urn:cite:hmt:e3bifolio.E3_152v_153r,9
+urn:cite:hmt:e3footnotes.11-308,urn:cts:greekLit:tlg5026.e3.hmt:11.307,urn:cts:greekLit:tlg0012.tlg001.e3:11.847@χερσὶ,"urn:cite:hmt:e3bifolio.E3_152v_153r@0.5656,0.2673,0.022,0.0225",10,urn:cite:hmt:e3bifolio.E3_152v_153r,10
 
