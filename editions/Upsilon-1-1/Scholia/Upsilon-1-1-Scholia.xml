@@ -3993,246 +3993,607 @@
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="257" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="9">θ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.700@τρίποδος</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="258" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="10">ι</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.703@ἐπέων</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="259" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="11">ια</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.708@ἦλθον</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="260" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="12">ιβ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.711@Θρυόεσσα</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="261" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="13">ιγ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.715@ἄγγελος</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="262" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="14">ιδ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.717@οὐδέ με</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="263" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="15">ιε</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.719@οὐ γάρ</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="264" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="16">ιϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.721@πεζός</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="265" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="1">α</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.725@ἔνθεν</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="266" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="2">β</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.730@τελέεσσι</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="267" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><unclear><num value="3">γ</num></unclear></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.731@ἐν ἔντεσιν</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="268" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="4">δ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.734@σφιν</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="269" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="5">ε</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.738@ἕλον</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="270" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="6">ϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.741@φάρμακα</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="271" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="7">ζ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.754@σπιδέος</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="272" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="8">η</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.759@Ἀχαιοὶ</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="273" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="9">θ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.761@Νέστορί</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="274" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="10">ι</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.763@ἀπονήσεται</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="275" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="11">ια</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.764@μετακλαύσεσθαι</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
 
-                    <div n="x" type="scholion">
+                    <div n="276" type="scholion">
                         <div type="marker">
-                            <p/>
+                            <p><num value="12">ιβ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.765@σοί</p>
                         </div>
                         <div type="comment">
                             <p/>
                         </div>
                     </div>
-
+                    
+                    <div n="277" type="scholion">
+                        <div type="marker">
+                            <p><num value="13">ιγ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.767@ἐόντες</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="278" type="scholion">
+                        <div type="marker">
+                            <p><num value="14">ιδ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.769@Πηλῆος</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="280" type="scholion">
+                        <div type="marker">
+                            <p><num value="1">α</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.11.773@πίονα μηρί᾽</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
+                    <div n="281" type="scholion">
+                        <div type="marker">
+                            <p><num value="2">β</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.778@ἄγε χειρὸς</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="282" type="scholion">
+                        <div type="marker">
+                            <p><num value="3">γ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.779@εὖ παρέθηκεν</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="283" type="scholion">
+                        <div type="marker">
+                            <p><num value="4">δ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.785@ἐπέτελλε Μενοίτιος</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="284" type="scholion">
+                        <div type="marker">
+                            <p><num value="5">ε</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.787@πρεσβύτερος</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="285" type="scholion">
+                        <div type="marker">
+                            <p><num value="6">ϛ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.790@λήθεαι</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="286" type="scholion">
+                        <div type="marker">
+                            <p><num value="7">ζ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.792@οἶδ᾽ εἴ κέν</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="287" type="scholion">
+                        <div type="marker">
+                            <p><num value="8">η</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.794@θεοπροπίην</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
+                    <div n="288" type="scholion">
+                        <div type="marker">
+                            <p><num value="9">θ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="289" type="scholion">
+                        <div type="marker">
+                            <p><num value="10">ι</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="290" type="scholion">
+                        <div type="marker">
+                            <p><num value="11">ια</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="291" type="scholion">
+                        <div type="marker">
+                            <p><num value="12">ιβ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="292" type="scholion">
+                        <div type="marker">
+                            <p><num value="13">ιγ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="293" type="scholion">
+                        <div type="marker">
+                            <p><num value="14">ιδ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="294" type="scholion">
+                        <div type="marker">
+                            <p><num value="15">ιε</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="295" type="scholion">
+                        <div type="marker">
+                            <p><num value="16">ιϛ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="296" type="scholion">
+                        <div type="marker">
+                            <p><num value="17">ιζ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="297" type="scholion">
+                        <div type="marker">
+                            <p><num value="18">ιη</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="298" type="scholion">
+                        <div type="marker">
+                            <p><num value="1">α</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.820@σχήσουσι</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="299" type="scholion">
+                        <div type="marker">
+                            <p><num value="2">β</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.824@πεσέονται</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="300" type="scholion">
+                        <div type="marker">
+                            <p><num value="3">γ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.829@ἔκταμ᾽</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="301" type="scholion">
+                        <div type="marker">
+                            <p><num value="4">δ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.830@ἤπια</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="302" type="scholion">
+                        <div type="marker">
+                            <p><num value="5">ε</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.832@δικαιότατος</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="303" type="scholion">
+                        <div type="marker">
+                            <p><num value="6">ϛ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.835@χρηΐζοντα</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="304" type="scholion">
+                        <div type="marker">
+                            <p><num value="7">ζ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.842@στέρνοιο</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
+                    <div n="305" type="scholion">
+                        <div type="marker">
+                            <p><num value="8">η</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.844@ἐκτανύσας</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    
+                    <div n="306" type="scholion">
+                        <div type="marker">
+                            <p><num value="9">θ</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.846@ῥίζαν</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
+                    <div n="307" type="scholion">
+                        <div type="marker">
+                            <p><num value="10">ι</num></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.847@χερσὶ</p>
+                        </div>
+                        <div type="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    
                 </body>
             </text>
         </group>
