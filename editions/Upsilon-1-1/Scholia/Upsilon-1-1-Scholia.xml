@@ -3532,8 +3532,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.629@κυανόπεζαν</p>
                         </div>
                         <div type="comment">
-                            <p>πέζαν. οὐκ ἀεὶ τὸν πόδα ἀλλὰ καὶ τὸ ἄκρον λέγει· οὐκ ἔστι κυανόποδα·
-                                ἀλλὰ τὴν ἀπὸ κυάνου ἔχουσαν, τὸν κύκλον τὸν ἔξωθεν· ⁑</p>
+                            <p>πέζαν. οὐκ ἀεὶ τὸν πόδα ἀλλὰ καὶ τὸ ἄκρον λέγει· οὐκ ἔστι
+                                    <sic>κυανόποδα</sic>· ἀλλὰ τὴν ἀπὸ κυάνου ἔχουσαν, τὸν κύκλον
+                                τὸν ἔξωθεν· ⁑</p>
                         </div>
                     </div>
 
@@ -3642,7 +3643,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.639@Πραμνείῳ</p>
                         </div>
                         <div type="comment">
-                            <p>οἱ μὲ`ν μέλανι· οἱ δὲ` γένος ἀμπέλου· οἱ δὲ` αὐστηρῷ· οἱ δὲ` πραΰνοντι τὸ μένος· οἱ δὲ` μονίμῳ ⁑</p>
+                            <p>οἱ <sic>μὲ`ν</sic> μέλανι· οἱ <sic>δὲ`</sic> γένος ἀμπέλου· οἱ
+                                    <sic>δὲ`</sic> αὐστηρῷ· οἱ <sic>δὲ`</sic> πραΰνοντι τὸ μένος· οἱ
+                                    <sic>δὲ`</sic> μονίμῳ ⁑</p>
                         </div>
                     </div>
 
@@ -3657,7 +3660,7 @@
                             <p>πολλὴν ἔχουσαν ξηρότητα· ὅθεν καὶ <q>κάγκανα ξύλα</q> ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="237" type="scholion">
                         <div type="marker">
                             <p><num value="11">ια</num></p>
@@ -3666,10 +3669,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.645@ὁ γεραιὸς</p>
                         </div>
                         <div type="comment">
-                            <p>διὰ τὸν καιρόν· διδάσκει οὖν καὶ γέροντας νεοις εἴκειν πρὸς ὄφελος ⁑</p>
+                            <p>διὰ τὸν καιρόν· διδάσκει οὖν καὶ γέροντας νεοις εἴκειν πρὸς ὄφελος
+                                ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="238" type="scholion">
                         <div type="marker">
                             <p><num value="12">ιβ</num></p>
@@ -3678,175 +3682,227 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.647@ἀναίνετο</p>
                         </div>
                         <div type="comment">
-                            <p>προφασίζεται σπουδὴν. ἵνα καὶ μένων χαρίζοιτο, καὶ μὴ μένων ἀνέγκλητος εἴη ⁑</p>
+                            <p>προφασίζεται σπουδὴν. ἵνα καὶ μένων χαρίζοιτο, καὶ μὴ μένων
+                                ἀνέγκλητος εἴη ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="239" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="13">ιγ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.654@ἀναίτιον</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>πρὸς τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.649</ref>
+                                    <q>νεμεσητὸς</q>
+                                </cit> καὶ τοῦτο· ἐπιτείνει δὲ αὐτοῦ τὸ θυμικόν· ἵν' ἀναίτιος ᾖ μὴ
+                                πειθόμενος ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="240" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="14">ιδ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.656-11.658@ὀλοφύρεται</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>δια τί φησι οἰκτείρει τοὺς τετρωμένους· ἀγνοῶν τὴν παντελῆ ἀπώλειαν·
+                                δια τί τὸ κατ' ἄνδρα ἐλεεῖ <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλεὺς</persName> μὴ εἰδὼς τὸ πᾶν· ὅτι δὲ ἐλεεῖ· δῆλον ἐξ ὧν
+                                ἔπεμψε <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName>·
+                                πιθανῶς δὲ τῆς μὲν σπουδῆς αὐτὸν οὐ κωλύει. ἄρχεται δὲ λόγων εἰδὼς
+                                ὡς αἰδούμενος οὐ καταλείψει αὐτόν ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="241" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="15">ιε</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.665@ἐσθλὸς</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>δυνατός· ἤτοι δυνάμενος, οὐτε φιλίᾳ οὔτε ἐλέῳ δίδωσι χώραν· εὖ δὲ καὶ
+                                τὸ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> ἀλλὰ
+                                μὴ <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>·
+                                ἐάσας γὰρ τὸν αἴτιον τῆς ὀργῆς. τοὺς ἐλεεινοὺς προβάλλεται ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="242" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="16">ιϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.666@ἄγχι</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τὴν ὁλοσχερῆ τῶν νεῶν ἀπώλειαν ἐμφῆναι θέλει· εἰ μὴ γὰρ τὰς πρώτας
+                                καύσουσιν, οὐκ ἂν οὐδὲ τὰς παρὰ θάλασσαν ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="243" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="17">ιζ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.668-11.669@ἐπισχερώ</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>πικρῶς καθάπτεται τῆς ὠμότητος <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλέως</persName>. εἰ ἀναμένει τοὺς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs> ἑξῆς ἰδεῖν
+                                φονευομένους· ἐλεεινῶς δὲ καὶ ἑαυτὸν καταλέγει ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="244" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="18">ιη</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.669@οἵη</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἐρεθιστικὸν τοῦτο· εἴ γε ἐγὼ νέος ἦν φησιν. οὐκ ἂν ὑμῶν ἐδεόμεθα·
+                                ἐντέχνως δὲ πρὸς μὲν τοὺς θυμουμένους τὴν φρόνησιν· πρὸς δὲ τοὺς
+                                ἀργοῦντας τὴν ἥβην φέρει. ζῆλον ἐμποιῶν τῶν ἔργων ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="245" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="19">ιθ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.670@ἡβώοιμι</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>διδάσκει ὡς οὐ δεῖ ἐπὶ ἀπράκτοις ἀναλίσκειν τὰς ἡλικίας· ἴδια δὲ
+                                διηγεῖται κατορθώματα. εἰς ζῆλον καλῶν τὸν ἀκούοντα· καὶ διὰ τοῦ
+                                παρὰ γνώμην τοῦ <choice>
+                                    <abbr>πρς</abbr>
+                                    <expan>πατρὸς</expan>
+                                </choice> πολεμῆσαι προτρέπεται αὐτόν ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="246" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="20">κ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.671@ὁπότ᾽</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἐξ ἀναστροφῆς τὸ διήγημα· ἐπὶ γὰρ τοῖς ἐπιμηκεστέροις τῶν διηγημάτων;
+                                τὸ μὲν ἀπ' ἀρχῆς ἰέναι ἐπὶ τὴν ἀφήγησιν. ἀμβλυτέραν τὴν ἀκρόασιν
+                                καθίστησι· τὸ δὲ ἐκ τῶν πρακτικῶν ἄρχεσθαι, ἡδύ· ἡ δὲ ἀρχὴ τοῦ
+                                διηγήματος. οὕτως ἔχει· <persName n="urn:cite:hmt:pers.pers71"
+                                    >Ἡρακλῆς</persName> ἐκάκωσε τὴν <placeName
+                                    n="urn:cite:hmt:place.place41">Πύλον</placeName> καὶ τοὺς <num
+                                    value="11">ια</num> τῶν <persName n="urn:cite:hmt:pers.pers204"
+                                    >Νηλέως</persName> παίδων ἀνεῖλε· διὸ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place65">Ἠλεῖοι</rs> περιφρονήσαντες
+                                ἔθλιβον αὐτούς· καὶ δὴ <persName n="urn:cite:hmt:pers.pers594"
+                                    >Αὐγείας</persName> ὁ τῶν <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place65">Ἠλείων</rs> βασιλεὺς· ἀφικομένους
+                                ἵππους <persName n="urn:cite:hmt:pers.pers204">Νηλέως</persName> ἐπὶ
+                                    <rs type="geographic" n="urn:cite:hmt:place.place421"
+                                    >Ὀλυμπιακὸν</rs> ἀγῶνα· ἢ τινὰ τῶν ἐπιταφίων, ἀφείλετο· τοῦτο
+                                ἐκίνησε <rs type="ethnic" n="urn:cite:hmt:place.place41"
+                                    >Πυλίους</rs>· γενομένης δὲ μάχης. ἀποθνήσκουσι μὲν καὶ ἄλλοι.
+                                ἀλλὰ καὶ <persName n="urn:cite:hmt:pers.pers593"
+                                    >Ἰτυμονεὺς</persName> ὑπο τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers117">Νέστορος</persName>· νικήσαντες δὲ
+                                οἱ περὶ <placeName n="urn:cite:hmt:place.place41">Πύλον</placeName>.
+                                τὴν λείαν διενέμοντο· ἐπιστρατεύουσι δὲ αὐτοῖς ἡμέρᾳ τρίτῃ ἐκεῖνοι·
+                                πολιορκούντων δὲ αὐτῶν τὸν Θρυὸν. φήμη τίς ἦλθεν εἰς <placeName
+                                    n="urn:cite:hmt:place.place41">Πύλον</placeName> μηνύουσα τὴν
+                                ἔφοδον τῶν πολεμίων· στρατεύσαντες δὲ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place41">Πύλιοι</rs> πάλιν νικῶσι τοὺς <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place65">Ἠλείους</rs>. καὶ
+                                ἀριστεύει <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName>
+                                ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="247" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="21">κα</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.674@ῥύσι᾽</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τὰ ἀντὶ τινῶν ἑλκόμενα· οἱονεὶ ἅ ἀντὶ τῶν ἡρπασμένων ἡρπάζομεν ⁑</p>
                         </div>
                     </div>
-                    
-                    <div n="x" type="scholion">
+
+                    <div n="248" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p><num value="22">κβ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.675@πρώτοισιν</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἢ πρῶτον ἀνῃρῆσθαι αὐτόν φησιν. ἢ ἐν πρώτοις μαχόμενον ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="x" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="x" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="x" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="x" type="scholion">
                         <div type="marker">
-                            <p></p>
+                            <p/>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
 
