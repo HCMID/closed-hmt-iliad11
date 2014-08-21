@@ -3728,7 +3728,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.665@ἐσθλὸς</p>
                         </div>
                         <div type="comment">
-                            <p>δυνατός· ἤτοι δυνάμενος, οὐτε φιλίᾳ οὔτε ἐλέῳ δίδωσι χώραν· εὖ δὲ καὶ
+                            <p>δυνατός· ἤτοι δυνάμενος, οὔτε φιλίᾳ οὔτε ἐλέῳ δίδωσι χώραν· εὖ δὲ καὶ
                                 τὸ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> ἀλλὰ
                                 μὴ <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονος</persName>·
                                 ἐάσας γὰρ τὸν αἴτιον τῆς ὀργῆς. τοὺς ἐλεεινοὺς προβάλλεται ⁑</p>
@@ -3824,7 +3824,7 @@
                                     n="urn:cite:hmt:pers.pers117">Νέστορος</persName>· νικήσαντες δὲ
                                 οἱ περὶ <placeName n="urn:cite:hmt:place.place41">Πύλον</placeName>.
                                 τὴν λείαν διενέμοντο· ἐπιστρατεύουσι δὲ αὐτοῖς ἡμέρᾳ τρίτῃ ἐκεῖνοι·
-                                πολιορκούντων δὲ αὐτῶν τὸν Θρυὸν. φήμη τίς ἦλθεν εἰς <placeName
+                                πολιορκούντων δὲ αὐτῶν τὸν <placeName n="urn:cite:hmt:place.place222">Θρυὸν</placeName>. φήμη τίς ἦλθεν εἰς <placeName
                                     n="urn:cite:hmt:place.place41">Πύλον</placeName> μηνύουσα τὴν
                                 ἔφοδον τῶν πολεμίων· στρατεύσαντες δὲ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place41">Πύλιοι</rs> πάλιν νικῶσι τοὺς <rs
