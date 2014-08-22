@@ -4001,7 +4001,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.700@τρίποδος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐκ οἶδε τὰ <rs type="geographic" n="urn:cite:hmt:place.place421"
+                                    >Ὀλύμπια</rs> ὁ ποιητὴς. ἀλλὰ περί τινος χρηματικοῦ ἀγῶνος φησὶν
+                                ἀπελθεῖν τοὺς ἵππους· ⁑</p>
                         </div>
                     </div>
 
@@ -4013,7 +4015,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.703@ἐπέων</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δείκνυσιν ὅτι οὐ μόνον τοὺς ἵππους ἀφείλετο. ἀλλὰ καὶ αὐτὸν
+                                ἐβλασφήμει ἐν τῇ ἀφαιρέσει ⁑</p>
                         </div>
                     </div>
 
@@ -4025,7 +4028,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.708@ἦλθον</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἰς τὸ <q>ὁμῶς</q> ὀλίγη διαστολή ⁑</p>
                         </div>
                     </div>
 
@@ -4034,10 +4037,22 @@
                             <p><num value="12">ιβ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.711@Θρυόεσσα</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.711-11.712@Θρυόεσσα</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><placeName n="urn:cite:hmt:place.place222">Θρυόεσσαν</placeName>
+                                λέγει. ἣν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.592</ref>
+                                    <q>καὶ <placeName n="urn:cite:hmt:place.place222"
+                                            >Θρύον</placeName></q>
+                                </cit> εἶπεν· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.592</ref>
+                                    <q><placeName n="urn:cite:hmt:place.place176"
+                                            >Ἀλφειοῖο</placeName> πόρον</q>
+                                </cit>· αἱ περιγραφαὶ δὲ. προσεκτικοὺς ἀπεργάζονται τοὺς ἀκροατάς·
+                                ἔστι δὲ ὅριον ἔσχατον. ὁρίζον <placeName
+                                    n="urn:cite:hmt:place.place41">Πύλον</placeName> καὶ <placeName
+                                    n="urn:cite:hmt:place.place65">Ἦλιν</placeName> ⁑</p>
                         </div>
                     </div>
 
@@ -4049,7 +4064,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.715@ἄγγελος</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὐ πεμφθεῖσα ὑπό τινος ἀλλ' ἀφ' ἑαυτῆς· ἧκε δὲ ὅτι τότε μὲν. πρὸς
+                                ἀγροίκους ἦν ἡ μάχη· νῦν δὲ πρὸς ἐμπείρους πολεμου ⁑</p>
                         </div>
                     </div>
 
@@ -4061,7 +4077,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.717@οὐδέ με</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τεχνικῶς τῷ παραδείγματι διδάσκει <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατροκλον</persName> εἰ καὶ
+                                    <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> αὐτὸν
+                                εἴργει, λαθόντα προελθεῖν εἰς μάχην ⁑</p>
                         </div>
                     </div>
 
@@ -4073,7 +4092,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.719@οὐ γάρ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καὶ πῶς πρότερον ἐνίκησεν· ὅτι πρὸς ἀπείρους ἦν ἡ μάχη· τὰ δὲ νῦν
+                                πρὸς ἐπιστήμονας ⁑</p>
                         </div>
                     </div>
 
@@ -4085,7 +4105,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.721@πεζός</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>καὶ τοῦτο πρὸς ἔλεγχον <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName>, τοῦ θαυμαστὸν ἱππικὸν ἔχοντος ⁑</p>
                         </div>
                     </div>
 
@@ -4232,7 +4252,7 @@
                             <p/>
                         </div>
                     </div>
-                    
+
                     <div n="277" type="scholion">
                         <div type="marker">
                             <p><num value="13">ιγ</num></p>
@@ -4244,7 +4264,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="278" type="scholion">
                         <div type="marker">
                             <p><num value="14">ιδ</num></p>
@@ -4256,7 +4276,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="280" type="scholion">
                         <div type="marker">
                             <p><num value="1">α</num></p>
@@ -4265,10 +4285,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.11.773@πίονα μηρί᾽</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="281" type="scholion">
                         <div type="marker">
                             <p><num value="2">β</num></p>
@@ -4280,7 +4300,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="282" type="scholion">
                         <div type="marker">
                             <p><num value="3">γ</num></p>
@@ -4292,7 +4312,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="283" type="scholion">
                         <div type="marker">
                             <p><num value="4">δ</num></p>
@@ -4304,7 +4324,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="284" type="scholion">
                         <div type="marker">
                             <p><num value="5">ε</num></p>
@@ -4316,7 +4336,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="285" type="scholion">
                         <div type="marker">
                             <p><num value="6">ϛ</num></p>
@@ -4328,7 +4348,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="286" type="scholion">
                         <div type="marker">
                             <p><num value="7">ζ</num></p>
@@ -4340,7 +4360,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="287" type="scholion">
                         <div type="marker">
                             <p><num value="8">η</num></p>
@@ -4349,10 +4369,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.794@θεοπροπίην</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="288" type="scholion">
                         <div type="marker">
                             <p><num value="9">θ</num></p>
@@ -4364,7 +4384,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="289" type="scholion">
                         <div type="marker">
                             <p><num value="10">ι</num></p>
@@ -4376,7 +4396,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="290" type="scholion">
                         <div type="marker">
                             <p><num value="11">ια</num></p>
@@ -4388,7 +4408,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="291" type="scholion">
                         <div type="marker">
                             <p><num value="12">ιβ</num></p>
@@ -4400,7 +4420,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="292" type="scholion">
                         <div type="marker">
                             <p><num value="13">ιγ</num></p>
@@ -4412,7 +4432,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="293" type="scholion">
                         <div type="marker">
                             <p><num value="14">ιδ</num></p>
@@ -4424,7 +4444,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="294" type="scholion">
                         <div type="marker">
                             <p><num value="15">ιε</num></p>
@@ -4436,7 +4456,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="295" type="scholion">
                         <div type="marker">
                             <p><num value="16">ιϛ</num></p>
@@ -4448,7 +4468,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="296" type="scholion">
                         <div type="marker">
                             <p><num value="17">ιζ</num></p>
@@ -4460,7 +4480,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="297" type="scholion">
                         <div type="marker">
                             <p><num value="18">ιη</num></p>
@@ -4472,7 +4492,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="298" type="scholion">
                         <div type="marker">
                             <p><num value="1">α</num></p>
@@ -4484,7 +4504,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="299" type="scholion">
                         <div type="marker">
                             <p><num value="2">β</num></p>
@@ -4496,7 +4516,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="300" type="scholion">
                         <div type="marker">
                             <p><num value="3">γ</num></p>
@@ -4508,7 +4528,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="301" type="scholion">
                         <div type="marker">
                             <p><num value="4">δ</num></p>
@@ -4520,7 +4540,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="302" type="scholion">
                         <div type="marker">
                             <p><num value="5">ε</num></p>
@@ -4532,7 +4552,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="303" type="scholion">
                         <div type="marker">
                             <p><num value="6">ϛ</num></p>
@@ -4544,7 +4564,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="304" type="scholion">
                         <div type="marker">
                             <p><num value="7">ζ</num></p>
@@ -4553,10 +4573,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.842@στέρνοιο</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p/>
                         </div>
                     </div>
-                    
+
                     <div n="305" type="scholion">
                         <div type="marker">
                             <p><num value="8">η</num></p>
@@ -4568,8 +4588,8 @@
                             <p> </p>
                         </div>
                     </div>
-                    
-                    
+
+
                     <div n="306" type="scholion">
                         <div type="marker">
                             <p><num value="9">θ</num></p>
@@ -4581,7 +4601,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                     <div n="307" type="scholion">
                         <div type="marker">
                             <p><num value="10">ι</num></p>
@@ -4593,7 +4613,7 @@
                             <p> </p>
                         </div>
                     </div>
-                    
+
                 </body>
             </text>
         </group>
