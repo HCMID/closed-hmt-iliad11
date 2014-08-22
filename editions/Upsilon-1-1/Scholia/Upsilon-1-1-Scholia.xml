@@ -4449,8 +4449,10 @@
                         <div type="comment">
                             <p>εἰδὼς τὸ φιλόδοξον αὐτοῦ. ἐρεθίζει· φιλοψυχίαν καὶ φόβον κινδύνων
                                 ὀνειδίζων· δύο δὲ προβέβληται. καὶ ἀμφοτέρων ἐπέτυχεν· ἔστι δὲ
-                                ἁπάσης ἀντιλογίας στερητικόν· <choice><sic>βοήθείτω</sic><corr>βοηθείτω</corr></choice> γάρ φησι μὴ κινδυνεύων
-                                αὐτός ⁑</p>
+                                ἁπάσης ἀντιλογίας στερητικόν· <choice>
+                                    <sic>βοήθείτω</sic>
+                                    <corr>βοηθείτω</corr>
+                                </choice> γάρ φησι μὴ κινδυνεύων αὐτός ⁑</p>
                         </div>
                     </div>
 
@@ -4459,10 +4461,15 @@
                             <p><num value="9">θ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.798</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>οἶδε τὸ φιλότιμον <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλέως</persName>. ὅπως ἡ δόξα τῆς μάχης πάλιν εἰς αὐτὸν
+                                ἀναδράμῃ· ἅμα δὲ καὶ θεραπείαν ἔχει <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλέως</persName>· εἰ τὰ ἐκείνου
+                                ὅπλα ὀφθέντα καὶ ἄλλος τίς δόξας εἶναι <persName
+                                    n="urn:cite:hmt:pers.pers1">Ἀχιλλεὺς</persName> ἀριστεύει ⁑</p>
                         </div>
                     </div>
 
@@ -4471,10 +4478,10 @@
                             <p><num value="10">ι</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.800</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>εὖ τὸ ἐπίθετον· πολεμικοὶ μὲν ὄντες. τὸ δὲ νῦν δυστυχοῦντες ⁑</p>
                         </div>
                     </div>
 
@@ -4483,10 +4490,13 @@
                             <p><num value="11">ια</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.801</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>πρὸς τὴν ἀνάγκην, μόνον φησί μικρὸν συμμαχῆσαι δεῖ· ἐν βραχεῖ γὰρ καὶ
+                                συντόμῳ δύναται αὐτοῖς τὰ τῆς ἐπικουρίας γενέσθαι· ἡ ἀνάπνευσις φησι
+                                τῶν νικωμένων, παρὰ μικρὰν ῥοπὴν γίνεται· καὶ πολλάκις ἑνὸς ἀνδρὸς
+                                ἐπιφάνεια· ἢ φόβου ὑπόνοια, μεγίστην ποιεῖ μεταβολήν ⁑</p>
                         </div>
                     </div>
 
@@ -4495,10 +4505,12 @@
                             <p><num value="12">ιβ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.802</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>ἢ τοὺς κεκοπωμένους τῇ μάχῃ. ἢ τοῦτο φησὶν· ὅτι οἱ ἀναπαυόμενοι τοὺς
+                                κεκοπωμένους. ἀϋτῇ μόνῃ· ἤτοι βοῇ ὤσεσθε· τοῦτο γὰρ οἰκειότερον
+                                εἰπεῖν, τῷ ῥᾳδίαν ἀποφαίνοντι τὴν νίκην ⁑</p>
                         </div>
                     </div>
 
@@ -4507,10 +4519,11 @@
                             <p><num value="13">ιγ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.805</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>διὰ τοῦ θέειν ἐδήλωσεν. ὅσην εἶχε προθυμίαν· ὅθεν καὶ ἐπαναλαμβάνεται
+                                πάλιν τὴν λέξιν ⁑</p>
                         </div>
                     </div>
 
@@ -4519,10 +4532,11 @@
                             <p><num value="14">ιδ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.809</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>οἰκονομικῶς· ἵνα καὶ τῇ θέᾳ τοῦ τρωθέντος καὶ τοῖς λόγοις πλέον
+                                ὀρινθῆ, καὶ τῷ ἐσομένῳ πτώματι τοῦ τείχους ⁑</p>
                         </div>
                     </div>
 
@@ -4531,10 +4545,11 @@
                             <p><num value="15">ιε</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.811-11.813</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>διὰ βραχέων πολλὰ δεδήλωκε· τοῦ μὲν γὰρ καμάτου σημεῖον ὁ ἱδρώς· τοῦ
+                                τραύματος τὸ αἷμα· τῆς ἀλγηδόνος δὲ τὸ σκάζειν ⁑</p>
                         </div>
                     </div>
 
@@ -4543,10 +4558,10 @@
                             <p><num value="16">ιϛ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.811</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>ὁ ἐκ τοῦ νοσεῖν τὸ σῶμα γινόμενος ⁑</p>
                         </div>
                     </div>
 
@@ -4555,10 +4570,12 @@
                             <p><num value="17">ιζ</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.813</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>οἰκονομικῶς αὐτῷ τὸν νοῦν ἐφύλαξεν ὁ ποιητὴς. ἵνα <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> εὐσταθῶς ὁμιλῇ
+                                ⁑</p>
                         </div>
                     </div>
 
@@ -4567,10 +4584,15 @@
                             <p><num value="18">ιη</num></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.x</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:11.816</p>
                         </div>
                         <div type="comment">
-                            <p> </p>
+                            <p>εὖ τὸ μὴ πρὸς <persName n="urn:cite:hmt:pers.pers244"
+                                    >Εὐρύπυλον</persName> ποιήσθαι τὸν λόγον· <sic>μὴδὲ</sic> τὴν
+                                τούτου συμφορὰν ἀπολοφύρασθαι. ἀλλὰ τοὺς σύμπαντας ἡγεμόνας
+                                ἀνακαλεῖν. καὶ τούτων θρηνεῖν τὰ παθήματα ὡς ἐν τῷ <persName
+                                    n="urn:cite:hmt:pers.pers244">Εὐρυπύλῳ</persName> αὐτὰ θεώμενον
+                                ⁑</p>
                         </div>
                     </div>
 
