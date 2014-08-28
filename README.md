@@ -4,4 +4,4 @@ Repository of the Holy Cross team working on diplomatic editions of *Iliad* 11 i
 
 ## Validation ##
 
-See information on [HMT web site](http://www.homermultitext.org/hmt-docs/guides/)
+- See information on [HMT web site](http://www.homermultitext.org/hmt-docs/guides/)
